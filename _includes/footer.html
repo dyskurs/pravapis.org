@@ -1,0 +1,35 @@
+		<footer>
+			<div class="container">
+				<p class="editor-link"><a href="cloudcannon:collections/_data/footer.yml" class="btn"><strong>&#9998;</strong> Update Footer Sections</a></p>
+
+				<div class="footer-columns">
+					{% for column in site.data.footer[page.lang] %}
+						<ul class="footer-links">
+							<li>
+								<h2>{{ column.title }}</h2>
+							</li>
+							{% for item in column.items %}
+								<li>
+									{{ item.content }}
+								</li>
+							{% endfor %}
+						</ul>
+					{% endfor %}
+
+					<ul class="footer-links">
+						<li>
+							<h2>{{ site.data.company[page.lang].title }}</h2>
+						</li>
+						<li>{{ site.data.company[page.lang].description }}</li>
+						<li><a href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %}{{ site.data.company[page.lang].subscribeRSS }}</a></li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="legal-line">
+				<p class="container">
+					&copy; {{ site.data.company[page.lang].time | date: '%Y' }} {{ site.data.company[page.lang].title }} &bull;
+					{{ site.data.company[page.lang].archivedby_text }} <a href="{{ site.data.company[page.lang].archiverurl }}" target="_blank">{{ site.data.company[page.lang].archivertitle }}</a>
+				</p>
+			</div>
+		</footer>
