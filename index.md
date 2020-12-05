@@ -1,6 +1,6 @@
 ---
 title: Pravapis·org
-call_to_action: " "
+call_to_action: 
 background_image_path:
 lang: en
 ---
