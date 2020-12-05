@@ -101,7 +101,7 @@
 			<div class="legal-line">
 				<p class="container">
 					&copy; {{ site.data.company[page.lang].time | date: '%Y' }} {{ site.data.company[page.lang].title }} &bull;
-					Archived by <a href="{{ site.data.company[page.lang].archiverurl }}" target="_blank">{{ site.data.company[page.lang].archivertitle }}</a>
+					{{ site.data.company[page.lang].archivedby_text }} <a href="{{ site.data.company[page.lang].archiverurl }}" target="_blank">{{ site.data.company[page.lang].archivertitle }}</a>
 				</p>
 			</div>
 		</footer>
