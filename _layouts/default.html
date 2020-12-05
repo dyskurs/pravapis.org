@@ -27,13 +27,14 @@
 	<body>
 		<header style="background-image: url('{% include relative-src.html src=page.background_image_path %}');" {% if page.large_header %}class="main-hero"{% endif %}>
 			<div class="container">
-				<h1><a href="{{ site.baseurl }}/">{{ site.data.company.title }}</a></h1>
+				<h1><a href="{{ site.baseurl }}/">{{ site.data.company[page.lang].title }}</a></h1>
 				<nav>
 					<ul>
 						{% assign nav_pages = site.html_pages | where: 'show_in_navigation', true | sort: 'navigation_order' %}
 						{% for nav_page in nav_pages %}
 							<li><a {% if nav_page.url == page.url %}class="active"{% endif %} href="{{ site.baseurl }}{{ nav_page.url }}">{{ nav_page.title }}</a></li>
 						{% endfor %}
+							<li><a href="{{ site.baseurl }}{{ nav_page.url }}">{{ site.data.company[page.lang].navanchor }}</a></li>
 					</ul>
 				</nav>
 			</div>
@@ -89,9 +90,9 @@
 
 					<ul class="footer-links">
 						<li>
-							<h2>{{ site.data.company.title }}</h2>
+							<h2>{{ site.data.company[page.lang].title }}</h2>
 						</li>
-						<li>{{ site.data.company.description }}</li>
+						<li>{{ site.data.company[page.lang].description }}</li>
 						<li><a href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %} Subscribe with RSS</a></li>
 					</ul>
 				</div>
@@ -99,8 +100,8 @@
 
 			<div class="legal-line">
 				<p class="container">
-					&copy; {{ site.data.company.time | date: '%Y' }} {{ site.data.company.title }} &bull;
-					Archived by <a href="{{ site.data.company.archiverurl }}" target="_blank">{{ site.data.company.archivertitle }}</a>
+					&copy; {{ site.data.company[page.lang].time | date: '%Y' }} {{ site.data.company[page.lang].title }} &bull;
+					Archived by <a href="{{ site.data.company[page.lang].archiverurl }}" target="_blank">{{ site.data.company[page.lang].archivertitle }}</a>
 				</p>
 			</div>
 		</footer>

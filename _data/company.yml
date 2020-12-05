@@ -1,9 +1,23 @@
-title: Pravapis·org
-time: 2001 — 2005
-description: Archived version of the website Pravapis.org — a pioneer of the Belarusian Internet. Articles on Belarus and Belarusian civilization.
-contact_email_address: contact@example.com
-contact_phone_number: (03) 123 4567
-address: 123 Example Street, Gooseburb, 9876, Ducktown, New Zealand
-postal_address: PO Box 123, Ducktown, New Zealand
-archivertitle: Dyskurs·be
-archiverurl: "https://dyskurs.be"
+en:
+  title: Pravapis·org
+  time: 2001 — 2005
+  description: Archived version of the website P	ravapis.org — a pioneer of the Belarusian Internet. Articles on Belarus and Belarusian civilization.
+  contact_email_address: contact@example.com
+  contact_phone_number: (03) 123 4567
+  address: 123 Example Street, Gooseburb, 9876, Ducktown, New Zealand
+  postal_address: PO Box 123, Ducktown, New Zealand
+  archivertitle: Dyskurs·be
+  archiverurl: "https://dyskurs.be"
+  navanchor: па-беларуску
+
+be:
+  title: Правапіс·org
+  time: 2001 — 2005
+  description: Архіўная версія сайта Правапіс·org — піянера беларускага інтэрнэта. Артыкулы пра Беларусь і беларускую цывілізацыю.
+  contact_email_address: contact@example.com
+  contact_phone_number: (03) 123 4567
+  address: 123 Example Street, Gooseburb, 9876, Ducktown, New Zealand
+  postal_address: PO Box 123, Ducktown, New Zealand
+  archivertitle: Дыскурс·бе
+  archiverurl: "https://dyskurs.be"
+  navanchor: in English
