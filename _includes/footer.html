@@ -18,7 +18,7 @@
 						<li>
 							<h2>{{ site.data.company[page.lang].title }}</h2>
 						</li>
-						<li>{{ site.data.company[page.lang].description }}</li>
+						<li>{{ site.data.company[page.lang].description | markdownify }}</li>
 						<li><a href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %}{{ site.data.company[page.lang].subscribeRSS }}</a></li>
 					</ul>
 				</div>
@@ -27,7 +27,7 @@
 			<div class="legal-line">
 				<p class="container">
 					&copy; {{ site.data.company[page.lang].time | date: '%Y' }} {{ site.data.company[page.lang].title }} &bull;
-					{{ site.data.company[page.lang].archivedby_text | markdownify }} <a href="{{ site.data.company[page.lang].archiverurl }}" target="_blank">{{ site.data.company[page.lang].archivertitle }}</a>
+					{{ site.data.company[page.lang].archivedby_text }} <a href="{{ site.data.company[page.lang].archiverurl }}" target="_blank">{{ site.data.company[page.lang].archivertitle }}</a>
 				</p>
 			</div>
 		</footer>
