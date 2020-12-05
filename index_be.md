@@ -1,6 +1,6 @@
 ---
 title: Правапіс·орг
-call_to_action: Contact
+call_to_action: " "
 background_image_path:
 lang: be
 ---
