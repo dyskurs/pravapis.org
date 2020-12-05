@@ -5,6 +5,7 @@ background_image_path:
 large_header: false
 show_in_navigation: true
 navigation_order: 2
+lang: en
 ---
 
 Our specialised team has the skill and experience to provide a range of services. The utmost care is taken with all our work. The main streams of work we perform are as follows:
