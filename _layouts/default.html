@@ -32,21 +32,9 @@
 			</div>
 		</section>
 
-		{% if page.call_to_action == 'Map' and site.google_maps_javascript_api_key %}
-			<section class="map-section">
-				<div id="map"></div>
-			</section>
-		{% elsif page.call_to_action == 'Contact' %}
+		{% if page.call_to_action %}
 			<section class="quote-section">
-				<p class="container editable">
-					<a href="{{ site.baseurl }}/contact/">Contact us</a> today to find out how we can help you. Your first consultation is free.
-				</p>
-			</section>
-		{% else %}
-			<section class="quote-section">
-				<p class="container editable">
-					<a href="{{ site.baseurl }}/advice/">Read our published advice</a> for an introduction and quick tips on various areas of the law.
-				</p>
+			{{ page.call_to_action }}
 			</section>
 		{% endif %}
 
