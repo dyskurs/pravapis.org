@@ -7,6 +7,4 @@ show_in_navigation: false
 sitemap: false
 ---
 
-<p class="editable">
-	Thank you for reaching out, we'll read your message and be in contact as soon as possible.
-</p>
+Thank you for reaching out, we'll read your message and be in contact as soon as possible.
