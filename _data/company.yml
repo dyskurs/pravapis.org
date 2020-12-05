@@ -9,6 +9,7 @@ en:
   archivertitle: Dyskurs·be
   archiverurl: "https://dyskurs.be"
   navanchor: па-беларуску
+  archivedby_text: Archived by
 
 be:
   title: Правапіс·org
@@ -18,6 +19,7 @@ be:
   contact_phone_number: (03) 123 4567
   address: 123 Example Street, Gooseburb, 9876, Ducktown, New Zealand
   postal_address: PO Box 123, Ducktown, New Zealand
-  archivertitle: Дыскурс·бе
+  archivertitle: Дыскурс·беларускі
   archiverurl: "https://dyskurs.be"
   navanchor: in English
+  archivedby_text: Архіў падрыхтаваны платформай
