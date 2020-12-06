@@ -57,7 +57,7 @@ Hello 
 </tr>
 <tr class="even">
 
-Прывітаньне<br />
+Прывітанне<br />
  *Pryvitannie*  
 Здрасти<br />
  *Zdrasti*  
@@ -178,7 +178,7 @@ How is it going? 
 </tr>
 <tr class="odd">
 
-Як маесься?<br />
+Як маесся?<br />
  *Jak mayes'sia?*  
 Как си?<br />
  *Kak si?*  
@@ -387,7 +387,7 @@ Excuse me. 
 </tr>
 <tr class="even">
 
-Да пабачэньня!<br />
+Да пабачэння!<br />
  *Da pabachen'nya!*  
 Довиждане!<br />
  *Dovizhdane!*  
@@ -728,7 +728,7 @@ Sunday 
 </tr>
 <tr class="odd">
 
-сёньнч<br />
+сённч<br />
  *sionnia*  
 днес<br />
  *dnes*  
@@ -981,7 +981,7 @@ five, fifth 
 </tr>
 <tr class="even">
 
-шэсьць, шосты<br />
+шэсць, шосты<br />
  *shests', shosty*  
 шест, шести<br />
  *shest, shesti*  

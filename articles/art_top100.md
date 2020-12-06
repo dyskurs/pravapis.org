@@ -82,7 +82,7 @@ moron, dumb ass
 <tr class="even">
 
 <strong>буця, буцюта</strong>
-1. гаспадыня-няўмека; 2. няўдала выпечаны хлеб
+1. гаспадыня-няўмека; 2. не ўдала выпечаны хлеб
 1. completely unskilled house wife 2. burned spoiled bread
 
 </tr>
@@ -152,7 +152,7 @@ deaf person
 <tr class="even">
 
 <strong>гм`ырак</strong>
-суровы, пануры, няўвішны чалавек
+суровы, пануры, не ўвішны чалавек
 gloomy, murky and dull person
 
 </tr>
@@ -208,7 +208,7 @@ ass
 <tr class="even">
 
 <strong>дыбала</strong>
-вялікі нязграбны чалавек
+вялікі не зграбны чалавек
 big disformed man
 
 </tr>
@@ -306,7 +306,7 @@ dwarf (negative)
 <tr class="even">
 
 <strong>каўтуны</strong>
-валосься (пагард.)
+валосся (пагард.)
 hair (vulgar)
 
 </tr>
@@ -397,7 +397,7 @@ large nose
 <tr class="odd">
 
 <strong>небар`ака</strong>
-чалавек, які выклікае спагаду, спачуваньне
+чалавек, які выклікае спагаду, спачуванне
 person that makes you feel compassion or sympathy
 
 </tr>
@@ -411,7 +411,7 @@ weak sick person
 <tr class="odd">
 
 <strong>недарэка</strong>
-някемлівы, няўклюдны, няўмелы чалавек
+някемлівы, не ўклюдны, не ўмелы чалавек
 dumb, clumsy, awkward person
 
 </tr>
@@ -432,14 +432,14 @@ dirty-looking person
 <tr class="even">
 
 <strong>нядбайла</strong>
-нядбайны, лянівы чалавек, нядбалец
+нядбайны, лянівы чалавек, не дбалец
 lazy person; loser
 
 </tr>
 <tr class="odd">
 
 <strong>п`етлахі</strong>
-валосьсе
+валоссе
 hair (vulgar)
 
 </tr>
@@ -481,7 +481,7 @@ vulgar person
 <tr class="odd">
 
 <strong>похва</strong>
-улоньне
+улонне
 pussy
 
 </tr>
@@ -495,7 +495,7 @@ prostitute
 <tr class="odd">
 
 <strong>пыса</strong>
-морда (у жывёлаў і ня толькі)
+морда (у жывёлаў і не  толькі)
 ugly face (like animals)
 
 </tr>
@@ -628,7 +628,7 @@ obnoxious low-class people
 <tr class="even">
 
 <strong>халэмус</strong>
-канец, пязьзец, сьмерць
+канец, пяззец, сьмерць
 end, death (vulgar)
 
 </tr>
@@ -649,7 +649,7 @@ ugly dirty-looking woman; prostitute
 <tr class="odd">
 
 <strong>хмулаты</strong>
-грубы, няветлівы
+грубы, не ветлівы
 impolite, rough
 
 </tr>
@@ -670,7 +670,7 @@ band, gang
 <tr class="even">
 
 <strong>цяльпук</strong>
-нінашто няздольны чалавек; незграбны, неахайны чалавек
+нінашто не здольны чалавек; незграбны, неахайны чалавек
 person that is not fit for anything; loser; disformed person
 
 </tr>
@@ -684,7 +684,7 @@ extremely thin person
 <tr class="even">
 
 <strong>чупурушка</strong>
-неахайная, няздольная нінашто жанчына
+неахайная, не здольная нінашто жанчына
 unskilled dirty woman
 
 </tr>

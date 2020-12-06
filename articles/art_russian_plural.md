@@ -81,7 +81,7 @@ Exceptions:
 In Belarusian, forming plural is not so complicated as in Russian. There are only two possible endings: <strong>-і</strong> and <strong>-ы</strong>. And it's very easy to distinguish which one you should use in each case.
 
 
-• If the singular noun ends with <strong>дзь, ль, нь, сь</strong> or <strong>г, ґ, к, х</strong> (also <strong>га, ґа, ка, ха</strong>) or <strong>й, е, ё, і, ю, я</strong> then the plural ending is <strong>-і</strong>. Example: <strong>ґузiк — ґузiкі, асадка — асадкі, замах — замахі, пытаньне — пытаньні, далонь — далоні, баль — балі.</strong>
+• If the singular noun ends with <strong>дзь, ль, нь, сь</strong> or <strong>г, ґ, к, х</strong> (also <strong>га, ґа, ка, ха</strong>) or <strong>й, е, ё, і, ю, я</strong> then the plural ending is <strong>-і</strong>. Example: <strong>ґузiк — ґузiкі, асадка — асадкі, замах — замахі, пытанне — пытанні, далонь — далоні, баль — балі.</strong>
 
 
 • If the singular noun ends with <strong>б, д, дж, з, м, н, п, р, с, т, ў, ф, ц, ч, ш</strong> or <strong>а, о, у</strong> (except for cases when the final vowel is preceded by <strong>г, ґ, к, х</strong>) then the plural ending is <strong>-ы</strong>. Example: <strong>назва — назвы, гадзіна — гадзіны, футра — футры, твар — твары, гульня — гульні, трус — трусы, пераклад — пераклады.</strong>
@@ -98,7 +98,7 @@ There are no exceptions, just note that <strong>ў</strong> may become <strong>�
 • Some nouns exist only in plural form: <strong>грошы</strong> (money), <strong>нажніцы</strong> (scissors), <strong>нагавіцы</strong> (pants), <strong>веды</strong> (knowledge).
 
 
-• Some nouns have only singular form: <strong>цукар</strong> (sugar), <strong>прагрэс</strong> (progress), <strong>блакіт</strong> (the blue), <strong>надвор'е</strong> (weather), <strong>увага</strong> (attention), <strong>ґвалт</strong> (violence), <strong>сьмецьце</strong> (trash).
+• Some nouns have only singular form: <strong>цукар</strong> (sugar), <strong>прагрэс</strong> (progress), <strong>блакіт</strong> (the blue), <strong>надвор'е</strong> (weather), <strong>увага</strong> (attention), <strong>ґвалт</strong> (violence), <strong>сьмецце</strong> (trash).
 
 
 • Some nouns behave like adjectives: <strong>галосны — галосныя</strong> (vowel — vowels), <strong>зычны — зычныя</strong> (consonant — consonants), <strong>беспрацоўны — беспрацоўныя</strong> (unemployed person — unemployed persons).
