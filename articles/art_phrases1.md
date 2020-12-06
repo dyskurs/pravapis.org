@@ -255,7 +255,7 @@ Wonderful 
 </tr>
 <tr class="even">
 
-Смачна есьці!<br />
+Смачна есці!<br />
  *Smachna yesci!*  
 Добър апетит!<br />
  *Dobur apetit!*  

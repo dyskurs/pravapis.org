@@ -698,7 +698,7 @@ dirty-looking woman
 <tr class="even">
 
 <strong>шалепаўка</strong>
-расьцяпа
+расцяпа
 muddler, bungler
 
 </tr>
