@@ -98,13 +98,3 @@ Related Books:<br />
 
 
 
-See also:<br />
-<br />
-- <strong><a href="articles/art_benyehuda2.html">The Revival of Hebrew</a></strong> by Jack Fellman<br />
-- <strong><a href="articles/art_skaryna1.html">Francis Skaryna, the first Belarusian printer</a></strong> by Alexander Nadson<br />
-
-
-<br />
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fchagall%2Easp">- Write your comment</a></span>
-

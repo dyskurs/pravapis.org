@@ -700,14 +700,3 @@ large_header: false
 Аўтар будзе вельмі ўдзячны за папраўкі і парады.
 
 <hr />
-
-See also / Гл. таксама:<br />
-<br />
-- <strong><a href="articles/art_minsk1.html">Менск Слэнгавы</a></strong><br />
-- <strong><a href="articles/art_hippie_slang.html">Кароткі слоўнік менскіх хіпі</a></strong><br />
-- <strong><a href="articles/art_language_reform1.html">Правапіс трохі абеларусіцца</a></strong><br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fminsk%5Fguide%2Easp">Напішыце водгук // Write your comment</a></span>
-

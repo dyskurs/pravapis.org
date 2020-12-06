@@ -222,14 +222,3 @@ large_header: false
 
 This is a short slang dictionary of Belarusian (mostly Minsk) hippies and punks of the late 70's and early 80's collected and compiled by the Belarusian writer Adam Hlobus.
 
-
-See also / Гл. таксама:<br />
-<br />
-- <strong><a href="articles/art_minsk1.html">Minsk Slang (альтэрнатыўная ґеаґрфія нашай сталіцы)</a></strong><br />
-- <strong><a href="articles/art_netspeak.html">Netspeak - Жывая мова беларускага сеціва</a></strong><br />
-- <strong><a href="articles/art_top100.html">The Forgotten Slang - 100 словаў забытага беларускага слэнгу</a></strong><br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fhippie%5Fslang%2Easp">Напішыце водгук // Write your comment</a></span>
-

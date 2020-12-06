@@ -112,16 +112,4 @@ There are no exceptions, just note that <strong>Ñž</strong> may become <strong>Ð
 
 As you can see, forming nominative plural in Belarusian is much easier than in Russian. I hope you enjoyed this article, but please note that this is just a draft article, I've written the Belarusian part without consulting any grammar books, so there  *might*  be some omissions. Please tell me if you spotted any mistakes!
 
-<hr />
-
-See also:<br />
-<br />
-- <strong><a href="articles/art_letter_frequency.html">Letter Frequency in Belarusian and Russian</a></strong><br />
-- <strong><a href="articles/art_phrases1.html">Belarusian-Bulgarian-Russian-English Basic Phrases</a></strong><br />
-- <strong><a href="articles/art_no_russian.html">Saying  *Nyet*  To Russian</a></strong><br />
-- <strong><a href="articles/art_belarusian_alphabet.html">Introduction to Belarusian Alphabet</a></strong><br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Frussian%5Fplural%2Easp">- Write your comment</a></span>
 

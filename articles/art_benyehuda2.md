@@ -101,15 +101,4 @@ Over all, this trend makes me very upset. Simon Peres was born and grew up in Be
 
 Note from pravapis.org: Upon reading this article one can not fail to notice the striking similarities between Ben-Yehuda's work on reviving Hebrew and the arduous work of Belarusian activists in modern-day Belarus on reviving the Belarusian language, that appears to be in danger after more than 200 years of intensive russification. Of course, the situation with Belarusian language is not so dire as it was with Hebrew of Ben-Yehuda's time. But the challenges and problems are often times strikingly similar. That's the chief reason why I've decided to publish this great article on this Belarusian language linguistic site (notwithstanding that Ben-Yehuda was born and grew up in Belarus).
 
-<hr />
-
-See also:<br />
-<br />
-- <strong><a href="articles/art_hebrew1.html">Eliezer Ben-Yehuda and the Revival of Hebrew (Belarusian translation of this article)</a></strong><br />
-- <strong><a href="articles/art_benyehuda3.html">Ben-Yehuda book festival (in Belarusian)</a></strong><br />
-
-
-<br />
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fbenyehuda2%2Easp">- Write your comment</a></span>
 

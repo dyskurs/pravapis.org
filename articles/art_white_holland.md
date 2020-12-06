@@ -39,7 +39,4 @@ Examples of usage:<br />
 <a href="http://www.livejournal.com/talkread.bml?journal=rydel23&amp;itemid=45678">original post in Belarusan on livejournal.com</a><br />
 <a href="http://www.livejournal.com/talkread.bml?journal=linguaphiles&amp;itemid=111091&amp;view=1186291#t1186291">another related thread on livejournal.com</a></span>
 
-<hr />
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fwhite%5Fholland%2Easp">- Write your comment</a></span>
 

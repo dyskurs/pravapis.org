@@ -76,13 +76,3 @@ large_header: false
 © газэта "Наша Ніва", 2002
 
 
-See also / Гл. таксама:<br />
-<br />
-- <strong><a href="http://nn.knihi.com/2002/19/18.htm">Арыгінал артыкулу на сайце Нашай Нівы</a></strong><br />
-- <strong><a href="articles/art_kitab1.html">Кітабы — унікальная зьява ў беларускай мове</a></strong><br />
-- <strong><a href="articles/art_jan_stankevich2.html">Інтэрвію з Валерам Булгакавым з нагоды выхаду двухтамовіка Янкі Станкевіча</a></strong><br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fjan%5Fstankevich1%2Easp">Напішыце водгук // Write your comment</a></span>
-

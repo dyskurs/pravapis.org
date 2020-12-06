@@ -175,8 +175,3 @@ See also:<br />
 - <strong><a href="http://www.amazon.com/exec/obidos/ASIN/0415280788/belarusianlan-20">The Slavonic Languages</a></strong> by Comrie &amp;. Corbett<br />
 - <strong><a href="http://www.amazon.com/exec/obidos/ASIN/0300058462/belarusianlan-20">The Dawn of Slavic: An Introduction to Slavic Philology</a></strong> by Alexander M. Schenker<br />
 
-
-<br />
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fbelarusian%5Flecture%5F1968%2Easp">- Write your comment</a></span>
-

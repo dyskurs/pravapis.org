@@ -37,6 +37,3 @@ But there is a more modern source of inspiration in Navahrudak too: as the home 
 
 Most Belarusians in opposition hope that, as the economy declines and the docile Soviet-minded generation dies off, people may start thinking differently, not just about politics and history. But some fear that a few more years of Mr. Lukashenka will see Russia gobble their country up. That, they recall, was roughly what happened to the remains of the grand duchy. And Mickiewicz died in exile.
 
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fbelarus1%2Easp">- Write your comment</a></span>
-

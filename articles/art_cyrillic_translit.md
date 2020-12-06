@@ -12,12 +12,3 @@ This is the Slavic Cyrillic transliteration for Belarusian, Bulgarian, Macedonia
 <img src="cyrillic_translit.jpg" width="640" height="819" alt="Library of Congress Slavic Cyrillic Transliteraion" />
 
 
-See also:<br />
-<br />
-- <strong><a href="translator.html">Online Cyrillic Translator</a></strong><br />
-- <strong><a href="latin.html">Online Lacinka (Latin Script) Translator</a></strong><br />
-- <a href="articles/art_lac1.html">Introduction to Belarusian Latin Script</a>
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fcyrillic%5Ftranslit%2Easp">- Write your comment</a></span>
-

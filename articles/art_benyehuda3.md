@@ -34,13 +34,3 @@ large_header: false
 © Radio Free Europe / Radio Liberty, Inc., All Rights Reserved.
 
 
-See also / Гл. таксама:<br />
-<br />
-- <strong><a href="articles/art_hebrew1.html">Элязэр Бэн-Йегуда й адраджэньне іўрыту</a></strong><br />
-- <strong><a href="http://www.svaboda.org/today/2000/oct/23/mudr1023.html">Арыгінал артыкулу на сайце Радыё Свабода</a></strong><br />
-- <strong><a href="articles/art_benyehuda2.html">Eliezer Ben-Yehuda and the Revival of Hebrew</a></strong><br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fbenyehuda3%2Easp">Напішыце водгук // Write your comment</a></span>
-

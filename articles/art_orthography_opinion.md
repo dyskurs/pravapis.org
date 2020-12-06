@@ -291,15 +291,3 @@ Chutčej nie, byŭ jinšy, bolš prahresiŭny šlach (dyj ciapier jašče nia po
 
 Copyright © 2003 Arche (arche.home.by). Reprinted with permission.
 
-<hr />
-
-See also / Гл. таксама:<br />
-<br />
-- <strong><a href="articles/art_language2000.html">Mova'2000</a></strong> - Што новага зьявілася ў беларускіх слоўніках у дваццатым стагодзьдзі;<br />
-- <strong><a href="articles/art_letter_returns.html">Litara G</a></strong> - Вяртаньне літары Ґґ у беларускую мову;<br />
-- <strong><a href="articles/art_language_reform1.html">Рэформа наркамаўкі</a></strong> - Правапіс трохі абеларусіцца;<br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Forthography%5Fopinion%2Easp">- Write your comment</a></span>
-

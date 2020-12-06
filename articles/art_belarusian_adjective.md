@@ -231,15 +231,3 @@ So, the simplest answer to the original question is that  *Belarusian*  and  *Be
 
  *Big thanks to Paul B. Gallagher, Cynthia C. Ramsey and Emily Tall for proof-reading, editing tips and helpful suggestions.* 
 
-<hr />
-
-See also:<br />
-<br />
-- <strong><a href="articles/art_belarus_name.html">21 Names of Belarus</a></strong> (How internet users misspell this name)<br />
-- <strong><a href="articles/art_brit.html">Britannica Stumbling</a></strong> (The most scandalous blunders in Britannica's entry on Belarusian language)<br />
-- <strong><a href="articles/art_white_holland.html">Germany = "White Holland"; Belarus = "???"</a></strong> (online discussion of the same topic from rydel23's livejournal)<br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fbelarusian%5Fadjective%2Easp">- Write your comment</a></span>
-

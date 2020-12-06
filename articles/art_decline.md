@@ -28,8 +28,4 @@ large_header: false
  *English summary: The decline of usage of Old Belarusian has its roots in 17<sup>th</sup> century, because there was no educational or science literature published in Old Belarusian at that point, and no grammar books for Belarusian language either. This kind of literature was published in Polish. At that time Old Belarusian language was used in discourses to defend Russian Orthodox or  *vice versa*  in writings against Orthodox, in support of Uniates. The author draws parallels with modern times: early 20<sup>th</sup>-century Marxists and the politically correct humanists of 21<sup>th</sup> century.* 
 
 
-<a href="http://www.knihi.com/forum/forum.html?id=68">Ваша апінія - Express your opinion</a>
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fdecline%2Easp">Напішыце водгук // Write your comment</a></span>
 

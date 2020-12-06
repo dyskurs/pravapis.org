@@ -131,13 +131,3 @@ Vostraja Brama: Mova-2000</h1>
 
 Copyright © 2003. RFE/RL, Inc. Reprinted with the permission of Radio Free Europe/Radio Liberty, 1201 Connecticut Ave., N.W. Washington DC 20036. www.rferl.org
 
-
-See also / Гл. таксама:<br />
-<br />
-- <strong><a href="articles/art_software_localization.html">software localization на беларускую мову</a></strong>;<br />
-- <strong><a href="articles/art_netspeak.html">netspeak - жывая мова беларускага сеціва</a></strong>;<br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Flanguage2000%2Easp">Напішыце водгук // Write your comment</a></span>
-

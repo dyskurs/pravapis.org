@@ -44,13 +44,5 @@ This review was written by Aleksander Maksymiuk, senior editor of the Belarusian
  *Copyright © 2003. RFE/RL, Inc. Reprinted with the permission of Radio Free Europe/Radio Liberty, 1201 Connecticut Ave., N.W. Washington DC 20036. www.rferl.org* 
 
 
-See also:<br />
-<br />
-- <strong><a href="articles/art_goujon1.html">"Language, nationalism, and populism in Belarus" Alexandra Goujon</a></strong><br />
-- <strong><a href="articles/art_belarusian_adjective.html">"Belarusian" and "Belarusan" the correct adjective forms</a></strong><br />
-
-
-<br />
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fbelarusian%5Fminorities%2Easp">- Write your comment</a></span>
+"small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fbelarusian%5Fminorities%2Easp">- Write your comment</a></span>
 

@@ -88,16 +88,3 @@ large_header: false
 
 
 Таму раю Вам звярнуць увагу не на "шапікі", а на сябе самаго. У сэнсе самавызначэньня. Ці не ў пралёце Вы? Ці не засталіся Вы "па-за гульнёй" у беларускім жыцьці, у нашай гісторыі?
-
-<hr />
-
-See also / Гл. таксама:<br />
-<br />
-- <strong><a href="articles/art_decline.html">Чаму заняпала старабеларуская</a></strong><br />
-- <strong><a href="articles/art_netspeak.html">Жывая мова ByNet</a></strong><br />
-- <strong><a href="articles/art_minsk1.html">Менск слэнгавы</a></strong><br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fworvik1%2Easp">Напішыце водгук // Write your comment</a></span>
-

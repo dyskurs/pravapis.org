@@ -74,15 +74,4 @@ Z poДЌatku ja ДЌuvsia pudmanutym. вЂћV reЕЎti reЕЎt, вЂ” ja skaza
 
 1937
 
-<hr />
-
-See also:<br />
-<br />
-- <strong><a href="articles/art_belarusian_poland.html">An Unclaimed Creative Potential or the Belarusians in the Bialystok Region as a Trilingual People</a></strong> - the English version of this article by Jan Maksymiuk<br />
-- <strong><a href="articles/art_belarusian_poland2.html">An Unclaimed Creative Potential or the Belarusians in the Bialystok Region as a Trilingual People</a></strong> (pa-bielarusku) - the Belarusian version of this article by Jan Maksymiuk<br />
-
-
-<br />
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fbelarusian%5Fpoland%5Fsample%2Easp">- Write your comment</a></span>
 

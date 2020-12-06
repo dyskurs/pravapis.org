@@ -122,17 +122,3 @@ English summary: This article by Siarhiej Dubaviec is devoted to the social and 
 
 <span class="small">Copyright © 2003. RFE/RL, Inc. Radio Free Europe/Radio Liberty, 1201 Connecticut Ave., N.W. Washington DC 20036. www.rferl.org. Big thanks to Siarhiej Dubaviec for sending me the full text of his radio programme Vostraja Brama.</span>
 
-<hr />
-
-See also / Гл. таксама:<br />
-<br />
-- <strong><a href="articles/art_software_localization.html">Беларуская кампутарная і інтэрнэтная тэрміналёгія</a></strong> - Сяргей Шупа<br />
-- <strong><a href="articles/art_language2000.html">Мова-2000</a></strong> - Сяргей Дубавец;<br />
-- <strong><a href="http://www.litara.net/forum/406/all">Мабільная сувязь па-беларуску</a></strong> - абмеркаваньне на форуме litara.net;<br />
-- <strong><a href="http://forum.onliner.by/viewtopic.php?t=118677&amp;start=0">Беларуская мова ў мабільным тэлефоне</a></strong> - абмеркаваньне на форуме onliner.by;<br />
-- <strong><a href="http://www.knihi.com/mabil/%20">knihi.com/mabil</a></strong> - мэлёдыі для мабільных тэлефонаў;<br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fbelarusian%5Fmobile%2Easp">Напішыце водгук // Write your comment</a></span>
-

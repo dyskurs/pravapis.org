@@ -47,10 +47,4 @@ large_header: false
 <li>Наркевіч А.І. Назоўнік: Граматычныя катэгорыі і формы. Мн., 1976</li>
 <li>Граматыка беларускай мовы. Т.1. Марфалёгія. Мн., 1985;</li>
 </ul>
-<hr />
-
-Калі вы ўбачылі памылку альбо маеце нейкую параду, калі ласка, <a href="mailto:uladzik@pravapis.org?Subject=genitive">дасылайце</a> свае камэнтары й заўвагі
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fvocative%2Easp">Напішыце водгук // Write your comment</a></span>
 

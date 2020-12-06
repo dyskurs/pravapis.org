@@ -66,12 +66,3 @@ At the end of the book I finally found one reference that links this book with t
 <br />
 P.S. Great thanks to <a href="mailto:jdingley@ssees.ac.uk?Subject=Lee%20Hogan%20Belarus">Jim Dingley</a> for editing this article!
 
-
-See also:<br />
-<br />
-- <strong><a href="buy.html">Buying Books</a></strong><br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fbelarus%5Fhogan%2Easp">- Write your comment</a></span>
-

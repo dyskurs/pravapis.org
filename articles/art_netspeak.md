@@ -1234,8 +1234,3 @@ Why?
 <strong>zzz</strong>
 sleeping, bored, tired
 Пакзвае, што чалавек сьпіць альбо яму сумна.
-Дасылайце свае парады на наступную адрэсу: <a href="mailto:rydel23@yahoo.com?subject=netspeak">Rydel N23</a>
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fnetspeak%2Easp">Напішыце водгук // Write your comment</a></span>
-

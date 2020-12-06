@@ -228,16 +228,4 @@ The editors of  *Nasza Niva*  newspaper asked a dozen Belarusian book publishers
 
 <span class="small">Copyright © Nasza Niva, 2003. Minsk, Belarus</span>
 
-<hr />
-
-See also / Гл. таксама:<br />
-<br />
-- <strong><a href="books_by.html">Беларускія кнігі на нашым сайце</a></strong><br />
-- <strong><a href="http://oz.by/books/more.phtml?id=107788&amp;partner=pravapis">Доўгая дарога дадому</a></strong> - Васіль Быкаў (у кнігарні oz.by)<br />
-- <strong><a href="http://www.nn.by/knihi/descriptions/druk_na_zachadzie.html">Беларускі й беларусаведны друк на Захадзе</a></strong> - Вітаўт і Зора Кіпелі<br />
-- <strong><a href="http://www.salvija.com/">Выдавецтва Salvija</a></strong> - ёсьць магчымасьць замовіць альбом "Краіна Беларусь".<br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fbest%5Fbooks%5F2003%2Easp">Напішыце водгук // Write your comment</a></span>
 

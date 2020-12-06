@@ -117,14 +117,3 @@ London 30.vi.2005
 Лёндан, 30.VI.2005<br />
 <br />
 <span class="small"> *(Пераклад на беларускую мову - Раман Кардонскі. Дробныя праўкі - Уладзімер Каткоўскі)* </span>
-
-See also:<br />
-<br />
-- <strong><a href="articles/art_rich_translators_notes.html">"Poems on Liberty" Translator's Notes</a></strong> by Vera Rich<br />
-- <strong><a href="articles/art_publishing.html">Belarusian Language: Publishing or Perishing</a></strong> by Jan Maksymiuk<br />
-
-
-<br />
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fvera%5Frich%5Fopen%5Fletter%2Easp">- Write your comment</a></span>
-

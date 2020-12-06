@@ -47,14 +47,3 @@ New Belarusian Language Reform</h1>
 
 Калі ж мы з вамі пачнем пісаць і чытаць згодна з новымі правіламі? Зьмены ў правапісе ўхваленыя прэзыдыюмам Акадэміі навук, але іх яшчэ павінны разгледзець і прыняць у Міністэрстве адукацыі і Міністэрстве інфармацыі, а пасьля гэтага ва ўрадзе. І толькі тады новыя правілы прыйдуць да нас.
 
-
-See also / Гл. таксама:<br />
-<br />
-- <strong><a href="articles/art_worvik1.html">Worvik пра сучасную беларускую мову</a></strong><br />
-- <strong><a href="articles/art_netspeak.html">Cyberspeak: Жывая мова ByNet</a></strong><br />
-- <strong><a href="http://www.naviny.by/node.phtml?index=8401">Арыгінал артыкулу на naviny.by</a></strong><br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Flanguage%5Freform1%2Easp">Напішыце водгук // Write your comment</a></span>
-

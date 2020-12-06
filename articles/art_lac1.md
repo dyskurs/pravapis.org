@@ -79,7 +79,3 @@ Undoubtedly, the revival of Lacinka and its official recognition will assist in 
 <hr />
 
 Visit the complete version of this article (also with scanned images of the old Belarusian texts) at this address: <a href="http://www.cus.cam.ac.uk/~np214/lacin.htm">www.cus.cam.ac.uk/~np214/lacin.htm</a>
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Flac1%2Easp">- Write your comment</a></span>
-

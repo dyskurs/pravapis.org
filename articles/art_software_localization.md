@@ -87,19 +87,4 @@ English summary: This is a review article about software localization issues in 
 
 Copyright © 2003. RFE/RL, Inc. Reprinted with the permission of Radio Free Europe/Radio Liberty, 1201 Connecticut Ave., N.W. Washington DC 20036. www.rferl.org
 
-<hr />
-
-See also / Гл. таксама:<br />
-<br />
-- <strong><a href="articles/art_netspeak.html">netspeak</a></strong> - жывая мова беларускага сеціва;<br />
-- <strong><a href="http://www.svaboda.org/programs/internet/2003/04/20030413142242.html">svaboda.org/internet...</a></strong> - арыґінальны артыкул з сайту РС;<br />
-- <strong><a href="http://www.i18nfaq.com/">i18nfaq.com/</a></strong> - i18n FAQ (in English);<br />
-- <strong><a href="http://belarussoft.euro.ru/">belarussoft.euro.ru</a></strong> - 50+ кампутарных праґрамаў па-беларуску;<br />
-- <strong><a href="http://softblr.narod.ru/">softblr.narod.ru</a></strong> - таксама софт па-беларуску;<br />
-- <strong><a href="http://www.google.com/webhp?hl=be">google.com/?hl=be</a></strong> - інтэрфэйс Google па-беларуску;<br />
-- <strong><a href="http://mova.org/lists/listinfo/i18n">mova.org/lists/listinfo/i18n</a></strong> - рассылка i18n.<br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fsoftware%5Flocalization%2Easp">Напішыце водгук // Write your comment</a></span>
 

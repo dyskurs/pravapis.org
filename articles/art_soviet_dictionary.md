@@ -71,12 +71,3 @@ English summary: According to the independent linguists the new 3<sup>rd</sup> e
  *Copyright © 2004. RFE/RL, Inc. Reprinted with the permission of Radio Free Europe/Radio Liberty, 1201 Connecticut Ave., N.W. Washington DC 20036. www.rferl.org. Reprinted from www.svaboda.org - Belarusian Service RFE/RL* 
 
 
-See also / Гл. таксама:<br />
-<br />
-- <strong><a href="articles/art_language_reform1.html">"Правапіс трохі абеларусіцца"</a></strong> - Кірыла Пазьняк<br />
-- <strong><a href="articles/art_letter_monument.html">У Полацку будзе помнік Ў</a></strong> - паводле BelaPAN<br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fsoviet%5Fdictionary%2Easp">Напішыце водгук // Write your comment</a></span>
-

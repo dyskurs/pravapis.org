@@ -83,16 +83,3 @@ large_header: false
 <span id="english"></span> <strong>English summary:</strong><br />
 <br />
 The letter Ґґ (Gg) was abolished in Belarusian language by the Soviet reform of 1933. That reform was aimed at brining Belarusian language closer to the official language of the Soviet empire, Russian. Among the victims of that reform was our letter Ґґ. According to the Soviet linguistis, it was not needed because most Belarusian speakers are capable of pronouncing only fricative Гг (Hh) and thus don't need an extra letter Ґґ (Gg). The above text is a compilation of two articles that were published in Nasza Niva newspaper last year. Our contemporary linguists defend the banned letter and discuss the possibilities of returning it back to the alphabet. Andrej Dubina provides historical and linguistic evidence that the letter is indeed an important part of our language and should find its way to mainstream usage. Other linguists say that the letter should be used if not in high schools, at least, in the etymological dictionaries and in the specialized linguistic literature. Unfortunately, the current government could not care less about the development of the national language, so these proposals will probably be ignored by the linguists in the Academy of Science because they are not interested in reforming their old Soviet ways.
-
-<hr />
-
-See also / Гл. таксама:<br />
-<br />
-- <strong><a href="download_by.html#kbdbe">Мадыфікаваны Windows KBD драйвэр з новай літарай!</a></strong> (KBD for Windows'95 and Windows'98, DLL for Windows'2000 and Windows XP)<br />
-- <strong><a href="articles/art_language_reform1.html">Кірыла Пазьняк. Правапіс трохі абеларусіцца.</a></strong><br />
-- <strong><a href="articles/art_orthography_opinion.html">Апытаньне Arche. Наркамаўка і клясычны правапіс.</a></strong><br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fletter%5Freturns%2Easp">Напішыце водгук // Write your comment</a></span>
-

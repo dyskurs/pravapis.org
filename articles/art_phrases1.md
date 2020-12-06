@@ -1109,12 +1109,3 @@ Congratulations! 
 Всего наилучшего!<br />
  *Vsego nailuchshego!*  
 All the best! 
-See also:<br />
-<br />
-- <strong><a href="download.html">Sample Phrase book in the download section</a></strong><br />
-- <strong><a href="articles/art_cyrillic_translit.html">U.S. Library of Congress Slavic Cyrillic Transliteration</a></strong><br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fphrases1%2Easp">- Write your comment</a></span>
-

@@ -31,6 +31,3 @@ U. Katkouski, паводле BelaPAN
 
 English summary: The city authorities of the oldest Belarusian city Polack (or  *Polacak* ) have decided to make a monument of the unique Cyrillic Belarusian letter <strong>Ў</strong> (Non-syllable U). The original idea came from the calligraphy professor Paval Siemchanka, who has been studying Belarusian fonts for many years. The members of the  *ad hoc*  committee responsible for the so called "Days of Belarusian Literacy" in Polack, which is headed by the vice prime minister Uladzimir Drazhyn, have decided that the monument in honor of the famous Belarusian letter will be opened this September, during the 10<sup>th</sup> annivessary of the "Days of Belarusian Literacy" celebration.
 
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fletter%5Fmonument%2Easp">Напішыце водгук // Write your comment</a></span>
-

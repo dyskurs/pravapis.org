@@ -108,15 +108,4 @@ English summary: This is a short article about the old form of future tense in B
 
 The author says that very similar forms of imperfect future tense also exist in at least two other languages: in Ukrainian (the endings pattern is almost identical to Belarusian) and in Spanish (e.g.  *comeré, comerás, comerá, comeremos, comeréis, comerán.* ). The author calls upon the reader to use this form, in spite of the official "ban" that was placed on this tense by the Bolshevik language reformers.
 
-<hr />
-
-See also / Гл. таксама:<br />
-<br />
-- <strong><a href="articles/art_future_tense2.html">Budučy čas (Futur Imperfekt) u biełaruskaj movie</a></strong> - hety samy artykuł biełaruskaj łacinkaj;<br />
-- <strong><a href="articles/art_vocative.html">Клічным склон у беларускай мове</a></strong> - паводле энцыкляпэдыі "Беларуская мова";<br />
-- <strong><a href="articles/art_netspeak.html">Biełaruski Netspeak</a></strong> - жывая мова беларускага сеціва;<br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Ffuture%5Ftense%2Easp">Напішыце водгук // Write your comment</a></span>
 

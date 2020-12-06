@@ -2555,13 +2555,3 @@ jmГ©no
 imen
 РёРјРµ
 imia , nazva
-See also:<br />
-<br />
-- <strong><a href="articles/art_letter_frequency.html">Letter Frequency (Belarusian and Russian)</a></strong><br />
-- <strong><a href="articles/art_phrases1.html">Belarusian-Bulgarian-Russian Basic Phrases</a></strong><br />
-
-
-<br />
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fswadesh%5Frussian%5Fpolish%2Easp">- Write your comment</a></span>
-

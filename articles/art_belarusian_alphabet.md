@@ -124,16 +124,6 @@ Belarusian language has a long tradition of using Lacinka (<a href="articles/art
 
 The rest of the letters/sounds are, in the most cases, quite similar to the corresponding English letters and sounds. We think this overview should enable you to read Belarusan Lacinka easily. If you have a Cyrillic text, and would like to convert it to Lacinka, you can use this <a href="latin.html">converter</a>.
 
-<hr />
-
-See also:<br />
-<br />
-- <strong><a href="articles/art_lac1.html">Introduction to Belarusian Lacinka</a></strong> by Mikola Paczkajeu<br />
-- <strong><a href="articles/art_kitab1_en.html">Kitabs, Arabic Writing in Belarusian</a></strong> by Niesciarovicz<br />
-- <strong><a href="articles/art_letter_monument.html#english">Monument to the Unique Belarusian Letter</a></strong> (English summar at the bottom)<br />
-- <strong><a href="articles/art_cyrillic_translit.html">Slavic Cyrillic transliteration</a></strong> (Belarusian, Bulgarian, Macedonian, Russian, Serbian, Ukrainian)<br />
-- <strong><a href="articles/art_phonetic_alphabet.html">Phonetic Alphabets</a></strong> (Belarusian, German, English, Russian)<br />
-- <strong><a href="articles/art_letter_frequency.html">Letter Frequencies</a></strong> (Belarusian and Russian)<br />
 
 
 
@@ -146,8 +136,4 @@ Related books from Amazon:<br />
 - <strong><a href="http://www.amazon.com/exec/obidos/ASIN/0631165134/belarusianlan-20">The Writing Systems of the World</a></strong> by Florian Coulmas<br />
 - <strong><a href="http://www.amazon.com/exec/obidos/ASIN/0226508366/belarusianlan-20">The History and Power of Writing</a></strong> by Henri Jean Martin<br />
 - <strong><a href="http://www.amazon.com/exec/obidos/ASIN/0500281564/belarusianlan-20">The Story of Writing</a></strong> by Andrew Robinson<br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fbelarusian%5Falphabet%2Easp">- Write your comment</a></span>
 

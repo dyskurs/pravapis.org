@@ -54,6 +54,3 @@ So far the situation does not look bad at all! More than 90% of the time people 
 <li>The alternative way is to go to Google's settings from the main page and change the language settings there. In this case Google will set a cookie on your computer with your language preference.</li>
 <li>Finally, yet another way of looking at Belarusian version of Google is to add a special variable <code>"hl=be"</code> to the URL, e.g. <a href="http://www.google.com/webhp?hl=be">http://www.google.com/webhp?hl=be</a>. This will be a temporary solution, since there are neither cookies nor changes in yout http_accept_language list.</li>
 </ol>
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fbelarus%5Fname%2Easp">- Write your comment</a></span>
-

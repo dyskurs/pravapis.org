@@ -40,7 +40,3 @@ English: <strong>Vitryssland</strong> is the Swedish word for Belarus which in a
 
 
  *© "Наша Ніва" (www.nn.by), 2004. Гэты артыкул-камэнтар быў надрукаваны ў газэце "Наша Ніва", №15, 2004.* 
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fvitryssland%2Easp">Напішыце водгук // Write your comment</a></span>
-

@@ -64,17 +64,3 @@ Scottish Romanticism of 18th century inspired many local poets, including Adam M
 
 After a series of partitions of Polish-Lithuanian Commonwealth in 1772-1795 its territory has been divided between Austria, Prussia and Russia. Belarus, like Poland, Western Ukraine and  *Lithuania proper*  was seized by Czars. Four large-scale uprisings against Russian rule (1794, 1812, 1830-31, 1863-64) were ruthlessly oppressed. Many patriots had to emigrate. One of them was Felix Yanevich (his name should should originally have been spelt as "Janewicz" but he have changed the initial letter when he came to Britain in order to avoid mispronunciation), born in Vilnia about 1762, settled in Edinburgh in 1815. In that time he was almost the only professional musician in Scotland. His position was strengthened by his noble origin which meant something even in the eyes of Edinburgh Whigs. Both his daughters were musicians as well - one played piano, and another harp. Some historians say that musical parties which were held in Yanevich's house - then the only regular musical event in the whole Scotland - were the archetype of the Edinburgh music festival...
 
-<hr />
-
-See also:<br />
-<br />
-- <strong><a href="articles/art_white_russia.html">Why is the Russia White</a></strong> by Ales Biely<br />
-- <strong><a href="articles/art_belarus_nation.html">Belarus: real or fictious nation</a></strong> by Ales Biely<br />
-- <strong><a href="articles/art_belarusian_adjective.html">"Belarusian" and "Belarusan"</a></strong> by Uladzimir Katkouski<br />
-- <strong><a href="articles/art_belarus_name.html">21 Names of Belarus</a></strong> (How internet users misspell this name)<br />
-- <strong><a href="articles/art_brit.html">Britannica Stumbling</a></strong> (The most scandalous blunders in Britannica's entry on Belarusian language)<br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fscotland%5Fbelarus%2Easp">- Write your comment</a></span>
-

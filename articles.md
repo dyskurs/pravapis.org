@@ -9,8 +9,8 @@ lang: en
 ---
 
 |||||||
-{% for article in site.data.articles %}
-|{{ article["lang"] }}|{{ article["title"] }}|{{ article["authors"] }}|{{ article["date"] }}|{{ article["linklink"] }}|
+{% for article in site.data.articles | where "lang", "en" %}
+|{{ article["title"] }}|{{ article["authors"] }}|{{ article["date"] }}|{{ article["linklink"] }}|
 {% endfor %}
 
 

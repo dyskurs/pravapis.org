@@ -83,17 +83,3 @@ English summary: The article <strong>"Jewish religious songs in Belarusian"</str
 <br />
 7) Зрусыфікаваны варыянт гэтае песьні знаходзім у кніжцы "Еврейскія народныя песни въ Россіи". Собраны и изданы С. М. Гинзбургомъ и П. С. Маркомъ. СПБ, 1901. № песьні 14.<span class="small"><a href="#FOOTNOTE7">вярнуцца / back</a></span>
 
-<hr />
-
-See also / Гл. таксама:<br />
-<br />
-- <strong><a href="articles/art_jew_belarusian.html">Слоўнік Свабоды. Слова "Жыд". С.Шупа</a></strong><br />
-- <strong><a href="articles/art_jan_stankevich1.html">Інтэрвію з Юрасем Бушлаковым з нагоды выхаду двухтамовіка Янкі Станкевіча</a></strong><br />
-- <strong><a href="articles/art_jan_stankevich2.html">Інтэрвію з Валерам Булгакавым з нагоды выхаду двухтамовіка Янкі Станкевіча</a></strong><br />
-- <strong><a href="articles/art_hebrew1.html">Элязэр Бэн-Йегуда й адраджэньне іўрыту</a></strong><br />
-- <strong><a href="articles/art_benyehuda2.html">Eliezer Ben-Yehuda and the Revival of Hebrew (in English)</a></strong><br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fjewish%5Fbelarus%2Easp">Напішыце водгук // Write your comment</a></span>
-

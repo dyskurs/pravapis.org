@@ -37,11 +37,3 @@ Today the teachers and students aren’t going to move to the town’s different
 On September 1<sup>st</sup> over 700 people showed up there to support the Lyceum’s students in their first day of the new academic year. The festive assembly was held outdoors. The wooden benches and desks were set up for each class. The first lessons were delivered by famous Belarusian historians and linguists. The Lyceum’s students are teaching us a lesson of solidarity. These children show us what can be achieved through genuine unity.
 
 
-See also:<br />
-<br />
-- <strong><a href="articles/art_youth_rebellion.html">Article from TIMES about Belarusian Humanites Lyceum</a></strong><br />
-- <strong><a href="http://www.svaboda.org/news/articles/2003/09/20030909160956.html">TIMES піша пра Ліцэй</a></strong> - кароткі зьмест артыкулу з TIMES па-беларуску
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fhumanities%5Flyceum%2Easp">- Write your comment</a></span>
-

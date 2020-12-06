@@ -96,5 +96,4 @@ Russian
 Polish
 2
 <strong>6%</strong>
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fminsk%5Fguide2%2Easp">Напішыце водгук // Write your comment</a></span>
 

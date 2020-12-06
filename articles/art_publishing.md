@@ -41,14 +41,3 @@ All of the above refers primarily to older-generation writers who remember both 
  *Copyright © 2003. RFE/RL, Inc. Reprinted with the permission of Radio Free Europe/Radio Liberty, 1201 Connecticut Ave., N.W. Washington DC 20036. www.rferl.org. Reprinted from www.rferl.org/pbureport - Poland, Belarus and Ukraine Report* 
 
 
-See also:<br />
-<br />
-- <strong><a href="articles/art_no_russian.html">Saying  *Nyet*  To Russian</a></strong> by Eve Conant<br />
-- <strong><a href="articles/art_benyehuda2.html">Revival of Hebrew</a></strong> by Jack Fellman<br />
-- <strong><a href="articles/art_skaryna1.html">Francis Skaryna, the first Belarusian printer</a></strong> by Alexander Nadson<br />
-
-
-<br />
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fpublishing%2Easp">- Write your comment</a></span>
-

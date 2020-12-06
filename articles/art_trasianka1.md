@@ -66,14 +66,3 @@ large_header: false
 English summary: Maryna Kunouskaja brings into the spotlight the issue of our national language mix  *trasianka* , the Belarusian-Russian patois.  *Trasianka*  (or, alternatively spelled,  *trasyanka* ) is the kind of language that Belarusian villagers typically speak. It's used by the villagers who natively spoke Belarusian, but abandoned it in favor of Russian (as more "urban" and "fashionable" language), and ended up speaking this mixture. In Belarusian language  *trasianka*  also means low quality hay, when indigent farmers mix ("shake") fresh grass with the yesteryear's dried hay. Maryna Kunouskaja discusses the social aspects of speaking in  *trasianka* , especially the issue of generation gap that  *trasianka*  and literary Belarusian create between parents and children, and the rejection and alienation that has been experienced by some nationalistic activists who insist on using correct literary Belarusian. She also points out that  *trasyanka*  has been completely ignored by the mainstream linguists and sociologists in Belarus and abroad.
 
 
-See also / Гл. таксама:<br />
-<br />
-- <strong><a href="trasianka.html">Online Trasianka Generator (перакладчык з расейскай на трасянку)</a></strong><br />
-- <strong><a href="http://litara.net/forum/114">Абмеркаваньне артыкулу на сайце litara.net</a></strong><br />
-- <strong><a href="articles/art_netspeak.html">Netspeak - жывая мова нашага сеціва</a></strong><br />
-- <strong><a href="articles/art_minsk1.html">Менск слэнгавы</a></strong><br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Ftrasianka1%2Easp">Напішыце водгук // Write your comment</a></span>
-

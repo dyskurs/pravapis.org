@@ -92,14 +92,3 @@ Treba źviarnuć uvahu, što formu budučaha času imperfektu treba adroźnivać
 
 Forma prostaha imperfektu budučaha času była skasavanaja kamunistami ŭ 1930ja roki razam z <a href="articles/art_vocative.html">kličnym skłonam</a> dy jinšymi asablivaściami biełaruskaje movy jak prajava "palščyzny". Nastaŭ čas padymać hetaje praviła z dnu historyji biełaruskaje movy.
 
-<hr />
-
-See also / Гл. таксама:<br />
-<br />
-- <strong><a href="articles/art_future_tense.html">Budučy čas (Futur Imperfekt) u biełaruskaj movie</a></strong> - hety samy artykuł kirylicaj;<br />
-- <strong><a href="articles/art_netspeak.html">Biełaruski Netspeak</a></strong> - жывая мова беларускага сеціва;<br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Ffuture%5Ftense2%2Easp">Напішыце водгук // Write your comment</a></span>
-

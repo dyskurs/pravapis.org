@@ -67,16 +67,3 @@ Reference:<img src="belarusian_al_kitab2.jpg" class="zv" width="319" height="390
 </ul>
 <hr />
 
-Please send your <a href="mailto:webteam@pravapis.org?Subject=kitaby">comments and suggestions</a>.
-
-
-See also<br />
-<br />
-- <strong><a href="articles/art_kitab1.html">The original article (in Belarusian)</a></strong><br />
-- <strong><a href="articles/art_jan_stankevich1.html">Interview with Juras Buszlakou regarding the two-volume publication of Jan Stankievic's works</a></strong><br />
-- <strong><a href="articles/art_jan_stankevich2.html">Interview with Valer Bulhakau regarding the two-volume publication of Jan Stankievic's works</a></strong><br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fkitab1%5Fen%2Easp">- Write your comment</a></span>
-

@@ -436,7 +436,3 @@ Russian (расейская мова):
  translation) -- Владимир Короткевич "Дикая охота короля Стаха"
 Electronic versions of the books were taken from [knihi.com
 (Bielaruskaja Palicka).](http://www.knihi.com/)
-<span class="small">[вярнуцца дагары -- back to top](#top)</span>
-<span class="small">[Напішыце водгук // Write your
-comment](gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fletter%5Ffrequency%2Easp)</span>
-

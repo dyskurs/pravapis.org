@@ -93,14 +93,4 @@ large_header: false
 
 <span id="zyd_foot"><sup>2</sup></span> Слова "жыд" ня мае і ніколі ня мела ў беларускай мове адмоўнага ці зьняважальнага адценьня. Гэта, напрыклад, тлумачыць вядомы мовазнаўца Сяргей Шупа ў сваім артыкуле для "Слоўніка Свабоды". Таксама гэта вытлумачана ў адным з нумароў часопіса "Arche", які так і называецца "Жыдоўскі Нумар". <a href="#zyd">Вярнуцца дагары.</a>
 
-<hr />
-
-See also / Гл. таксама:<br />
-<br />
-- <strong><a href="articles/art_benyehuda2.html">Eliezer Ben-Yehuda and the Revival of Hebrew (арыгінал артыкулу па-ангельску)</a></strong><br />
-- <strong><a href="articles/art_benyehuda3.html">Фэстываль гэбрайскай кнігі ў гонар Бэн-Егуды (Ben Yehuda)</a></strong><br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fhebrew1%2Easp">Напішыце водгук // Write your comment</a></span>
 

@@ -50,13 +50,3 @@ Will the combined forces of Putin, NATO and the EU be enough to rescue Russian f
 The URL of the original article - http://www.msnbc.com/news/771082.html?cp1=1<br />
 This article appeared in July 1 issue of  *Newsweek International* .<br />
 
-
-
-See also:<br />
-<br />
-- <strong><a href="articles/art_goujon1.html">"Language, nationalism, and populism in Belarus" by Alexandra Goujon</a></strong><br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fno%5Frussian%2Easp">- Write your comment</a></span>
-

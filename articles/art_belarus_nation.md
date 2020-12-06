@@ -83,18 +83,3 @@ Footnotes
 
  *Copyright © Ales Biely, 1997. The article was originally published in "History Today", April 1997.* 
 
-
-See also:<br />
-<br />
-- <strong><a href="articles/art_belarusian_adjective.html">"'Belarusian' and 'Belarusan' the correct adjective forms"</a></strong> by Katkouski<br />
-- <strong><a href="articles/art_kitab1_en.html">"Kitabs, the unique highlight of the Belarusian language"</a></strong> by Niesciarovich<br />
-- <strong><a href="articles/art_skaryna1.html">"Francis Skaryna, the first Belarusian printer"</a></strong> by Alexander Nadson<br />
-- <strong><a href="articles/art_goujon1.html">"Language, nationalism, and populism in Belarus"</a></strong> by Alexandra Goujon<br />
-- <strong><a href="articles/art_belarus_hogan.html">"Belarus: the thief that stole a whole country"</a></strong> by Katkouski<br />
-- <strong><a href="articles/art_no_russian.html">"Saying Nyet to Russian"</a></strong> by Eve Conant<br />
-
-
-<br />
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fbelarus%5Fnation%2Easp">- Write your comment</a></span>
-

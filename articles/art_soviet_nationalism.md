@@ -70,17 +70,3 @@ On the other hand, some writers did finally find a comfortable compromise with t
 
  *Copyright © 2003. RFE/RL, Inc. Reprinted with the permission of Radio Free Europe/Radio Liberty, 1201 Connecticut Ave., N.W. Washington DC 20036. www.rferl.org. Reprinted from www.rferl.org/pbureport - Poland, Belarus and Ukraine Report* 
 
-
-See also:<br />
-<br />
-- <strong><a href="articles/art_humanities_lyceum.html">Children on the streets: Belarusian Humanities Lyceum closed down</a></strong> by Ihar Svabodzin and Uladzimir Katkouski<br />
-- <strong><a href="articles/art_youth_rebellion.html">Belarusian Humanites Lyceum: Youth Rebellion</a></strong> by Roger Boyes, TIMES<br />
-- <strong><a href="articles/art_publishing.html">Publishing or Perishing</a></strong> by Jan Maksymiuk<br />
-- <strong><a href="articles/art_belarus_nation.html">Belarus: real or fictitious nation?</a></strong> by Ales Biely<br />
-- <strong><a href="articles/art_no_russian.html">Saying  *Nyet*  To Russian</a></strong> by Eve Conant<br />
-
-
-<br />
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fsoviet%5Fnationalism%2Easp">- Write your comment</a></span>
-

@@ -721,5 +721,4 @@ dirty-looking man
 <strong>штыкля</strong>
 вельмі худы чалавек альбо жывёла
 extremely thin, sick person
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Ftop100%2Easp">- Write your comment</a></span>
 

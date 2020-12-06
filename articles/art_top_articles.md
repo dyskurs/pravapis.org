@@ -39,6 +39,3 @@ be/en – article in both languages // абедзьве мовы<br />
 <li><a href="http://www.pravapis.org/articles/art_jewish_belarus.html">Жыдоўскія рэлігійныя песьні па-беларуску (Jewish songs in Belarusian)</a> 125 hits, be</li>
 <li><a href="http://www.pravapis.org/articles/art_kitab1_en.html">Kitabs, the unique highlight of the Belarusian language</a> 124 hits, en</li>
 </ol>
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Ftop%5Farticles%2Easp">- Write your comment</a></span>
-

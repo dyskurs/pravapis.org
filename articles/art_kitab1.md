@@ -67,16 +67,3 @@ large_header: false
 <li>Антонович А.К. Белорусские тексты, писанные арабским письмом, и их графико-орфографическая система. Вильня, 1968</li>
 </ul>
 <hr />
-
-Калі вы ўбачылі памылку альбо маеце нейкую параду ці заўвагу, калі ласка, <a href="mailto:webteam@pravapis.org?Subject=kitaby">дасылайце</a> свае лісты на нашу пащтовую скрынку.
-
-
-See also / Гл. таксама:<br />
-<br />
-- <strong><a href="articles/art_jan_stankevich1.html">Інтэрвію зь Юрасем Бушлаковым з нагоды выхаду двухтамовіка Янкі Станкевіча</a></strong><br />
-- <strong><a href="articles/art_jan_stankevich2.html">Інтэрвію з Валерам Булгакавым з нагоды выхаду двухтамовіка Янкі Станкевіча</a></strong><br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fkitab1%2Easp">Напішыце водгук // Write your comment</a></span>
-

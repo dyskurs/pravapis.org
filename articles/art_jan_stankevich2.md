@@ -43,13 +43,3 @@ RR: - Хто рыхтаваў Збор твораў Янкі Станкевіч�
 © copyright Радыё Рацыя, 2002
 
 
-See also / Гл. таксама:<br />
-<br />
-- <strong><a href="http://www.racyja.pl/2002/Apr/2104mov.htm">Арыгінал артыкулу на сайце Радыё Рацыя</a></strong><br />
-- <strong><a href="articles/art_kitab1.html">Кітабы — унікальная зьява ў беларускай мове</a></strong><br />
-- <strong><a href="articles/art_jan_stankevich1.html">Інтэрвію з Юрасем Бушлаковым з нагоды выхаду двухтамовіка Янкі Станкевіча</a></strong><br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fjan%5Fstankevich2%2Easp">Напішыце водгук // Write your comment</a></span>
-

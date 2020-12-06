@@ -86,16 +86,4 @@ large_header: false
 
  *РўСЌРєСЃС‚ РІС‹СЃС‚СѓРїСѓ Р°СћС‚Р°СЂР° 30 Р»С–РїРµРЅСЏ 2004 РЅР° вЂћР‘РµР»Р°СЂСѓСЃРєС–Рј С‚СЂС‹СЏР»С‘РіСѓ 2004вЂќ, Р°СЂРіР°РЅС–Р·Р°РІР°РЅС‹Рј РЎР°РєСЂР°С‚Р°Рј РЇРЅРѕРІС–С‡Р°Рј Сѓ Р›Р°РїС–С‡Р°С… (РљСЂС‹РЅРєР°СћСЃРєР°СЏ РіРјС–РЅР°). Р”Р»СЏ С‡Р°СЃР°РїС–СЃСѓ вЂњРџСЂР°РІС–РЅС†С‹СЏвЂќ. РќР° СЃР°Р№С†Рµ pravapis.org РїРµСЂР°РґСЂСѓРєРѕСћРІР°РµС†С†Р° Р· РґР°Р·РІРѕР»Сѓ Р°СћС‚Р°СЂР°.* 
 
-<hr />
-
-Р“Р». С‚Р°РєСЃР°РјР°:<br />
-<br />
-- <strong><a href="articles/art_belarusian_poland.html">An Unclaimed Creative Potential or the Belarusians in the Bialystok Region as a Trilingual People</a></strong> - РђРЅРіРµР»СЊСЃРєС– РїРµСЂР°РєР»Р°Рґ РіСЌС‚Р°РіР° Р°СЂС‚С‹РєСѓР»Сѓ.<br />
-- <strong><a href="articles/art_belarusian_poland_sample.html">Graham Greene. Apaviadannie "Nevinny"</a></strong> - РїРµСЂР°РєР»Р°Рґ Р°РїР°РІСЏРґР°РЅСЊРЅСЏ Р“.Р“СЂС‹РЅР° Р· Р°РЅРіРµР»СЊСЃРєР°Р№ РЅР° СЃРІР°СЋ РјРѕРІСѓ.<br />
-- <strong><a href="http://www.livejournal.com/users/rydel23/371658.html">rydel23/blog</a></strong> - РїСѓР±Р»С–С‡РЅР°Рµ Р°Р±РјРµСЂРєР°РІР°РЅСЊРЅРµ Сћ РѕРЅР»Р°Р№РЅ РґР·С‘РЅСЊРЅС–РєСѓ.<br />
-
-
-<br />
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fbelarusian%5Fpoland2%2Easp">- Write your comment</a></span>
 

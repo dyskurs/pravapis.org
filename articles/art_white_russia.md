@@ -39,20 +39,3 @@ In 17<sup>th</sup> century, the Russian Tsars actively promoted the use of the n
 <hr />
 
  *Copyright © Ales Biely, 2001.* 
-
-
-See also:<br />
-<br />
-- <strong><a href="articles/art_belarus_nation.html">"Belarus: Real or Fictious Nation"</a></strong> by Ales Biely<br />
-- <strong><a href="articles/art_belarusian_adjective.html">"'Belarusian' and 'Belarusan' the correct adjective forms"</a></strong><br />
-- <strong><a href="articles/art_skaryna1.html">"Francis Skaryna, the first Belarusian printer"</a></strong> by Alexander Nadson<br />
-- <strong><a href="articles/art_belarus_hogan.html">"Belarus: the thief that stole a whole country"</a></strong> by Katkouski<br />
-- <strong><a href="articles/art_belarus_name.html">"21 Names of Belarus"</a></strong> by Uladzimir Katkouski<br />
-- <strong><a href="articles/art_no_russian.html">"Saying Nyet to Russian"</a></strong> by Eve Conant<br />
-- <strong><a href="articles/art_brit.html">"Britannica Stumbling"</a></strong> by Uladzimir Katkouski<br />
-
-
-<br />
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fwhite%5Frussia%2Easp">- Write your comment</a></span>
-

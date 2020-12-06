@@ -102,6 +102,3 @@ Both works as well as other related books can be downloaded from Bielaruskaja Pa
 
 It is evident that Britannica's <a href="http://www.britannica.com/bcom/eb/article/2/0,5716,15512+1+15316,00.html">entry for the Belarusian language</a> requires serious revision. I gather from the information on their Web site that Britannica's editorial staff welcomes users' comments and suggestions, so you can forward this article as well as your own comments to the following address: <strong><a href="mailto:editorial-comments@us.britannica.com?Subject=Belarusian">editorial-comments@us.britannica.com</a></strong>
 
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fbrit%2Easp">- Write your comment</a></span>
-

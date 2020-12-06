@@ -190,7 +190,3 @@ Alexandra Goujon is a PhD candidate at Institut d'Etudes Politiques de Paris, Fr
 
  *Source: Nationalities Papers; Abingdon; Dec 1999; Volume: 27; Issue: 4; pp. 661-677; ISSN: 00905992* 
 
-<hr />
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fgoujon1%2Easp">- Write your comment</a></span>
-

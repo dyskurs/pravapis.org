@@ -66,14 +66,3 @@ Mrs Gontschar estimates that 5,000 Belarusians have disappeared. “Many are ord
 
 
 Mrs Gontschar, who refuses to be called a widow until her husband’s corpse turns up, sighs. “We could all disappear one day, and nobody will look for us.”
-
-<hr />
-
-See also:<br />
-<br />
-- <strong><a href="articles/art_humanities_lyceum.html">Children on the streets: Belarusian Humanities Lyceum closed down</a></strong><br />
-- <strong><a href="http://www.svaboda.org/news/articles/2003/09/20030909160956.html">TIMES піша пра Ліцэй</a></strong> - кароткі зьмест артыкулу па-беларуску
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fyouth%5Frebellion%2Easp">- Write your comment</a></span>
-

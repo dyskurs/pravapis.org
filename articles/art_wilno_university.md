@@ -60,6 +60,3 @@ Phone: +3702751604, mobile +3709806710, +375163470503 (in Baranaviczy, Belarus).
 
 Personal note: Many people have asked me how much does it cost per year to study Belarusian philology there. One of the students told me it is 1400 Lithuanian lits per year (around 400 USD), but you have to contact the university yourself to get the most uptodate figures.
 
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fwilno%5Funiversity%2Easp">Напішыце водгук // Write your comment</a></span>
-

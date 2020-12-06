@@ -70,7 +70,3 @@ large_header: false
 
 
 – А навошта нам іх прывабліваць? Я проста ня бачу сэнсу. Як казаў клясык, "байнэт - для беларусаў"  *(сьмяеецца)* . Ведаеш, Аліса, мы, беларусы, часта самі сабе нецікавыя, а ты патрабуеш цікавасьці да нас звонку. Я думаю, тут дзейнічае вельмі простае правіла: калі мы будзем  *ім*  цікавыя, яны  *самі*  створаць сайты пра нас. Вось толькі некалькі сайтаў, створаных у замежжы пра нас: <a href="http://www.belarusguide.com/">www.belarusguide.com</a>, <a href="http://www.belarus-misc.org/">www.belarus-misc.org</a>, <a href="http://www.bialorus.pl/">www.bialorus.pl</a>, <a href="http://www.belarusnews.de/">www.belarusnews.de</a>, <a href="http://www.vitryssland.nu/">www.vitryssland.nu</a>, <a href="http://www.belarus.cz/">www.belarus.cz</a>.
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Falice%5Finterview%2Easp">Напішыце водгук // Write your comment</a></span>
-

@@ -71,16 +71,3 @@ by Uladzimir Katkouski<br />
 - L. Lazarev <a href="http://www.amazon.com/exec/obidos/ASIN/5050006856/belarusianlan-20">V. Bykov on Craftsmanship</a>, Unknown binding, Not available<br />
 
 
-
-Related links:<br />
-<br />
-- <a href="http://bykau.by.ru/">bykau.by.ru</a> - Website devoted to Vasil Bykau (in Belarusian, English, Russian);<br />
-- <a href="http://archive.tol.cz/apr00/lynchlang.html">tol.cz/apr2000...</a> - "The Lynching of a Language" interview with Vasil Bykau from 2000;<br />
-- <a href="http://www.belarus-misc.org/writer/bykau-kipel.htm">belarus-misc.org/bykau</a> - Translating Bykau's works into English and other languages;<br />
-- <a href="http://txt.knihi.com/bykau/rana-eng.html">knihi.com/bykau/rana</a> - Vasil Bykau "An Unhealing Wound";<br />
-<br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fvasil%5Fbykau%2Easp">- Write your comment</a></span>
-

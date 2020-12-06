@@ -48,15 +48,4 @@ large_header: false
 
 Мая мова – гэта мой Сусьвет. Яна вызначае маё сьветаўспрыманьне, мысьленьне, маю адметнасьць, асаблівасьць маёй асобы. Яна дае мне права быць беларусам, а не аскепкам савецкай імпэрыі.
 
-<hr />
-
-See also / Гл. таксама:<br />
-<br />
-- <strong><a href="articles/art_worvik1.html">Worvik: Мова форумаў і варыянтнасьць</a></strong><br />
-- <strong><a href="articles/art_decline.html">Чаму заняпала старабеларуская</a></strong><br />
-- <strong><a href="articles/art_netspeak.html">Жывая мова ByNet</a></strong><br />
-
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fmova%5Fjazierski%2Easp">Напішыце водгук // Write your comment</a></span>
 

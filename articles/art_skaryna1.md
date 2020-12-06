@@ -96,7 +96,3 @@ Selected Works in the English Language on Skaryna
 <br />
 <span class="small">* In some English-language works (due to the influence of Russian language sources) Skaryna's name is spelled as Skorina.</span><br />
 
-
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fskaryna1%2Easp">- Write your comment</a></span>
-

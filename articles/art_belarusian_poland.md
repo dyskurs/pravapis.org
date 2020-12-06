@@ -95,15 +95,3 @@ Proceeding from the observation that the circle of active users of the Cyrillic 
 
  *The author presented this text at the "Belarusian Trialogue 2004,” which was organized by Belarusian writer Sakrat Janovic in Lapicze, north-eastern Poland, on 30 July 2004.* 
 
-<hr />
-
-See also:<br />
-<br />
-- <strong><a href="articles/art_belarusian_poland2.html">An Unclaimed Creative Potential or the Belarusians in the Bialystok Region as a Trilingual People</a></strong> - the Belarusian version of this article by Jan Maksimiuk<br />
-- <strong><a href="articles/art_belarusian_poland_sample.html">Graham Greene's story "Nevinny"</a></strong> - a sample of Svoja<br />
-
-
-<br />
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fbelarusian%5Fpoland%2Easp">- Write your comment</a></span>
-

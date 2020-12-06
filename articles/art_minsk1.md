@@ -350,5 +350,3 @@ large_header: false
 P.S. Аўтарка вельмі ўдзячная ўсім тым, хто дапамог у зборы матэрыялаў і не казаў, што заняты.
 
 
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fminsk1%2Easp">Напішыце водгук // Write your comment</a></span>
-

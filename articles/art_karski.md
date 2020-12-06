@@ -109,18 +109,3 @@ Karski was a man of many sides, combining a deep and original intellect with hum
 © Copyright "The Anglo-Byelorussian Society", 1967.<br />
 Reprinted from "The Journal of Byelorussian Studies" Vol. I, No. 3, Year III. London 1967. Arnold B. McMillin "Academician Ja. F. Karski (1861-1931)" pp. 207-215.
 
-
-See also:<br />
-<br />
-- <strong><a href="articles/art_skaryna1.html">Francis Skaryna, the first Belarusian printer</a></strong> by Alexander Nadson<br />
-- <strong><a href="articles/art_chagall.html">Marc Chagall Biography</a></strong> compiled by Uladzimir Katkouski<br />
-- <strong><a href="articles/art_benyehuda2.html">Eliezer Ben-Yehuda and the Revival of Hebrew</a></strong> by Jack Fellman<br />
-- <strong><a href="http://www.amazon.com/exec/obidos/ASIN/3110162849/belarusianlan-20">Old Church Slavonic Grammar</a></strong> by Horace Gray Lunt<br />
-- <strong><a href="http://www.amazon.com/exec/obidos/ASIN/0415280788/belarusianlan-20">The Slavonic Languages</a></strong> by Comrie &amp;. Corbett<br />
-- <strong><a href="http://www.amazon.com/exec/obidos/ASIN/0300058462/belarusianlan-20">The Dawn of Slavic: An Introduction to Slavic Philology</a></strong> by Alexander M. Schenker<br />
-
-
-<br />
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fkarski%2Easp">- Write your comment</a></span>
-

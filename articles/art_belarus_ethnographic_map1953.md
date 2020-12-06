@@ -158,16 +158,3 @@ All the aforementioned territories which for a long time formed individual White
 <h2 id="map-download">Map Download</h2>
 
 • <a href="stan_map_full.jpg"><strong>Download the original map, JPEG image, 735KB, 1990x2130 pixels</strong></a>
-
-<br />
-
-See also:<br />
-<br />
-- <strong><a href="stankievic1953_map_modern_sketch.gif">The small-size .GIF remake of the map, the approximate rendering of the Belarus' ethnographic territories</a></strong> by U.K.<br />
-- <strong><a href="articles/art_karski.html">Academician Jauchim Karski</a></strong> by Arnold B. McMillin, from "The Journal of Byelorussian Studies", London, 1967.<br />
-
-
-<br />
-
-<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fbelarus%5Fethnographic%5Fmap1953%2Easp">- Write your comment</a></span>
-
