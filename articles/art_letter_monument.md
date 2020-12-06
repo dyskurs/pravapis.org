@@ -6,7 +6,7 @@ large_header: false
 
 
 
-<a href=»articles_by.html»>вярнуцца да артыкулаў</a><br />
+<br />
 <a href=»#english»>English summary</a>
 
 <h1 id=»у-полацку-будзе-помнік-ў»>У Полацку будзе помнік Ў</h1>

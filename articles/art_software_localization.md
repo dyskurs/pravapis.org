@@ -10,8 +10,8 @@ large_header: false
 
 
 
-<a href=»articles_by.html»>вярнуцца да артыкулаў</a><br />
-<a href=»#»>раздрукаваць артыкул</a><br />
+<br />
+<br />
 <a href=»#english»>English summary</a>
 
 <h1 id=»software-localization-in-belarus-беларуская-кампутарная-і-інтэрнэтная-тэрміналогія»>Software Localization in Belarus:<br />

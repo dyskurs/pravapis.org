@@ -9,7 +9,7 @@ large_header: false
 
 
 
-<img src=»sestry_fromm.jpg» width=»100» height=»100» alt=»Sestry Fromm» /> <a href=»articles_by.html»>вярнуцца да артыкулаў</a><br />
+<img src=»sestry_fromm.jpg» width=»100» height=»100» alt=»Sestry Fromm» /> <br />
 
 
 <h1 id=»вазьму-ўрокi-трасянкi»>Вазьму ўрокi трасянкi</h1>

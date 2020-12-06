@@ -6,8 +6,8 @@ large_header: false
 
 
 
-<a href=»articles_by.html»>вярнуцца да артыкулаў</a><br />
-<a href=»#»>раздрукаваць артыкул</a><br />
+<br />
+<br />
 <a href=»articles/art_minsk_guide2.html»>English summary</a>
 
 <h1 id=»спадарожнік-па-менску-1930-г.-minsk-guide»>Спадарожнік па Менску 1930 г. [Minsk Guide]</h1>

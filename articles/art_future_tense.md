@@ -6,8 +6,8 @@ large_header: false
 
 
 
-<a href=»articles_by.html»>вярнуцца да артыкулаў</a><br />
-<a href=»#»>раздрукаваць артыкул</a><br />
+<br />
+<br />
 <a href=»articles/art_future_tense2.html»>Versija bieł.łacinkaj</a><br />
 <a href=»#english»>English summary</a>
 

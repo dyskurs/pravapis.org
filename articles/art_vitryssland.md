@@ -6,8 +6,8 @@ large_header: false
 
 
 
-<a href=»articles_by.html»>вярнуцца да артыкулаў</a><br />
-<a href=»#»>раздрукаваць артыкул</a><br />
+<br />
+<br />
 
 
 

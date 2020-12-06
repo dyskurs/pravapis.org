@@ -6,7 +6,7 @@ large_header: false
 
 
 
-<a href=»articles_by.html»>вярнуцца да артыкулаў</a><br />
+<br />
 <a href=»#»>раздрукаваць<br />
 </a><a href=»#english»>English summary</a>
 
