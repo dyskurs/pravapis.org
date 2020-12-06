@@ -1,5 +1,5 @@
 ---
-title: Articles
+title: Артыкулы
 call_to_action: 
 background_image_path:
 large_header: false
