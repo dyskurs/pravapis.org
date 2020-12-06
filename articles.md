@@ -10,12 +10,9 @@ lang: en
 
 |||||||
 {% for article in site.data.articles %}
-|{{ article["lang"] }}|{{ article["title"] }}|{{ article["authors"] }}|{{ article["date"] }}|{{ article["linklink"] }}|{{ article["description"] }}|
+|{{ article["lang"] }}|{{ article["title"] }}|{{ article["authors"] }}|{{ article["date"] }}|{{ article["linklink"] }}|
 {% endfor %}
 
-{% for sdv in site.data.articles %}
-{{ sdv }}
-{% endfor %}
 
 
 Unstaged articles : 
