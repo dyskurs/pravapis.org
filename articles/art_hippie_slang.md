@@ -5,16 +5,14 @@ large_header: false
 ---
 
 
-<table>
-<tbody>
-<tr class="odd">
-
-<td>
 
 <h1 id="фенечка-belarusian-hippie-slang">Фенечка [Belarusian Hippie Slang]</h1>
-<p>Кароткі слоўнік менскіх хіпі і панкаў канца 70-х і пачатку 80-х гадоў,<br />
-скаладзены Адамам Глёбусам</p>
-<p><img src="hippie03.jpg" width="150" height="250" alt="Belarusian hyppy (cute long-haired girl). (C) IREX Fotoservis, Minsk, Belarus" /> АДЦЯГН<strong>У</strong>ЦЦА – злавіць кайф, адпачыць – Пайшлі да Крыпі, адцягнемся.<br />
+
+Кароткі слоўнік менскіх хіпі і панкаў канца 70-х і пачатку 80-х гадоў,<br />
+скаладзены Адамам Глёбусам
+
+
+<img src="hippie03.jpg" width="150" height="250" alt="Belarusian hyppy (cute long-haired girl). (C) IREX Fotoservis, Minsk, Belarus" /> АДЦЯГН<strong>У</strong>ЦЦА – злавіць кайф, адпачыць – Пайшлі да Крыпі, адцягнемся.<br />
 <br />
 АСКАЦЬ – прасіць, клянчыць, зшыбаць грошы (звычайна, на алейках, у парках, на ваґзалах) – Есьці хочацца, пайшлі аскаць на стрыт…<br />
 <br />
@@ -218,16 +216,20 @@ large_header: false
 <br />
 ЦЯГН<strong>У</strong>ЦЬ – трахаць, факаць, любіць… – Нармальная жаба, можна й працягнуць.<br />
 <br />
-ЧУМ<strong>А</strong> – 1. Вар’яцтва – Ты што, гэта ж чума! 2. Дзікая, ненармальная зьява – У мяне быў знаёмы, Шыма – чума.</p>
+ЧУМ<strong>А</strong> – 1. Вар’яцтва – Ты што, гэта ж чума! 2. Дзікая, ненармальная зьява – У мяне быў знаёмы, Шыма – чума.
+
 <hr />
-<p>This is a short slang dictionary of Belarusian (mostly Minsk) hippies and punks of the late 70's and early 80's collected and compiled by the Belarusian writer Adam Hlobus.</p>
-<p>See also / Гл. таксама:<br />
+
+This is a short slang dictionary of Belarusian (mostly Minsk) hippies and punks of the late 70's and early 80's collected and compiled by the Belarusian writer Adam Hlobus.
+
+
+See also / Гл. таксама:<br />
 <br />
 - <strong><a href="articles/art_minsk1.html">Minsk Slang (альтэрнатыўная ґеаґрфія нашай сталіцы)</a></strong><br />
 - <strong><a href="articles/art_netspeak.html">Netspeak - Жывая мова беларускага сеціва</a></strong><br />
 - <strong><a href="articles/art_top100.html">The Forgotten Slang - 100 словаў забытага беларускага слэнгу</a></strong><br />
-</p>
-<p><span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fhippie%5Fslang%2Easp">Напішыце водгук // Write your comment</a></span></p></td>
-</tr>
-</tbody>
-</table>
+
+
+
+<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fhippie%5Fslang%2Easp">Напішыце водгук // Write your comment</a></span>
+

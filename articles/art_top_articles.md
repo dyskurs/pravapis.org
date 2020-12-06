@@ -5,19 +5,18 @@ large_header: false
 ---
 
 
-<table>
-<tbody>
-<tr class="odd">
-
-<td>
 <h1 id="самыя-папулярныя-артыкулы-ў-2002-2003-top-belarusian-articles-in-2002-2003">Самыя папулярныя артыкулы ў 2002-2003<br />
 Top Belarusian Articles in 2002-2003</h1>
-<p>NB: The internal webstats are incomplete and abriged because we have changed the hosting provider a few times, so we are using external source of web statistics (<em>akavita.by</em> web counter) which should give fairly good estimate of web activity on our site. So, these are the most popular articles, as of January 10, 2003, excluding the data for main menu pages such as news.html, articles.html, download.html, forum.html etc.</p>
-<p><span class="small">hits – number of times each article was loaded // колькасьць загрузак кожнага артыкулу<br />
+
+NB: The internal webstats are incomplete and abriged because we have changed the hosting provider a few times, so we are using external source of web statistics ( *akavita.by*  web counter) which should give fairly good estimate of web activity on our site. So, these are the most popular articles, as of January 10, 2003, excluding the data for main menu pages such as news.html, articles.html, download.html, forum.html etc.
+
+
+<span class="small">hits – number of times each article was loaded // колькасьць загрузак кожнага артыкулу<br />
 be – article in Belarusian // артыкул па-беларуску<br />
 en – article in English // артыкул па-ангельску<br />
 be/en – article in both languages // абедзьве мовы<br />
-</span></p>
+</span>
+
 <ol>
 <li><strong><a href="http://www.pravapis.org/articles/art_netspeak.html">Жывая мова нашага сеціва (Belarusian in online chats)</a> 1325 hits, be</strong></li>
 <li><strong><a href="http://www.pravapis.org/articles/art_trasianka1.html">Вазьму ўрокi трасянкi (I want to take trasianka lessons)</a> 1301 hits, be</strong></li>
@@ -40,7 +39,6 @@ be/en – article in both languages // абедзьве мовы<br />
 <li><a href="http://www.pravapis.org/articles/art_jewish_belarus.html">Жыдоўскія рэлігійныя песьні па-беларуску (Jewish songs in Belarusian)</a> 125 hits, be</li>
 <li><a href="http://www.pravapis.org/articles/art_kitab1_en.html">Kitabs, the unique highlight of the Belarusian language</a> 124 hits, en</li>
 </ol>
-<p><span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Ftop%5Farticles%2Easp">- Write your comment</a></span></p></td>
-</tr>
-</tbody>
-</table>
+
+<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Ftop%5Farticles%2Easp">- Write your comment</a></span>
+

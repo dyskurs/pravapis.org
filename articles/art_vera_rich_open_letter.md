@@ -5,17 +5,13 @@ large_header: false
 ---
 
 
-<table>
-<tbody>
-<tr class="odd">
-
-<td>
 <h1 id="vera-richs-open-letter-unesco-belarusian-literature-cd">Vera Rich's Open Letter (UNESCO Belarusian Literature CD)</h1>
-<p>Vera Rich, London</p>
-<table>
-<tbody>
-<tr class="odd">
-<td><p><span class="small"><em>Open Letter from Vera Rich, June 30, 2005</em></span><br />
+
+Vera Rich, London
+
+
+
+<span class="small"> *Open Letter from Vera Rich, June 30, 2005* </span><br />
 <br />
 Dear friends – writers and lovers of Belarusian literature,<br />
 <br />
@@ -65,8 +61,10 @@ Chaj Zhyvie Bielarus!<br />
 <br />
 Vera Rich<br />
 <br />
-London 30.vi.2005</p></td>
-<td><p><span class="small"><em>Адкрыты ліст ад Веры Рыч, 30-га чэрвеня 2005 году.</em></span><br />
+London 30.vi.2005
+
+
+<span class="small"> *Адкрыты ліст ад Веры Рыч, 30-га чэрвеня 2005 году.* </span><br />
 <br />
 Дарагія сябры – пісьменьнікі й аматары беларускае літаратуры.<br />
 <br />
@@ -118,16 +116,15 @@ London 30.vi.2005</p></td>
 <br />
 Лёндан, 30.VI.2005<br />
 <br />
-<span class="small"><em>(Пераклад на беларускую мову - Раман Кардонскі. Дробныя праўкі - Уладзімер Каткоўскі)</em></span></p></td>
-</tr>
-</tbody>
-</table><p>See also:<br />
+<span class="small"> *(Пераклад на беларускую мову - Раман Кардонскі. Дробныя праўкі - Уладзімер Каткоўскі)* </span>
+
+See also:<br />
 <br />
 - <strong><a href="articles/art_rich_translators_notes.html">"Poems on Liberty" Translator's Notes</a></strong> by Vera Rich<br />
 - <strong><a href="articles/art_publishing.html">Belarusian Language: Publishing or Perishing</a></strong> by Jan Maksymiuk<br />
-</p>
+
+
 <br />
-<p><span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fvera%5Frich%5Fopen%5Fletter%2Easp">- Write your comment</a></span></p></td>
-</tr>
-</tbody>
-</table>
+
+<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fvera%5Frich%5Fopen%5Fletter%2Easp">- Write your comment</a></span>
+

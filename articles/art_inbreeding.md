@@ -6,13 +6,6 @@ large_header: false
 
 
  
-<span class="small">**[Раім набыць:](all_books_by.html)** 
-[Віно зь дзьмухаўцоў 
-(па-расейску) 
-Рэй
-Брэдбэры](http://oz.by/books/more.phtml?id=105388&partner=pravapis)</span>
-[вярнуцца да артыкулаў](articles.html) 
-
 # Інбрыдынг у расейскай мове — мінімум словаў, максымум сэнсаў
 С.Аляксандраў, П.Фадзееў
 Ці можна навучыць кампутар думаць? Гэта пытаньне складанае, і дакладнага
@@ -164,6 +157,3 @@ large_header: false
 3\. С.Аляксандраў, П.Фадзееў. Шматкантэкставая аўтаматычная апрацоўка
 вялікіх аб'ёмаў інфармацыі: прынцыпы, мэтады, зыходныя альгарытмы.
 Prague: MK Tisk, 2000
-<span class="small">[Напішыце водгук // Write your
-comment](gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Finbreeding%2Easp)</span>
-

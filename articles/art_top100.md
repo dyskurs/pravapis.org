@@ -5,525 +5,721 @@ large_header: false
 ---
 
 
-<table>
-<tbody>
-<tr class="odd">
-<td>
-</td>
-<td>
+
+
+
+
 <h1 id="the-forgotten-slang.-the-top-100">The Forgotten Slang. The top 100</h1>
-<p>Lubou Szatalava, Uladzimir Katkouski</p>
-<p><strong>Note:</strong> It is still under construction. More words to come; and the introductory comments also will be posted here. The entries are in bold, explanation in Belarusian is in the middle column, and the English translation is in the column on the right. <strong>Warning: explicit lyrics ;-)</strong></p>
+
+Lubou Szatalava, Uladzimir Katkouski
+
+
+<strong>Note:</strong> It is still under construction. More words to come; and the introductory comments also will be posted here. The entries are in bold, explanation in Belarusian is in the middle column, and the English translation is in the column on the right. <strong>Warning: explicit lyrics ;-)</strong>
+
 <hr />
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>абібок</strong></td>
-<td>гультай, лайдак, лежабок</td>
-<td>lazy-bones, idle and slothful person</td>
+
+<strong>абібок</strong>
+гультай, лайдак, лежабок
+lazy-bones, idle and slothful person
+
 </tr>
 <tr class="even">
-<td><strong>абізг`ал</strong></td>
-<td>боўдзіла, тупы чалавек</td>
-<td>moron, dumb ass</td>
+
+<strong>абізг`ал</strong>
+боўдзіла, тупы чалавек
+moron, dumb ass
+
 </tr>
 <tr class="odd">
-<td><strong>ані`быль</strong></td>
-<td>чорт, шайтан</td>
-<td>devil</td>
+
+<strong>ані`быль</strong>
+чорт, шайтан
+devil
+
 </tr>
 <tr class="even">
-<td><strong>апівош</strong></td>
-<td>п'яніца</td>
-<td>drunkard</td>
+
+<strong>апівош</strong>
+п'яніца
+drunkard
+
 </tr>
 <tr class="odd">
-<td><strong>ашалотак</strong></td>
-<td>ненармальны чалавек</td>
-<td>lunatic, crazy person</td>
+
+<strong>ашалотак</strong>
+ненармальны чалавек
+lunatic, crazy person
+
 </tr>
 <tr class="even">
-<td><strong>байсял`іць</strong></td>
-<td>казаць абы-што</td>
-<td>to talk bullshit</td>
+
+<strong>байсял`іць</strong>
+казаць абы-што
+to talk bullshit
+
 </tr>
 <tr class="odd">
-<td><strong>бздура</strong></td>
-<td>дзівацтва, бзік, глупства</td>
-<td>bullshit, stupidity</td>
+
+<strong>бздура</strong>
+дзівацтва, бзік, глупства
+bullshit, stupidity
+
 </tr>
 <tr class="even">
-<td><strong>більдзюга</strong></td>
-<td>1. кій, дубінка; 2. мент</td>
-<td>1. big stick; 2. cop, policeman</td>
+
+<strong>більдзюга</strong>
+1. кій, дубінка; 2. мент
+1. big stick; 2. cop, policeman
+
 </tr>
 <tr class="odd">
-<td><strong>боўдзіла</strong></td>
-<td>дурань, дэбіль</td>
-<td>moron, dumb ass</td>
+
+<strong>боўдзіла</strong>
+дурань, дэбіль
+moron, dumb ass
+
 </tr>
 <tr class="even">
-<td><strong>буця, буцюта</strong></td>
-<td>1. гаспадыня-няўмека; 2. няўдала выпечаны хлеб</td>
-<td>1. completely unskilled house wife 2. burned spoiled bread</td>
+
+<strong>буця, буцюта</strong>
+1. гаспадыня-няўмека; 2. няўдала выпечаны хлеб
+1. completely unskilled house wife 2. burned spoiled bread
+
 </tr>
 <tr class="odd">
-<td><strong>в`ышчака</strong></td>
-<td>тый, хто часта шчэрыць зубы, любіць пасьмяяцца; выскаляка</td>
-<td>sneering, scoffing person</td>
+
+<strong>в`ышчака</strong>
+тый, хто часта шчэрыць зубы, любіць пасьмяяцца; выскаляка
+sneering, scoffing person
+
 </tr>
 <tr class="even">
-<td><strong>валацуга</strong></td>
-<td>жабрак, бяздомны чалавек</td>
-<td>homeless person, bum</td>
+
+<strong>валацуга</strong>
+жабрак, бяздомны чалавек
+homeless person, bum
+
 </tr>
 <tr class="odd">
-<td><strong>варкіла</strong></td>
-<td>бурчлівы чалавек</td>
-<td>grumpy, ill-tempered person</td>
+
+<strong>варкіла</strong>
+бурчлівы чалавек
+grumpy, ill-tempered person
+
 </tr>
 <tr class="even">
-<td><strong>вахл`ак</strong></td>
-<td>прастакаваты, неахайны з выгляду чалавек</td>
-<td>dirty, repulsive, ugly person</td>
+
+<strong>вахл`ак</strong>
+прастакаваты, неахайны з выгляду чалавек
+dirty, repulsive, ugly person
+
 </tr>
 <tr class="odd">
-<td><strong>гал`уза</strong></td>
-<td>гарэза, свавольнік, фарсісты неразумнік</td>
-<td>rascal, rogue</td>
+
+<strong>гал`уза</strong>
+гарэза, свавольнік, фарсісты неразумнік
+rascal, rogue
+
 </tr>
 <tr class="even">
-<td><strong>гал`етра</strong></td>
-<td>абібок, лайдак, гультай</td>
-<td>idle and slothful person</td>
+
+<strong>гал`етра</strong>
+абібок, лайдак, гультай
+idle and slothful person
+
 </tr>
 <tr class="odd">
-<td><strong>гальмар</strong></td>
-<td>тормаз; чалавек із запаволенай рэакцыяй</td>
-<td>retarded person (literally "car brakes")</td>
+
+<strong>гальмар</strong>
+тормаз; чалавек із запаволенай рэакцыяй
+retarded person (literally "car brakes")
+
 </tr>
 <tr class="even">
-<td><strong>гламазда</strong></td>
-<td>кепская жанчына</td>
-<td>bad woman</td>
+
+<strong>гламазда</strong>
+кепская жанчына
+bad woman
+
 </tr>
 <tr class="odd">
-<td><strong>глушмань</strong></td>
-<td>глухі чалавек</td>
-<td>deaf person</td>
+
+<strong>глушмань</strong>
+глухі чалавек
+deaf person
+
 </tr>
 <tr class="even">
-<td><strong>гм`ырак</strong></td>
-<td>суровы, пануры, няўвішны чалавек</td>
-<td>gloomy, murky and dull person</td>
+
+<strong>гм`ырак</strong>
+суровы, пануры, няўвішны чалавек
+gloomy, murky and dull person
+
 </tr>
 <tr class="odd">
-<td><strong>гнус</strong></td>
-<td>жмінда, скнара</td>
-<td>miser, skinflint</td>
+
+<strong>гнус</strong>
+жмінда, скнара
+miser, skinflint
+
 </tr>
 <tr class="even">
-<td><strong>гундос</strong></td>
-<td>гугнявы чалавек</td>
-<td>grumbling person</td>
+
+<strong>гундос</strong>
+гугнявы чалавек
+grumbling person
+
 </tr>
 <tr class="odd">
-<td><strong>далігойла</strong></td>
-<td>жанчына</td>
-<td>(dirty) woman</td>
+
+<strong>далігойла</strong>
+жанчына
+(dirty) woman
+
 </tr>
 <tr class="even">
-<td><strong>даўбак</strong></td>
-<td>дурань, дэбіль, імбэцыль</td>
-<td>moron, imbecile, dumb ass</td>
+
+<strong>даўбак</strong>
+дурань, дэбіль, імбэцыль
+moron, imbecile, dumb ass
+
 </tr>
 <tr class="odd">
-<td><strong>даўбень</strong></td>
-<td>дурань, дэбіль, імбэцыль</td>
-<td>moron, imbecile, dumb ass</td>
+
+<strong>даўбень</strong>
+дурань, дэбіль, імбэцыль
+moron, imbecile, dumb ass
+
 </tr>
 <tr class="even">
-<td><strong>дзюндзя</strong></td>
-<td>абібок, лайдак; жлукта, п’яніца</td>
-<td>lazy slothful person; drunkard</td>
+
+<strong>дзюндзя</strong>
+абібок, лайдак; жлукта, п’яніца
+lazy slothful person; drunkard
+
 </tr>
 <tr class="odd">
-<td><strong>дупа</strong></td>
-<td>задніца</td>
-<td>ass</td>
+
+<strong>дупа</strong>
+задніца
+ass
+
 </tr>
 <tr class="even">
-<td><strong>дыбала</strong></td>
-<td>вялікі нязграбны чалавек</td>
-<td>big disformed man</td>
+
+<strong>дыбала</strong>
+вялікі нязграбны чалавек
+big disformed man
+
 </tr>
 <tr class="odd">
-<td><strong>жл`укта</strong></td>
-<td>п’яніца, алькаголік</td>
-<td>drunkard</td>
+
+<strong>жл`укта</strong>
+п’яніца, алькаголік
+drunkard
+
 </tr>
 <tr class="even">
-<td><strong>жм`інда</strong></td>
-<td>скупы чалавек, скнара</td>
-<td>miser, skinflint</td>
+
+<strong>жм`інда</strong>
+скупы чалавек, скнара
+miser, skinflint
+
 </tr>
 <tr class="odd">
-<td><strong>жэўжык</strong></td>
-<td>свавольнік, гарэза; спэрматазоід</td>
-<td>trouble-maker; spermatozoon</td>
+
+<strong>жэўжык</strong>
+свавольнік, гарэза; спэрматазоід
+trouble-maker; spermatozoon
+
 </tr>
 <tr class="even">
-<td><strong>заяда</strong></td>
-<td>задзіра, завадатар сварак ці боек</td>
-<td>bully, trouble-maker</td>
+
+<strong>заяда</strong>
+задзіра, завадатар сварак ці боек
+bully, trouble-maker
+
 </tr>
 <tr class="odd">
-<td><strong>звадыяш</strong></td>
-<td>падбухторшчык, зводнік</td>
-<td>ring-leader (negative)</td>
+
+<strong>звадыяш</strong>
+падбухторшчык, зводнік
+ring-leader (negative)
+
 </tr>
 <tr class="even">
-<td><strong>зеўра</strong></td>
-<td>адтуліна, прорва; жаночы орган</td>
-<td>big hole, abyss; women's genitals</td>
+
+<strong>зеўра</strong>
+адтуліна, прорва; жаночы орган
+big hole, abyss; women's genitals
+
 </tr>
 <tr class="odd">
-<td><strong>зух</strong></td>
-<td>бойкі, удалы, малайцаваты чалавек</td>
-<td>fine fellow; lucky guy</td>
+
+<strong>зух</strong>
+бойкі, удалы, малайцаваты чалавек
+fine fellow; lucky guy
+
 </tr>
 <tr class="even">
-<td><strong>зыкаўка</strong></td>
-<td>вялікая зялёная муха, якая ляціць на лайно</td>
-<td>big green fly that flies over shit</td>
+
+<strong>зыкаўка</strong>
+вялікая зялёная муха, якая ляціць на лайно
+big green fly that flies over shit
+
 </tr>
 <tr class="odd">
-<td><strong>зяпа</strong></td>
-<td>рот, вусны (вульг.)</td>
-<td>mouth (vulgar)</td>
+
+<strong>зяпа</strong>
+рот, вусны (вульг.)
+mouth (vulgar)
+
 </tr>
 <tr class="even">
-<td><strong>імбэцыль</strong></td>
-<td>дурань, дэбіль</td>
-<td>moron, dumb ass</td>
+
+<strong>імбэцыль</strong>
+дурань, дэбіль
+moron, dumb ass
+
 </tr>
 <tr class="odd">
-<td><strong>кабеціна</strong></td>
-<td>кабета (іран.зьневаж.)</td>
-<td>old woman (vulgar)</td>
+
+<strong>кабеціна</strong>
+кабета (іран.зьневаж.)
+old woman (vulgar)
+
 </tr>
 <tr class="even">
-<td><strong>кадук</strong></td>
-<td>злы дух, д`ябла, шайтан</td>
-<td>evil spirit, a kind of pagan devil</td>
+
+<strong>кадук</strong>
+злы дух, д`ябла, шайтан
+evil spirit, a kind of pagan devil
+
 </tr>
 <tr class="odd">
-<td><strong>карузьлік</strong></td>
-<td>гном, ліліпут</td>
-<td>dwarf (negative)</td>
+
+<strong>карузьлік</strong>
+гном, ліліпут
+dwarf (negative)
+
 </tr>
 <tr class="even">
-<td><strong>каўтуны</strong></td>
-<td>валосься (пагард.)</td>
-<td>hair (vulgar)</td>
+
+<strong>каўтуны</strong>
+валосься (пагард.)
+hair (vulgar)
+
 </tr>
 <tr class="odd">
-<td><strong>кіжлун</strong></td>
-<td>нахабны мужчына (зьнев.крыўд.)</td>
-<td>obnoxious guy</td>
+
+<strong>кіжлун</strong>
+нахабны мужчына (зьнев.крыўд.)
+obnoxious guy
+
 </tr>
 <tr class="even">
-<td><strong>крашалап</strong></td>
-<td>клышаногі чалавек</td>
-<td>curved-feet (vulgar)</td>
+
+<strong>крашалап</strong>
+клышаногі чалавек
+curved-feet (vulgar)
+
 </tr>
 <tr class="odd">
-<td><strong>лайно</strong></td>
-<td>гаўно</td>
-<td>shit</td>
+
+<strong>лайно</strong>
+гаўно
+shit
+
 </tr>
 <tr class="even">
-<td><strong>латруга</strong></td>
-<td>п’яніца, алькаголік; гультай, абібок</td>
-<td>alcohol addict; lazy person</td>
+
+<strong>латруга</strong>
+п’яніца, алькаголік; гультай, абібок
+alcohol addict; lazy person
+
 </tr>
 <tr class="odd">
-<td><strong>лахта</strong></td>
-<td>балбатлівая жанчына</td>
-<td>talkative woman (vulgar)</td>
+
+<strong>лахта</strong>
+балбатлівая жанчына
+talkative woman (vulgar)
+
 </tr>
 <tr class="even">
-<td><strong>лыла</strong></td>
-<td>вялікі неахайны чалавек</td>
-<td>big misshaped person</td>
+
+<strong>лыла</strong>
+вялікі неахайны чалавек
+big misshaped person
+
 </tr>
 <tr class="odd">
-<td><strong>лярва</strong></td>
-<td>курва (вульг.зьневаж.)</td>
-<td>prostitute (vulgar)</td>
+
+<strong>лярва</strong>
+курва (вульг.зьневаж.)
+prostitute (vulgar)
+
 </tr>
 <tr class="even">
-<td><strong>мармыль</strong></td>
-<td>нелюдзімы, негаваркі чалавек</td>
-<td>quiet unsociable person</td>
+
+<strong>мармыль</strong>
+нелюдзімы, негаваркі чалавек
+quiet unsociable person
+
 </tr>
 <tr class="odd">
-<td><strong>мема</strong></td>
-<td>разявака; маўчын</td>
-<td>absent-minded person</td>
+
+<strong>мема</strong>
+разявака; маўчын
+absent-minded person
+
 </tr>
 <tr class="even">
-<td><strong>мут`ар</strong></td>
-<td>падманшчык, ілгун</td>
-<td>liar</td>
+
+<strong>мут`ар</strong>
+падманшчык, ілгун
+liar
+
 </tr>
 <tr class="odd">
-<td><strong>навалач</strong></td>
-<td>чужаніца, прыхадзень</td>
-<td>alien (negative)</td>
+
+<strong>навалач</strong>
+чужаніца, прыхадзень
+alien (negative)
+
 </tr>
 <tr class="even">
-<td><strong>насіска</strong></td>
-<td>вялікі нос</td>
-<td>large nose</td>
+
+<strong>насіска</strong>
+вялікі нос
+large nose
+
 </tr>
 <tr class="odd">
-<td><strong>небар`ака</strong></td>
-<td>чалавек, які выклікае спагаду, спачуваньне</td>
-<td>person that makes you feel compassion or sympathy</td>
+
+<strong>небар`ака</strong>
+чалавек, які выклікае спагаду, спачуваньне
+person that makes you feel compassion or sympathy
+
 </tr>
 <tr class="even">
-<td><strong>недалуга</strong></td>
-<td>слабы, хворы чалавек; недарэка</td>
-<td>weak sick person</td>
+
+<strong>недалуга</strong>
+слабы, хворы чалавек; недарэка
+weak sick person
+
 </tr>
 <tr class="odd">
-<td><strong>недарэка</strong></td>
-<td>някемлівы, няўклюдны, няўмелы чалавек</td>
-<td>dumb, clumsy, awkward person</td>
+
+<strong>недарэка</strong>
+някемлівы, няўклюдны, няўмелы чалавек
+dumb, clumsy, awkward person
+
 </tr>
 <tr class="even">
-<td><strong>нёха</strong></td>
-<td>неахайны чалавек</td>
-<td>dirty-looking person</td>
+
+<strong>нёха</strong>
+неахайны чалавек
+dirty-looking person
+
 </tr>
 <tr class="odd">
-<td><strong>нэндза</strong></td>
-<td>1. галеча, жабрацтва. 2. чалавек, які нудзіцца; нуда</td>
-<td>1. poverty, misery. 2. grumpy complaining person</td>
+
+<strong>нэндза</strong>
+1. галеча, жабрацтва. 2. чалавек, які нудзіцца; нуда
+1. poverty, misery. 2. grumpy complaining person
+
 </tr>
 <tr class="even">
-<td><strong>нядбайла</strong></td>
-<td>нядбайны, лянівы чалавек, нядбалец</td>
-<td>lazy person; loser</td>
+
+<strong>нядбайла</strong>
+нядбайны, лянівы чалавек, нядбалец
+lazy person; loser
+
 </tr>
 <tr class="odd">
-<td><strong>п`етлахі</strong></td>
-<td>валосьсе</td>
-<td>hair (vulgar)</td>
+
+<strong>п`етлахі</strong>
+валосьсе
+hair (vulgar)
+
 </tr>
 <tr class="even">
-<td><strong>падскрэбіш</strong></td>
-<td>апошняе дзіця; малы дурны дзіцёнак</td>
-<td>the last child; small dumb child</td>
+
+<strong>падскрэбіш</strong>
+апошняе дзіця; малы дурны дзіцёнак
+the last child; small dumb child
+
 </tr>
 <tr class="odd">
-<td><strong>пакрака</strong></td>
-<td>неахайны чалавек</td>
-<td>dirty-looking person</td>
+
+<strong>пакрака</strong>
+неахайны чалавек
+dirty-looking person
+
 </tr>
 <tr class="even">
-<td><strong>памаўз`а</strong></td>
-<td>шкоднік, свавольнік</td>
-<td>hooligan, fidget</td>
+
+<strong>памаўз`а</strong>
+шкоднік, свавольнік
+hooligan, fidget
+
 </tr>
 <tr class="odd">
-<td><strong>пачвара</strong></td>
-<td>1. цмок; дракон; 2. жорсткі амаральны чалавек, вырадак</td>
-<td>1. dragon; monster. 2. immoral person</td>
+
+<strong>пачвара</strong>
+1. цмок; дракон; 2. жорсткі амаральны чалавек, вырадак
+1. dragon; monster. 2. immoral person
+
 </tr>
 <tr class="even">
-<td><strong>плюхкач</strong></td>
-<td>пашляк</td>
-<td>vulgar person</td>
+
+<strong>плюхкач</strong>
+пашляк
+vulgar person
+
 </tr>
 <tr class="odd">
-<td><strong>похва</strong></td>
-<td>улоньне</td>
-<td>pussy</td>
+
+<strong>похва</strong>
+улоньне
+pussy
+
 </tr>
 <tr class="even">
-<td><strong>прасталытка</strong></td>
-<td>курва, прастытутка</td>
-<td>prostitute</td>
+
+<strong>прасталытка</strong>
+курва, прастытутка
+prostitute
+
 </tr>
 <tr class="odd">
-<td><strong>пыса</strong></td>
-<td>морда (у жывёлаў і ня толькі)</td>
-<td>ugly face (like animals)</td>
+
+<strong>пыса</strong>
+морда (у жывёлаў і ня толькі)
+ugly face (like animals)
+
 </tr>
 <tr class="even">
-<td><strong>расхэйдус</strong></td>
-<td>беспарадак, бардэль, бардак, гармідар</td>
-<td>chaos, complete disorder</td>
+
+<strong>расхэйдус</strong>
+беспарадак, бардэль, бардак, гармідар
+chaos, complete disorder
+
 </tr>
 <tr class="odd">
-<td><strong>рашка</strong></td>
-<td>твар, пыса</td>
-<td>ugly face (vulgar)</td>
+
+<strong>рашка</strong>
+твар, пыса
+ugly face (vulgar)
+
 </tr>
 <tr class="even">
-<td><strong>ропа</strong></td>
-<td>гной (з раны)</td>
-<td>pus (from wounds)</td>
+
+<strong>ропа</strong>
+гной (з раны)
+pus (from wounds)
+
 </tr>
 <tr class="odd">
-<td><strong>рохля</strong></td>
-<td>неахайная жанчына</td>
-<td>dirty-looking woman</td>
+
+<strong>рохля</strong>
+неахайная жанчына
+dirty-looking woman
+
 </tr>
 <tr class="even">
-<td><strong>секель</strong></td>
-<td>клітар</td>
-<td>clitoris</td>
+
+<strong>секель</strong>
+клітар
+clitoris
+
 </tr>
 <tr class="odd">
-<td><strong>скнара</strong></td>
-<td>вельмі скупы чалавек, жмінда</td>
-<td>extreme miser</td>
+
+<strong>скнара</strong>
+вельмі скупы чалавек, жмінда
+extreme miser
+
 </tr>
 <tr class="even">
-<td><strong>скуралуп</strong></td>
-<td>бязьлітасны, жорсткі чалавек</td>
-<td>merciless person; tough guy</td>
+
+<strong>скуралуп</strong>
+бязьлітасны, жорсткі чалавек
+merciless person; tough guy
+
 </tr>
 <tr class="odd">
-<td><strong>смаргуль</strong></td>
-<td>вельмі скупы чалавек</td>
-<td>miser, skinflint</td>
+
+<strong>смаргуль</strong>
+вельмі скупы чалавек
+miser, skinflint
+
 </tr>
 <tr class="even">
-<td><strong>смуроднік</strong></td>
-<td>чалавек ад якога ідзе непрыемны, агідны пах; ванючка</td>
-<td>smelly stinky person</td>
+
+<strong>смуроднік</strong>
+чалавек ад якога ідзе непрыемны, агідны пах; ванючка
+smelly stinky person
+
 </tr>
 <tr class="odd">
-<td><strong>стамадзюк</strong></td>
-<td>брудны чалавек</td>
-<td>dirty-looking man</td>
+
+<strong>стамадзюк</strong>
+брудны чалавек
+dirty-looking man
+
 </tr>
 <tr class="even">
-<td><strong>сызма</strong></td>
-<td>вельмі скупы чалавек</td>
-<td>extreme miser</td>
+
+<strong>сызма</strong>
+вельмі скупы чалавек
+extreme miser
+
 </tr>
 <tr class="odd">
-<td><strong>сьлімак</strong></td>
-<td>1. смоўж, які мае ракавіну й вельмі павольна рухаецца. 2. бязвольны, безхарактарны чалавек</td>
-<td>1. snail 2. a man without any will, having no strength in his character</td>
+
+<strong>сьлімак</strong>
+1. смоўж, які мае ракавіну й вельмі павольна рухаецца. 2. бязвольны, безхарактарны чалавек
+1. snail 2. a man without any will, having no strength in his character
+
 </tr>
 <tr class="even">
-<td><strong>сюрык</strong></td>
-<td>дзіцячы чэлес</td>
-<td>child's penis</td>
+
+<strong>сюрык</strong>
+дзіцячы чэлес
+child's penis
+
 </tr>
 <tr class="odd">
-<td><strong>талалуй</strong></td>
-<td>дуркаваты чалавек</td>
-<td>foolish person</td>
+
+<strong>талалуй</strong>
+дуркаваты чалавек
+foolish person
+
 </tr>
 <tr class="even">
-<td><strong>тарадэйка</strong></td>
-<td>балаболка</td>
-<td>extremely talkative woman</td>
+
+<strong>тарадэйка</strong>
+балаболка
+extremely talkative woman
+
 </tr>
 <tr class="odd">
-<td><strong>трыбухач</strong></td>
-<td>пузаты чалавек</td>
-<td>man with a big belly</td>
+
+<strong>трыбухач</strong>
+пузаты чалавек
+man with a big belly
+
 </tr>
 <tr class="even">
-<td><strong>фіфа</strong></td>
-<td>пустая, легкадумная жанчына (іран.зьневаж.)</td>
-<td>foolish dumb woman</td>
+
+<strong>фіфа</strong>
+пустая, легкадумная жанчына (іран.зьневаж.)
+foolish dumb woman
+
 </tr>
 <tr class="odd">
-<td><strong>хаблы</strong></td>
-<td>людзі зь ніжэйшых сацыяльных слаёў; хамы.</td>
-<td>obnoxious low-class people</td>
+
+<strong>хаблы</strong>
+людзі зь ніжэйшых сацыяльных слаёў; хамы.
+obnoxious low-class people
+
 </tr>
 <tr class="even">
-<td><strong>халэмус</strong></td>
-<td>канец, пязьзец, сьмерць</td>
-<td>end, death (vulgar)</td>
+
+<strong>халэмус</strong>
+канец, пязьзец, сьмерць
+end, death (vulgar)
+
 </tr>
 <tr class="odd">
-<td><strong>хватан</strong></td>
-<td>малойца, зух, круты хлопец</td>
-<td>fne fellow; cool guy</td>
+
+<strong>хватан</strong>
+малойца, зух, круты хлопец
+fne fellow; cool guy
+
 </tr>
 <tr class="even">
-<td><strong>хлюндра</strong></td>
-<td>неахайная жанчына; курва</td>
-<td>ugly dirty-looking woman; prostitute</td>
+
+<strong>хлюндра</strong>
+неахайная жанчына; курва
+ugly dirty-looking woman; prostitute
+
 </tr>
 <tr class="odd">
-<td><strong>хмулаты</strong></td>
-<td>грубы, няветлівы</td>
-<td>impolite, rough</td>
+
+<strong>хмулаты</strong>
+грубы, няветлівы
+impolite, rough
+
 </tr>
 <tr class="even">
-<td><strong>хоўра</strong></td>
-<td>неахайная жанчына</td>
-<td>dirty-looking woman</td>
+
+<strong>хоўра</strong>
+неахайная жанчына
+dirty-looking woman
+
 </tr>
 <tr class="odd">
-<td><strong>хэўра</strong></td>
-<td>зграя, банда</td>
-<td>band, gang</td>
+
+<strong>хэўра</strong>
+зграя, банда
+band, gang
+
 </tr>
 <tr class="even">
-<td><strong>цяльпук</strong></td>
-<td>нінашто няздольны чалавек; незграбны, неахайны чалавек</td>
-<td>person that is not fit for anything; loser; disformed person</td>
+
+<strong>цяльпук</strong>
+нінашто няздольны чалавек; незграбны, неахайны чалавек
+person that is not fit for anything; loser; disformed person
+
 </tr>
 <tr class="odd">
-<td><strong>чапяла</strong></td>
-<td>нехта худы як чапля (зьневаж.).</td>
-<td>extremely thin person</td>
+
+<strong>чапяла</strong>
+нехта худы як чапля (зьневаж.).
+extremely thin person
+
 </tr>
 <tr class="even">
-<td><strong>чупурушка</strong></td>
-<td>неахайная, няздольная нінашто жанчына</td>
-<td>unskilled dirty woman</td>
+
+<strong>чупурушка</strong>
+неахайная, няздольная нінашто жанчына
+unskilled dirty woman
+
 </tr>
 <tr class="odd">
-<td><strong>чушка</strong></td>
-<td>неахайная жанчына</td>
-<td>dirty-looking woman</td>
+
+<strong>чушка</strong>
+неахайная жанчына
+dirty-looking woman
+
 </tr>
 <tr class="even">
-<td><strong>шалепаўка</strong></td>
-<td>расьцяпа</td>
-<td>muddler, bungler</td>
+
+<strong>шалепаўка</strong>
+расьцяпа
+muddler, bungler
+
 </tr>
 <tr class="odd">
-<td><strong>шлюндра</strong></td>
-<td>гл. хлюндра</td>
-<td>same as khliundra (see above)</td>
+
+<strong>шлюндра</strong>
+гл. хлюндра
+same as khliundra (see above)
+
 </tr>
 <tr class="even">
-<td><strong>штамадзюк</strong></td>
-<td>неахайны чалавек</td>
-<td>dirty-looking man</td>
+
+<strong>штамадзюк</strong>
+неахайны чалавек
+dirty-looking man
+
 </tr>
 <tr class="odd">
-<td><strong>штыкля</strong></td>
-<td>вельмі худы чалавек альбо жывёла</td>
-<td>extremely thin, sick person</td>
-</tr>
-</tbody>
-</table><p><span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Ftop100%2Easp">- Write your comment</a></span></p></td>
-</tr>
-</tbody>
-</table>
+
+<strong>штыкля</strong>
+вельмі худы чалавек альбо жывёла
+extremely thin, sick person
+<span class="small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Ftop100%2Easp">- Write your comment</a></span>
+
