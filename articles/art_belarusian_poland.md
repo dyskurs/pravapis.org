@@ -93,5 +93,5 @@ The literary magazine «Pravincyja»  *[the atuhor, Jan Maksimiuk, is one of the
 Proceeding from the observation that the circle of active users of the Cyrillic script among Belarusians in the Bialystok region is unavoidably shrinking, the editors of «Pravincyja» has adapted the Latin alphabet for reproducing the sounds of  *Svoja*  in writing. From a purely practical point of view, using the Latin script for writing in  *Svoja*  seems to be much more promising that adapting the Cyrillic alphabet for this purpose. But the editors of «Pravincyja» are not going to demand a change of the script from those authors who will supply texts in  *Svoja*  written in the «traditional» Cyrillic form.
 
 
- *The author presented this text at the «Belarusian Trialogue 2004,” which was organized by Belarusian writer Sakrat Janovic in Lapicze, north-eastern Poland, on 30 July 2004.* 
+ *The author presented this text at the «Belarusian Trialogue 2004,» which was organized by Belarusian writer Sakrat Janovic in Lapicze, north-eastern Poland, on 30 July 2004.* 
 
