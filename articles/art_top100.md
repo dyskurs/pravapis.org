@@ -578,7 +578,7 @@ extreme miser
 </tr>
 <tr class=»odd»>
 
-<strong>сьлімак</strong>
+<strong>слімак</strong>
 1. смоўж, які мае ракавіну й вельмі павольна рухаецца. 2. бязвольны, безхарактарны чалавек
 1. snail 2. a man without any will, having no strength in his character
 

@@ -39,7 +39,7 @@ Belarusian Institute of Arts and Sciences
 з збораў Нацыянальнага Музэю Літоўскай Рэспублікі ў Вільні  
 Turkish-Belarusian Phrase-book of 1836  
 Türkçe-Belarusça Kilavuz Yil = 1836  
-Прадмова, трансьлітарацыя, падрыхтоўка тэксту, публікацыя і камэнтары: Галіна Александровіч-Мішкінене, Сяргей Шупа  
+Прадмова, транслітарацыя, падрыхтоўка тэксту, публікацыя і камэнтары: Галіна Александровіч-Мішкінене, Сяргей Шупа  
 Агульная рэдакцыя: Сяргей Шупа  
 Copyright © 1995 by the Belarusian Institute of Arts and Sciences in the US  
 New York, 1995  
