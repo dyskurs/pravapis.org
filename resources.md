@@ -10,18 +10,18 @@ lang: en
 
 Pravapis.org is a private Internet project with the objective to put together various resources about our language, to make it a true portal for linguists and philologists interested in the Belarusian language.
 
-[the list of topics for articles](sought_articles.html)
+[the list of topics for articles](/articles/sought_articles.html)
 
 Resources
 ---------
 
-**Belarusian Classical Orthography 2005** PDF and DOC September 10th, 2005 [These are the new rules of the classical orthography](pravapis2005.html)
+**Belarusian Classical Orthography 2005** PDF and DOC September 10th, 2005 [These are the new rules of the classical orthography](/articles/pravapis2005)
 
-**White Ruthenia Ethographic Map** \[735 KB\] JPEG by Jan Stankievich July 28th, 2005 ["Ethnographical and Historical Territories and Boundaries of Whiteruthenia" is a rare ethnographic map from the well-known 20th century Belarusan linguist and ethnography researcher Dr. Jan Stankievich that outlines the areal of Belarusian people based on linguistic features of the dialects. The map was published in New York in 1953, the scanned image can be found at the bottom of the page.](articles/art_belarus_ethnographic_map1953.html)
+**White Ruthenia Ethographic Map** \[735 KB\] JPEG by Jan Stankievich July 28th, 2005 ["Ethnographical and Historical Territories and Boundaries of Whiteruthenia" is a rare ethnographic map from the well-known 20th century Belarusan linguist and ethnography researcher Dr. Jan Stankievich that outlines the areal of Belarusian people based on linguistic features of the dialects. The map was published in New York in 1953, the scanned image can be found at the bottom of the page.](/articles/art_belarus_ethnographic_map1953)
 
 **Fundamentals of Modern Belarusian** \[421 KB\] PDF by Chris Marchant February 18th, 2004 [a short introduction to Belarusian grammar.](/assets/fundamental_belarusian.pdf)
 
-**Turkish-Belarusian Phrasebook of 1836 \[3,0MB\]** PDF., New York, 1995 December 2nd, 2002 [The unique Turkish-Belarusian Phrasebook of 1836 (Türkçe-Belarusça Kilavuz Yil = 1836) compiled and transliterated by S.Shupa, published in 1995 in New York. Click here for more details and free download. \](d_turkish_belarusian.html)
+**Turkish-Belarusian Phrasebook of 1836 \[3,0MB\]** PDF., New York, 1995 December 2nd, 2002 [The unique Turkish-Belarusian Phrasebook of 1836 (Türkçe-Belarusça Kilavuz Yil = 1836) compiled and transliterated by S.Shupa, published in 1995 in New York. Click here for more details and free download.](/articles/d_turkish_belarusian)
 
 **Belarusan ABC for kids \[2,2MB\]** PDF. vyd. Zaranka, New York, 1964 October 3rd, 2002 [This is a very rare edition of Belarusian ABC for kids _"Lemantar"_ written in Lacinka (Belarusian Latin Script) and was published in New York in 1964. The ABC contains 96 scanned pages (black\\&white, 150dpi). I have received it from Cambridge (big thanks Mikola Paczkajeu!) and scanned it into the PDF format. \](/assets/belarus_lemantar.pdf)
 
