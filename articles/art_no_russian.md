@@ -47,6 +47,6 @@ Will the combined forces of Putin, NATO and the EU be enough to rescue Russian f
 
 © 2002 Newsweek, Inc<br />
 "...non-commercial use only, provided you keep intact all copyright and other proprietary notices."<br />
-The URL of the original article - http://www.msnbc.com/news/771082.html?cp1=1<br />
+The URL of the original article — http://www.msnbc.com/news/771082.html?cp1=1<br />
 This article appeared in July 1 issue of  *Newsweek International* .<br />
 

@@ -38,6 +38,6 @@ All of the above refers primarily to older-generation writers who remember both 
 
 <hr />
 
- *Copyright © 2003. RFE/RL, Inc. Reprinted with the permission of Radio Free Europe/Radio Liberty, 1201 Connecticut Ave., N.W. Washington DC 20036. www.rferl.org. Reprinted from www.rferl.org/pbureport - Poland, Belarus and Ukraine Report* 
+ *Copyright © 2003. RFE/RL, Inc. Reprinted with the permission of Radio Free Europe/Radio Liberty, 1201 Connecticut Ave., N.W. Washington DC 20036. www.rferl.org. Reprinted from www.rferl.org/pbureport — Poland, Belarus and Ukraine Report* 
 
 

@@ -44,45 +44,45 @@ Most of the people who want to learn a Slavic language usually choose Russian an
 
 
 Below you will find a short guide for the pronunciation of the letters:<br />
-<strong>Аа</strong> - between "a" in "cat" and "u" in "cut"<br />
-<strong>Бб</strong> - like "b" in "bit"<br />
-<strong>Вв</strong> - like "v" in "vine"<br />
-<strong>Гг</strong> - approx. like "h" in "how"<br />
-<strong>Ґґ</strong> - like "g" in "go"<br />
-<strong>Дд</strong> - like "d" in "do"<br />
-<strong>ДЖдж</strong> - like "j" in "journey"<br />
-<strong>ДЗЬдзь</strong> - approx. like "ds" in "raids"<br />
-<strong>Ее</strong> - like "ye" in "yet"<br />
-<strong>Ёё</strong> - like "yo" in "yonder"<br />
-<strong>Жж</strong> - like "s" in "pleasure"<br />
-<strong>Зз</strong> - like "z" in "zoo"<br />
-<strong>ЗЬзь</strong> - soft palatalized sound in between "z" and "zh".<br />
-<strong>Іі</strong> - like "ee" in "see"<br />
-<strong>Йй</strong> - like "y" in "gay" or "boy". It's a semivowel, and it is always combined with a full vowel.<br />
-<strong>Кк</strong> - like "k" in "kitten"<br />
-<strong>Лл</strong> - like "l" in "lady"<br />
-<strong>ЛЬль</strong> - soft "l" like "l" in "lemon"<br />
-<strong>Мм</strong> - like "m" in "my"<br />
-<strong>Нн</strong> - like "n" in "not"<br />
-<strong>НЬнь</strong> - like "n" in "near"<br />
-<strong>Оо</strong> - like "o" in "hot"<br />
-<strong>Пп</strong> - like "p" in "pot"<br />
-<strong>Рр</strong> - trilled "r" (similar to a Scottish "r")<br />
-<strong>Сс</strong> - like "s" in "sun"<br />
-<strong>СЬсь</strong> - soft palatalized sound in between "s" and "sh".<br />
-<strong>Тт</strong> - like "t" in "tip"<br />
-<strong>Уу</strong> - like "oo" in "boot"<br />
-<strong>Ўў</strong> - like final "w" in "window"<br />
-<strong>Фф</strong> - like "f" in "face"<br />
-<strong>Хх</strong> - like "ch" in Scottish "loch"<br />
-<strong>Цц</strong> - like "ts" in "cats"<br />
-<strong>ЦЬць</strong> - soft palatalized sound in between "ts" and "ch".<br />
-<strong>Чч</strong> - hard "ch" that sounds like a combination of "t" and "sh".<br />
-<strong>Шш</strong> - like "sh" in "shut"<br />
-<strong>Ыы</strong> - a "dark" hard "i", like "i" in "Chris"<br />
-<strong>Ээ</strong> - like "e" in "met"<br />
-<strong>Юю</strong> - like "u" in "duke"<br />
-<strong>Яя</strong> - like "ya" in "yard"<br />
+<strong>Аа</strong> — between "a" in "cat" and "u" in "cut"<br />
+<strong>Бб</strong> — like "b" in "bit"<br />
+<strong>Вв</strong> — like "v" in "vine"<br />
+<strong>Гг</strong> — approx. like "h" in "how"<br />
+<strong>Ґґ</strong> — like "g" in "go"<br />
+<strong>Дд</strong> — like "d" in "do"<br />
+<strong>ДЖдж</strong> — like "j" in "journey"<br />
+<strong>ДЗЬдзь</strong> — approx. like "ds" in "raids"<br />
+<strong>Ее</strong> — like "ye" in "yet"<br />
+<strong>Ёё</strong> — like "yo" in "yonder"<br />
+<strong>Жж</strong> — like "s" in "pleasure"<br />
+<strong>Зз</strong> — like "z" in "zoo"<br />
+<strong>ЗЬзь</strong> — soft palatalized sound in between "z" and "zh".<br />
+<strong>Іі</strong> — like "ee" in "see"<br />
+<strong>Йй</strong> — like "y" in "gay" or "boy". It's a semivowel, and it is always combined with a full vowel.<br />
+<strong>Кк</strong> — like "k" in "kitten"<br />
+<strong>Лл</strong> — like "l" in "lady"<br />
+<strong>ЛЬль</strong> — soft "l" like "l" in "lemon"<br />
+<strong>Мм</strong> — like "m" in "my"<br />
+<strong>Нн</strong> — like "n" in "not"<br />
+<strong>НЬнь</strong> — like "n" in "near"<br />
+<strong>Оо</strong> — like "o" in "hot"<br />
+<strong>Пп</strong> — like "p" in "pot"<br />
+<strong>Рр</strong> — trilled "r" (similar to a Scottish "r")<br />
+<strong>Сс</strong> — like "s" in "sun"<br />
+<strong>СЬсь</strong> — soft palatalized sound in between "s" and "sh".<br />
+<strong>Тт</strong> — like "t" in "tip"<br />
+<strong>Уу</strong> — like "oo" in "boot"<br />
+<strong>Ўў</strong> — like final "w" in "window"<br />
+<strong>Фф</strong> — like "f" in "face"<br />
+<strong>Хх</strong> — like "ch" in Scottish "loch"<br />
+<strong>Цц</strong> — like "ts" in "cats"<br />
+<strong>ЦЬць</strong> — soft palatalized sound in between "ts" and "ch".<br />
+<strong>Чч</strong> — hard "ch" that sounds like a combination of "t" and "sh".<br />
+<strong>Шш</strong> — like "sh" in "shut"<br />
+<strong>Ыы</strong> — a "dark" hard "i", like "i" in "Chris"<br />
+<strong>Ээ</strong> — like "e" in "met"<br />
+<strong>Юю</strong> — like "u" in "duke"<br />
+<strong>Яя</strong> — like "ya" in "yard"<br />
 
 
 <hr />

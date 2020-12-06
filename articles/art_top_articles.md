@@ -30,11 +30,11 @@ be/en – article in both languages // абедзьве мовы<br />
 <li><a href="http://www.pravapis.org/articles/art_alice_interview.html">Інтэрвію з Уладзімірам Каткоўскім (Uladzimir Katkouski's interview)</a> 241 hits, be</li>
 <li><a href="http://www.pravapis.org/articles/art_top100.html">The Forgotten Slang</a> 227 hits, be/en</li>
 <li><a href="http://www.pravapis.org/articles/art_goujon1.html">Language, nationalism, and populism in Belarus</a> 171 hits, en</li>
-<li><a href="http://www.pravapis.org/articles/art_wilno_university.html">Віленскі ўнівэрсытэт запрашае - Vilnius University announcement</a> 160 hits, be/en</li>
+<li><a href="http://www.pravapis.org/articles/art_wilno_university.html">Віленскі ўнівэрсытэт запрашае — Vilnius University announcement</a> 160 hits, be/en</li>
 <li><a href="http://www.pravapis.org/articles/art_belarus_name.html">The 21 Names of Belarus</a> 158 hits, en</li>
 <li><a href="http://www.pravapis.org/articles/art_brit.html">Britannica Stumbling (entry on Belarusian Language)</a> 157 hits, en</li>
 <li><a href="http://www.pravapis.org/articles/art_lac1.html">Introduction Belarusian Latin Script (Lacinka)</a> 142 hits, en</li>
-<li><a href="http://www.pravapis.org/articles/art_letter_frequency.html">Letter Frequency - Частотнасьць літараў</a> 141 hits, be/en</li>
+<li><a href="http://www.pravapis.org/articles/art_letter_frequency.html">Letter Frequency — Частотнасьць літараў</a> 141 hits, be/en</li>
 <li><a href="http://www.pravapis.org/articles/art_belarus_hogan.html">"Belarus" by Lee Hogan. Book review</a> 127 hits, en</li>
 <li><a href="http://www.pravapis.org/articles/art_jewish_belarus.html">Жыдоўскія рэлігійныя песьні па-беларуску (Jewish songs in Belarusian)</a> 125 hits, be</li>
 <li><a href="http://www.pravapis.org/articles/art_kitab1_en.html">Kitabs, the unique highlight of the Belarusian language</a> 124 hits, en</li>

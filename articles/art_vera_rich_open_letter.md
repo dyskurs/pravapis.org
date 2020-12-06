@@ -45,7 +45,7 @@ In the course of the next few weeks, I discovered the following:<br />
 <br />
 On 20 June I received some of the Belarusian texts (down to the letter H (Latin Alphabet). The rest were promised for next day, but never arrived.<br />
 <br />
-10) Since my translations preserve – as far as humanly possible – the rhythm and rhyme scheme of the originals, emending these translations is not a matter of a few minutes. I continued to urge Miss Skomorokhova to press for more time. She said, however, that the UNESCO office in Moscow was now insisting on a deadline of 1 July for the delivery of all texts to them. During the next few days, she informed by e-mail that Shchasny was now talking of an edition of only 200 copies of the CD which will be "non-commercial"… and that a better version could be done later… Later, this became 50 copies now ("to satisfy UNESCO") and an improved version in September… However, I cannot help fearing that he was saying this simply to calm her down. Moreover, I do not know what he meant by "non-commercial" - but if he meant free distribution to university libraries etc… then those are surely precisely the kind of recipients who should not be sent inadequate versions. However, if Shchasny"s two-stage scenario really is going to be implemented – then it seems evident to me that the 1 July deadline was entirely arbitrary…<br />
+10) Since my translations preserve – as far as humanly possible – the rhythm and rhyme scheme of the originals, emending these translations is not a matter of a few minutes. I continued to urge Miss Skomorokhova to press for more time. She said, however, that the UNESCO office in Moscow was now insisting on a deadline of 1 July for the delivery of all texts to them. During the next few days, she informed by e-mail that Shchasny was now talking of an edition of only 200 copies of the CD which will be "non-commercial"… and that a better version could be done later… Later, this became 50 copies now ("to satisfy UNESCO") and an improved version in September… However, I cannot help fearing that he was saying this simply to calm her down. Moreover, I do not know what he meant by "non-commercial" — but if he meant free distribution to university libraries etc… then those are surely precisely the kind of recipients who should not be sent inadequate versions. However, if Shchasny"s two-stage scenario really is going to be implemented – then it seems evident to me that the 1 July deadline was entirely arbitrary…<br />
 <br />
 11) I have done what I can… But my time and strength are limited… and as the deadline approaches, I realise that I have not been sent the proofs of certain authors from Like Water Like Fire, which may simply be an oversight (but could just possibly involve considerations of "Political correctness"!)<br />
 <br />
@@ -82,7 +82,7 @@ London 30.vi.2005
 <br />
 2) Асоба якая працавала у бібліятэцы імя Янкі Купалы і якая павінна была скласьці кампакт-дыск ня здолела вярнуцца зь Вільні раней і, відавочна, амаль нічога не зрабіла.<br />
 <br />
-3) Складаньне была даручанае Сьвятлане Скамарохавай (калі ласка, заўважце, што яна аддае перавагу каб яе імя пісалі па-расейску - Скоморохова, Skomorokhova), якая ў той час была занятая сканчэньнем сваей кандыдацкай дысэртацыі. У сваім аўтарэфэраце яна напісала, што кампакт-дыск будзе апублікаваны ў чэрвені 2005 (першапачатковы тэрмін). Калі я спыталася пра гэта, яна адказала што яна ўпісала гэтую дату як фармальнасьць, дзеля захаваньня іміджу таго, што ўсё ідзе па пляне, і што яна чакае, што ёй дадуць больш часу.<br />
+3) Складаньне была даручанае Сьвятлане Скамарохавай (калі ласка, заўважце, што яна аддае перавагу каб яе імя пісалі па-расейску — Скоморохова, Skomorokhova), якая ў той час была занятая сканчэньнем сваей кандыдацкай дысэртацыі. У сваім аўтарэфэраце яна напісала, што кампакт-дыск будзе апублікаваны ў чэрвені 2005 (першапачатковы тэрмін). Калі я спыталася пра гэта, яна адказала што яна ўпісала гэтую дату як фармальнасьць, дзеля захаваньня іміджу таго, што ўсё ідзе па пляне, і што яна чакае, што ёй дадуць больш часу.<br />
 <br />
 4) Пазьней, аднак, яна паведаміла мне, што офіс ЮНЭСКА ў Маскве настойвае на тым, каб яна прытрымлівалася першапачатковага тэрміну, 21-га чэрвеня, ці заплаціла штраф.<br />
 <br />
@@ -98,7 +98,7 @@ London 30.vi.2005
 <br />
 20-га чэрвеня я атрымала некалькі беларускіх тэксатаў да літары “H” (лацінскі альфабэт). Рэшту абяцалі прыслаць назаўтра, але так ніколі не прыслалі.<br />
 <br />
-10) Паколькі мае пераклады захоўваюць, - настолькі наколькі гэта ў чалавечйых сілах, - рытм і рытмічную схему арыгіналу, то выпраўленьне гэтых перакладаў нельга зрабіць за некалькі хвілінаў. Я працягвала заклікаць спадарыню Скамарохаву прасіць больш часу. Аднак яна казала, што маскоўскі офіс ЮНЭСКА настойвае на канчатковым тэрміне першага ліпеня, на які ўсе тэксты павінны былі ім дастаўленыя. На працягу некалькі наступных дзён яна паведаміла мне імэйлам, што спадар Шчасны зараз гаворыць аб накладзе ў 200 кампакт-дыскаў, якія будуць некамэрцыйныя і што лепшая вэрсыя можа быць зробленая пазьней. Пазьней лічба 200 ператварылася ў 50 асобнікаў, каб “задаволіць ЮНЭСКА” зараз, і плян на палепшаную вэрсія ў верасьні. Аднак я баюся, што ён так кажа толькі каб суцешыць яе. Апрача таго я ня ведаю, што ён мае на ўвазе кажучы пра “некамэрцыйнасьць”. Але калі ён мае на мэце свабоднае распаўсюджваньне ва ўнівэрсытэцкія бібліятэкі і г.д., тады гэта дакладна той гатунак спажыўцоў, якім <strong>ня</strong> можна пасылаць неадэкватныя вэрсіі. Аднак калі двухэтапны сцэнар Шчаснага сапраўды пабачыць жыцьцё – тады гэта зьявіцца відавочным для мяне, што канчатковы тэрмін 1-га ліпеня напоўніцу быў прыцягнуты за вушы.<br />
+10) Паколькі мае пераклады захоўваюць, — настолькі наколькі гэта ў чалавечйых сілах, — рытм і рытмічную схему арыгіналу, то выпраўленьне гэтых перакладаў нельга зрабіць за некалькі хвілінаў. Я працягвала заклікаць спадарыню Скамарохаву прасіць больш часу. Аднак яна казала, што маскоўскі офіс ЮНЭСКА настойвае на канчатковым тэрміне першага ліпеня, на які ўсе тэксты павінны былі ім дастаўленыя. На працягу некалькі наступных дзён яна паведаміла мне імэйлам, што спадар Шчасны зараз гаворыць аб накладзе ў 200 кампакт-дыскаў, якія будуць некамэрцыйныя і што лепшая вэрсыя можа быць зробленая пазьней. Пазьней лічба 200 ператварылася ў 50 асобнікаў, каб “задаволіць ЮНЭСКА” зараз, і плян на палепшаную вэрсія ў верасьні. Аднак я баюся, што ён так кажа толькі каб суцешыць яе. Апрача таго я ня ведаю, што ён мае на ўвазе кажучы пра “некамэрцыйнасьць”. Але калі ён мае на мэце свабоднае распаўсюджваньне ва ўнівэрсытэцкія бібліятэкі і г.д., тады гэта дакладна той гатунак спажыўцоў, якім <strong>ня</strong> можна пасылаць неадэкватныя вэрсіі. Аднак калі двухэтапны сцэнар Шчаснага сапраўды пабачыць жыцьцё – тады гэта зьявіцца відавочным для мяне, што канчатковы тэрмін 1-га ліпеня напоўніцу быў прыцягнуты за вушы.<br />
 <br />
 11) Я зрабіла ўсё, што я магла... Але мой час і сілы абмежаваныя... І паколькі канчатковы тэрмін набліжаецца я зразумела, што я не паслала карэктуры пэўных аўтараў з анталёгіі “Як вада й полымя”, якія магчыма былі-б недаглядам (але маглі-б патэнцыйна уключыць заўвагі ў “палітычнай карэктнасьці”!)<br />
 <br />
@@ -106,7 +106,7 @@ London 30.vi.2005
 <br />
 І я асабліва намагалася прыняць пад увагу тыя зьмены, якія паэты зрабілі самі ў сваіх творах ці, калі гаворка йдзе пра клясыку, працавала з тэкстамі якія сучаснае школьніцтва разглядае больш арыгінальным.<br />
 <br />
-Аднак час, - штучна навязаныя тэрміны, - перамаглі мяне...<br />
+Аднак час, — штучна навязаныя тэрміны, — перамаглі мяне...<br />
 <br />
 Я зрабіла, што я змагла... Выбачце мне, што я ня здолела зрабіць больш...<br />
 <br />
@@ -116,4 +116,4 @@ London 30.vi.2005
 <br />
 Лёндан, 30.VI.2005<br />
 <br />
-<span class="small"> *(Пераклад на беларускую мову - Раман Кардонскі. Дробныя праўкі - Уладзімер Каткоўскі)* </span>
+<span class="small"> *(Пераклад на беларускую мову — Раман Кардонскі. Дробныя праўкі — Уладзімер Каткоўскі)* </span>

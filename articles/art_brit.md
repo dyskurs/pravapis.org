@@ -10,7 +10,7 @@ large_header: false
 Uladzimir Katkouski
 
 
-My trust in the <a href="http://www.britannica.com/">Encyclopedia Britannica</a> seemed as unshakable as the granite of the <a href="http://www.belarusguide.com/history1/Stones_intro.html">Barysau stone</a> until I accidentally stumbled upon the article for my native language - <a href="http://www.britannica.com/bcom/eb/article/2/0,5716,15512+1+15316,00.html">Belarusian</a>. The entry's 111 words do not contain a <strong>single</strong> truthful word. Somewhat upset by this distorted view of my language, I will try to correct the distortions contained in that short article. So, here goes the original entry:
+My trust in the <a href="http://www.britannica.com/">Encyclopedia Britannica</a> seemed as unshakable as the granite of the <a href="http://www.belarusguide.com/history1/Stones_intro.html">Barysau stone</a> until I accidentally stumbled upon the article for my native language — <a href="http://www.britannica.com/bcom/eb/article/2/0,5716,15512+1+15316,00.html">Belarusian</a>. The entry's 111 words do not contain a <strong>single</strong> truthful word. Somewhat upset by this distorted view of my language, I will try to correct the distortions contained in that short article. So, here goes the original entry:
 
 <blockquote>
 • <strong>Belarusian language</strong><br />
@@ -62,7 +62,7 @@ There are at least several dozen dialects of Belarusian. Still, even if you'd li
 • Although two dialect areas exist, standard Belarusian is based on the dialect of Minsk, the capital city of Belarus.
 </blockquote>
 
-Ninety-five percent of Minsk residents use Russian (or sometimes "trasianka" - a Belarusian-Russian patois) as an every day language of social interaction. This could hardly be the basis for a literary standard. In fact, the literary Belarusian language is based on the so-called "middle" (siaredni) dialect which is spread across Belarus from Vilejka and Ashmiany all the way to Homiel and Buda-Kashaliova.
+Ninety-five percent of Minsk residents use Russian (or sometimes "trasianka" — a Belarusian-Russian patois) as an every day language of social interaction. This could hardly be the basis for a literary standard. In fact, the literary Belarusian language is based on the so-called "middle" (siaredni) dialect which is spread across Belarus from Vilejka and Ashmiany all the way to Homiel and Buda-Kashaliova.
 
 <blockquote>
 • The language contains many Polish loanwords...

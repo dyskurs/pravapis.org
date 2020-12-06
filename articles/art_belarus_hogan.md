@@ -23,7 +23,7 @@ Although Western culture, book printing and new technological advances historica
 - Moscow ravaged Belarus in 1492-1494, 1500-1503, 1507-1508, 1512-1522.<br />
 - During Ivan the Terrible's reign in the 1560s on average 500-1000 Belarusians were killed every day.<br />
 - In 1654-67 during the 13-year war the Russians killed 50% of all Belarusian people and left the country smoldering in ashes.<br />
-- In 1705 Peter the Great burned hundreds of villages and blew up the most cherished Belarusian church - St Sofia in Polacak. 800,000 Belarusians were killed during his operations on our lands.<br />
+- In 1705 Peter the Great burned hundreds of villages and blew up the most cherished Belarusian church — St Sofia in Polacak. 800,000 Belarusians were killed during his operations on our lands.<br />
 - In 1794 Tadeusz Kosciuszko led the Belarusian people in an anti-Russian uprising which was suppressed by the Russian military.<br />
 - In 1863 the Russians crushed an anti-Russian uprising, hanged and shot tens of thousands of Belarusians.<br />
 - In 1918 they occupied the independent Belarus National Republic.<br />

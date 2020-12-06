@@ -416,13 +416,13 @@ Russian
  
    
 <span id="books"></span>
-# Books used for calculations - Скарыстаныя для падліку кнігі
+# Books used for calculations — Скарыстаныя для падліку кнігі
 Soviet Belarusian (Наркамаўка): 
 1. Jakub Kolas "Novaja ziamla" -- Якуб Колас "Новая зямля"
 2. Ivan Samiakin "Serca na daloni" -- Іван Шамякін "Сэрца на далоні"
 3. Uladzimir Karatkievic "Corny zamak Alsanski" -- Уладзімір Караткевіч
  "Чорны замак Альшанскі"
-4. Uladzimir Dubouka "Pialostki" -- Уладзімір Дубоўка - "Пялёсткі"
+4. Uladzimir Dubouka "Pialostki" -- Уладзімір Дубоўка — "Пялёсткі"
 Classical orthography (Клясычны правапіс): 
 1. Kastus Akula "Za volu" -- Кастусь Акула "За волю"
 2. Piotra Syc "Smierc i salauji" (Mt.Casino) -- Пётра Сыч "Сьмерць і

@@ -5,7 +5,7 @@ large_header: false
 ---
 
 
-<h1 id="swadesh-list-belarusian---polish-russian---belarusian">Swadesh List: Belarusian - Polish, Russian - Belarusian</h1>
+<h1 id="swadesh-list-belarusian---polish-russian---belarusian">Swadesh List: Belarusian — Polish, Russian — Belarusian</h1>
 
 Uladzimir Katkouski
 
@@ -15,7 +15,7 @@ A Swadesh list is a tool of <strong>glottochronology</strong>, proposed by Morri
 
 <h2 id="what-did-we-do">2. What did we do?</h2>
 
-In spite of the sceptical attitude, I still decided to compile a very rough estimate for Belarusian, just out of curiousity and because I couldn't find any reliable data on the Web regarding Belarusian and lexical similaruty of the Belarusian language in relation to its Slavic neighbours, such as Ukrainian, Polish, and Russian. So I ran the Swadesh "test" for Belarusian - Polish and Russian - Belarusian pairs. The easy part was to compile the lists (see below). But "grading" them was more challenging. Two people (me and my friend) did it. Since we both are not professional linguists, our results should be taken with a grain of salt. We don't know Slavic etymology that good and we don't know Protoindoeuropean and don't have practical experience with Swadesh lists, so our system of grading the words was as follows: if the words looked totally different (obviously different roots), we put a 0 (zero). If the words looked the same or very similar we put 1 (one). If the words looked sufficiently different, but still looked as if they could be cognates, we put 0.5 (a kind of "in between", "not sure").
+In spite of the sceptical attitude, I still decided to compile a very rough estimate for Belarusian, just out of curiousity and because I couldn't find any reliable data on the Web regarding Belarusian and lexical similaruty of the Belarusian language in relation to its Slavic neighbours, such as Ukrainian, Polish, and Russian. So I ran the Swadesh "test" for Belarusian — Polish and Russian — Belarusian pairs. The easy part was to compile the lists (see below). But "grading" them was more challenging. Two people (me and my friend) did it. Since we both are not professional linguists, our results should be taken with a grain of salt. We don't know Slavic etymology that good and we don't know Protoindoeuropean and don't have practical experience with Swadesh lists, so our system of grading the words was as follows: if the words looked totally different (obviously different roots), we put a 0 (zero). If the words looked the same or very similar we put 1 (one). If the words looked sufficiently different, but still looked as if they could be cognates, we put 0.5 (a kind of "in between", "not sure").
 
 
 The results of our calculations are stored in MS Excel sheet which you are welcome to download:

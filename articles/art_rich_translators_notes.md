@@ -59,7 +59,7 @@ Chaj zyvie svaboda! Chaj zyvie Bielarus!
 
 <hr />
 
-&gt;  *Reprinted from "Poems on Liberty: Reflections for Belarus." - Radio Free Europe / Radio Liberty, 2004. - 312 pp. Translation - Vera Rich. Editor - Alaksandra Makavik. Art Director - Hienadz Macur. Project Coordinator - Valancina Aksak. ISBN 0-929849-05-1.* 
+&gt;  *Reprinted from "Poems on Liberty: Reflections for Belarus." — Radio Free Europe / Radio Liberty, 2004. — 312 pp. Translation — Vera Rich. Editor — Alaksandra Makavik. Art Director — Hienadz Macur. Project Coordinator — Valancina Aksak. ISBN 0-929849-05-1.* 
 
 
 &gt;  *About the book: It is an anthology of original poems broadcast on RFE/RL Belarus Service in 2001. The music of Giuseppe Verdi accompanied the voices of authors and translators as, each evening for 365 consecutive days, they wove into verse their unique and very personal insights into the meaning of liberty at the dawn of the 21st century. Poets from Belarus and five continents, ranging in age from 10 to 92, among them Nobel prize winners and artists forcd into exile, submitted their works for broadcast. This anthology consts of 122 selected poems from the original broadcasts.* 

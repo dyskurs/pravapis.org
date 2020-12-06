@@ -25,7 +25,7 @@ In 1910, he moved to Paris, where he associated, among others, with Guillaume Ap
 In 1914, before the outbreak of World War I, Chagall held a one-man show in Berlin. During WWI, he resided in Belarus, and in 1917, endorsing the revolution, he was appointed Commissar for Fine Arts in Vitebsk and then director of the newly established Free Academy of Art. He became involved in ambitious projects for a local academy, but he left after two and a half years in order to escape the revolutionary dictates of Malevich. After a stay in Moscow, where he worked in the Jewish theatre, then in Berlin, where he studied the technique of engraving, he returned to Paris in 1923.
 
 
-<img src="img/chagall_house.jpg" title="Marc Chagall&#39;s House in Vitebsk" width="466" height="269" alt="Marc Chagall&#39;s House in Vitebsk" />He lived in France permanently except for the years 1941 - 1948 when, fleeing France during World War II, he stayed in the United States. In 1944 the artist's wife Bella died. During Chagall's exile in New York, he designed the costumes and stage decorations for a ballet performance of Igor Stravinsky's The Firebird. In 1946, the New York Museum of Modern Art had a huge retrospective exhibition of Marc Chagall's prints and paintings. The exhibition was a big success and was later shown in Chicago.
+<img src="img/chagall_house.jpg" title="Marc Chagall&#39;s House in Vitebsk" width="466" height="269" alt="Marc Chagall&#39;s House in Vitebsk" />He lived in France permanently except for the years 1941 — 1948 when, fleeing France during World War II, he stayed in the United States. In 1944 the artist's wife Bella died. During Chagall's exile in New York, he designed the costumes and stage decorations for a ballet performance of Igor Stravinsky's The Firebird. In 1946, the New York Museum of Modern Art had a huge retrospective exhibition of Marc Chagall's prints and paintings. The exhibition was a big success and was later shown in Chicago.
 
 
 Chagall painted with a variety of media, such as oils, water colors, and gouaches. His work also expanded to other forms of art, including ceramics, mosaics, and stained glass. Among his most famous building decorations are the ceiling of the Opera House in Paris, murals at the New York Metropolitan Opera, a glass window at the United Nations, and decorations at the Vatican. Chagall received many prizes and much recognition for his work. He was also one of very few artists to exhibit work at the Louvre in their lifetime.
@@ -89,12 +89,12 @@ Chagall painted with a variety of media, such as oils, water colors, and gouache
 
 Related Books:<br />
 <br />
-- <a href="http://www.amazon.com/exec/obidos/ASIN/0306805715/belarusianlan-20">My Life</a> by Marc Chagall - A lyrical memoir of the artist's early life with 50 illustrations by the author<br />
-- <a href="http://www.amazon.com/exec/obidos/ASIN/0810946777/belarusianlan-20">Chagall</a>   - Value-priced monograph from Abradale Press, with 60 illustrations.<br />
-- <a href="http://www.amazon.com/exec/obidos/ASIN/3822802123/belarusianlan-20">Marc Chagall</a> by Ingo F. Walther - Another Chagall monograph, from the always excellent Taschen series.<br />
-- <a href="http://www.amazon.com/exec/obidos/ASIN/0791028070/belarusianlan-20">Chagall: My Sad and Joyous Village</a> by Jacqueline Loumaye - Beautifully designed book, for children ages nine through twelve.<br />
-- <a href="http://www.amazon.com/exec/obidos/ASIN/1891024078/belarusianlan-20">Chagall: The Lithographs</a> by Christofer Conrad - An awesome catalogue of more than 1,000 Chagall lithographs.<br />
-- <a href="http://www.amazon.com/exec/obidos/ASIN/0805208631/belarusianlan-20">Burning Lights</a> by Bella Chagall, Marc Chagall (Illustrator) - With illustrations by her husband Marc, Bella Chagall's memoir comes from the poignant brush strokes of childhood in Vitebsk.<br />
+- <a href="http://www.amazon.com/exec/obidos/ASIN/0306805715/belarusianlan-20">My Life</a> by Marc Chagall — A lyrical memoir of the artist's early life with 50 illustrations by the author<br />
+- <a href="http://www.amazon.com/exec/obidos/ASIN/0810946777/belarusianlan-20">Chagall</a>   — Value-priced monograph from Abradale Press, with 60 illustrations.<br />
+- <a href="http://www.amazon.com/exec/obidos/ASIN/3822802123/belarusianlan-20">Marc Chagall</a> by Ingo F. Walther — Another Chagall monograph, from the always excellent Taschen series.<br />
+- <a href="http://www.amazon.com/exec/obidos/ASIN/0791028070/belarusianlan-20">Chagall: My Sad and Joyous Village</a> by Jacqueline Loumaye — Beautifully designed book, for children ages nine through twelve.<br />
+- <a href="http://www.amazon.com/exec/obidos/ASIN/1891024078/belarusianlan-20">Chagall: The Lithographs</a> by Christofer Conrad — An awesome catalogue of more than 1,000 Chagall lithographs.<br />
+- <a href="http://www.amazon.com/exec/obidos/ASIN/0805208631/belarusianlan-20">Burning Lights</a> by Bella Chagall, Marc Chagall (Illustrator) — With illustrations by her husband Marc, Bella Chagall's memoir comes from the poignant brush strokes of childhood in Vitebsk.<br />
 
 
 

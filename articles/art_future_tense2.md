@@ -17,7 +17,7 @@ large_header: false
 Czalex
 
 
-Siarod vializnaje biełaruskaje moŭnaje Atlantydy - usiaho taho, što było z movy zabaroniena j zabyta - adnym z sama małaviadomych źjaŭlajecca forma prostaha budučaha času dziejasłovaŭ. U rasiejskaj dy refarmavanaj biełaruskaj movach isnuje tolki składanaja forma imperfektu budučaha času, što ŭtvarajecca z dapamohaju dziejasłovu "być" u adpaviednaj formie + infinityŭ:
+Siarod vializnaje biełaruskaje moŭnaje Atlantydy — usiaho taho, što było z movy zabaroniena j zabyta — adnym z sama małaviadomych źjaŭlajecca forma prostaha budučaha času dziejasłovaŭ. U rasiejskaj dy refarmavanaj biełaruskaj movach isnuje tolki składanaja forma imperfektu budučaha času, što ŭtvarajecca z dapamohaju dziejasłovu "być" u adpaviednaj formie + infinityŭ:
 
 
 Ras.: Я <strong>буду делать</strong>.<br />
@@ -75,7 +75,7 @@ biehčy<span class="underline">miem</span><br />
 biehčy<span class="underline">miacie</span><br />
 biehčy<span class="underline">muć</span><br />
 
-Takim čynam, zamiest "my budziem jeści" možna kazać "my jeścimiem", zamiest "ja budu lotać" - "ja lotaćmu" ihd.
+Takim čynam, zamiest "my budziem jeści" možna kazać "my jeścimiem", zamiest "ja budu lotać" — "ja lotaćmu" ihd.
 
 
 Analagičnyja formy jość prynamsi ŭ dźviuch inšych movach:

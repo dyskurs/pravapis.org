@@ -15,8 +15,8 @@ large_header: false
 <img src="smiley/smiley1.gif" /> <a href="http://www.livejournal.com/users/rydel23/">rydel n23</a>
 
 
-<strong>Current music:</strong> Nena - 99 Luftbaloons<br />
-<strong>Current book:</strong> Adam Hlobus - Post Scriptum
+<strong>Current music:</strong> Nena — 99 Luftbaloons<br />
+<strong>Current book:</strong> Adam Hlobus — Post Scriptum
 
 
 After more than 10 years since Belarus has gained its independence most of the English-speaking writers, journalists and even webmasters have learned to <a href="articles/art_belarus_name.html">call our country by its proper name</a> and even use the correct adjective: Belarusian or Belarusan (check out <a href="http://www.belarus-misc.org/bel-one.htm">this page with background information</a> on using this adjective in English).
