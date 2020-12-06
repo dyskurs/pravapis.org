@@ -486,7 +486,7 @@ Bulgarian? 
 </tr>
 <tr class=»odd»>
 
-па-расейску<br />
+па-расійску<br />
  *pa-raseysku*  
 руски<br />
  *ruski*  

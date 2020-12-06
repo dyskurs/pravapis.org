@@ -621,7 +621,7 @@ foolish dumb woman
 <tr class=»odd»>
 
 <strong>хаблы</strong>
-людзі зь ніжэйшых сацыяльных слаёў; хамы.
+людзі з ніжэйшых сацыяльных слаёў; хамы.
 obnoxious low-class people
 
 </tr>
