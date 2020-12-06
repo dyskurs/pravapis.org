@@ -6,23 +6,23 @@ large_header: false
 
 
 
-<a href="articles_by.html">вярнуцца да артыкулаў</a><br />
-<a href="#">раздрукаваць<br />
-</a><a href="#english">English summary</a>
+<a href=»articles_by.html»>вярнуцца да артыкулаў</a><br />
+<a href=»#»>раздрукаваць<br />
+</a><a href=»#english»>English summary</a>
 
-<h1 id="the-letter-is-back-вяртанне-літары">The Letter Is Back!<br />
+<h1 id=»the-letter-is-back-вяртанне-літары»>The Letter Is Back!<br />
 Вяртанне літары!</h1>
 
 Паводле артыкулаў В.Мухіна і А.Дубіны
 
 
-<span id="footnote1"></span>3 студзеня 2000 году нашы вядомыя мовазнаўцы<a href="#foot1"><sup>1</sup></a> сабраліся ў Менску, каб абмеркаваць праблемныя пытанні клясычнага правапісу. Апрача дзясяткаў іншых не вырашаных праблемаў, нашы мовазнаўцы вярнуліся да статусу літары <strong>ґ</strong> для выбухнога гуку ( *ґуру*  альбо  *гуру* ), і найбольшыя спрэчкі разгарнуліся якраз вакол гэтай літары <strong>ґ</strong>.
+<span id=»footnote1»></span>3 студзеня 2000 году нашы вядомыя мовазнаўцы<a href=»#foot1»><sup>1</sup></a> сабраліся ў Менску, каб абмеркаваць праблемныя пытанні клясычнага правапісу. Апрача дзясяткаў іншых не вырашаных праблемаў, нашы мовазнаўцы вярнуліся да статусу літары <strong>ґ</strong> для выбухнога гуку ( *ґуру*  альбо  *гуру* ), і найбольшыя спрэчкі разгарнуліся якраз вакол гэтай літары <strong>ґ</strong>.
 
 
-<span id="footnote2"></span>Праект пастановы пра літару <strong>ґ</strong>, прыняты на Праскай нарадзе ў 1998 годзе<a href="#foot2"><sup>2</sup></a>, радзіць не выкарыстоўваць літары <strong>ґ</strong> у агульнай лексыцы, але прыпусціць ува ўласных найменнях у спэцыяльных і навуковых выданнях. Слоўнік, рыхтаваны С.Дубаўцом і С.Шупам, які даступны ў он-ляйн вэрсіі (slounik.hypermart.net і <a href="download_by.html">pravapis.org/download_by.html</a>), прапануе пісаць з <strong>ґ</strong> вялікую колькасць словаў, напрыклад  *лёґіка.* 
+<span id=»footnote2»></span>Праект пастановы пра літару <strong>ґ</strong>, прыняты на Праскай нарадзе ў 1998 годзе<a href=»#foot2»><sup>2</sup></a>, радзіць не выкарыстоўваць літары <strong>ґ</strong> у агульнай лексыцы, але прыпусціць ува ўласных найменнях у спэцыяльных і навуковых выданнях. Слоўнік, рыхтаваны С.Дубаўцом і С.Шупам, які даступны ў он-ляйн вэрсіі (slounik.hypermart.net і <a href=»download_by.html»>pravapis.org/download_by.html</a>), прапануе пісаць з <strong>ґ</strong> вялікую колькасць словаў, напрыклад  *лёґіка.* 
 
 
-<img src="litara_g.jpg" width="270" height="222" alt="New letter in the Belarusian alphabet" />На думку П.Канавальчыка, ужыванне літары <strong>ґ</strong> трэба абмежаваць іншамоўнымі ўласнымі назовамі й словамі  *ґанак* ,  *ґузік*  ды іншымі даўно засвоенымі іменнікамі. П.Канавальчык лічыць, што ўжыванне літары <strong>ґ</strong> мае быць факультатыўнае, як у расейскай мове — ужыванне літары <strong>ё</strong> (паводле новых правілаў расейскае артаграфіі літара ё наагул будзе скасавана).
+<img src=»litara_g.jpg» width=»270» height=»222» alt=»New letter in the Belarusian alphabet» />На думку П.Канавальчыка, ужыванне літары <strong>ґ</strong> трэба абмежаваць іншамоўнымі ўласнымі назовамі й словамі  *ґанак* ,  *ґузік*  ды іншымі даўно засвоенымі іменнікамі. П.Канавальчык лічыць, што ўжыванне літары <strong>ґ</strong> мае быць факультатыўнае, як у расейскай мове — ужыванне літары <strong>ё</strong> (паводле новых правілаў расейскае артаграфіі літара ё наагул будзе скасавана).
 
 
 З.Саўка прапанаваў прыпусціць выкарыстанне літары <strong>ґ</strong> ува ўласных іншамоўных імёнах, дзе гук <strong>[ґ]</strong> гучыць у арыгінале.
@@ -63,7 +63,7 @@ large_header: false
 
 <hr />
 
-Колькі прыкладаў са слоўніка "Нашай Нівы":<br />
+Колькі прыкладаў са слоўніка «Нашай Нівы»:<br />
 <br />
 <strong>Ґґ (Gg):</strong> аґент, аґрэсар, Банґалор, Банґкок, ваґон, Ґаґен, ґаз, ґазэта, Ґальфстрым, ґамбіт, ґанак, ґарант, ґардэроб, ґастрыт, ґатунак, ґвалт, ґвардыя, ґеаґрафія, ґеалёґія, ґеамэтрыя, ґен, ґенацыд, ґеній, ґенэрал, Ґётэ, ґіґант, ґільдыя, ґімназія, ґітара, Ґлазґа, ґлябальны, ґмах, ґотыка, ґравітацыя, ґрафіка, ґруґан, Ґрунвальд, Ґрыґ, ґрып, ґузік, ґубэрня, Ґулівэр, доґма, ёґурт, іґнараваць, іґрэк, маґазын, Маґдэбурґ, маґія, маґніт, Мадаґаскар, мазґі, орґія, піґмэнт, цыґарэта, Шаґал, эґаіст, Эґіпэт, яґуар.<br />
 <br />
@@ -75,11 +75,11 @@ large_header: false
 
 <strong>Footnotes:</strong><br />
 <br />
-<span id="foot1"></span>1. Апрача ўласна Вінцука Вячоркі, узялі ўдзел Зьміцер Санько з выдавецтва “Тэхналёгія”, Юрась Бушлякоў з філфаку БДУ, Паўлюк Канавальчык з газеты “Навінкі” і Зьміцер Саўка з Радыё Рацыя. Наступнымі паседжаннямі маюць далучыцца пісьменнік Уладзімер Арлоў, Валерка Булгакаў з часопісу  *“Arche”* , Мікола Раманоўскі з “НН”, мовазнаўца Пятро Садоўскі ды іншыя. <span class="small"><a href="#footnote1">back to top</a>.</span><br />
+<span id=»foot1»></span>1. Апрача ўласна Вінцука Вячоркі, узялі ўдзел Зьміцер Санько з выдавецтва “Тэхналёгія”, Юрась Бушлякоў з філфаку БДУ, Паўлюк Канавальчык з газеты “Навінкі” і Зьміцер Саўка з Радыё Рацыя. Наступнымі паседжаннямі маюць далучыцца пісьменнік Уладзімер Арлоў, Валерка Булгакаў з часопісу  *“Arche”* , Мікола Раманоўскі з “НН”, мовазнаўца Пятро Садоўскі ды іншыя. <span class=»small»><a href=»#footnote1»>back to top</a>.</span><br />
 <br />
-<span id="foot2"></span>2. 5-6 сьнежня 1998 г. у Празе адбылася канфэрэнцыя, што мела на мэце абмеркаваць праект, надрукаваны ў “Спадчыне”. Запачаткаваная ў Празе работа працягвалася й у Менску на адмысловых зборках мовазнаўцаў. <span class="small"><a href="#footnote2">back to top</a>.</span>
+<span id=»foot2»></span>2. 5-6 сьнежня 1998 г. у Празе адбылася канфэрэнцыя, што мела на мэце абмеркаваць праект, надрукаваны ў “Спадчыне”. Запачаткаваная ў Празе работа працягвалася й у Менску на адмысловых зборках мовазнаўцаў. <span class=»small»><a href=»#footnote2»>back to top</a>.</span>
 
 
-<span id="english"></span> <strong>English summary:</strong><br />
+<span id=»english»></span> <strong>English summary:</strong><br />
 <br />
 The letter Ґґ (Gg) was abolished in Belarusian language by the Soviet reform of 1933. That reform was aimed at brining Belarusian language closer to the official language of the Soviet empire, Russian. Among the victims of that reform was our letter Ґґ. According to the Soviet linguistis, it was not needed because most Belarusian speakers are capable of pronouncing only fricative Гг (Hh) and thus don't need an extra letter Ґґ (Gg). The above text is a compilation of two articles that were published in Nasza Niva newspaper last year. Our contemporary linguists defend the banned letter and discuss the possibilities of returning it back to the alphabet. Andrej Dubina provides historical and linguistic evidence that the letter is indeed an important part of our language and should find its way to mainstream usage. Other linguists say that the letter should be used if not in high schools, at least, in the etymological dictionaries and in the specialized linguistic literature. Unfortunately, the current government could not care less about the development of the national language, so these proposals will probably be ignored by the linguists in the Academy of Science because they are not interested in reforming their old Soviet ways.

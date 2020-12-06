@@ -10,19 +10,19 @@ large_header: false
 
 
 
-<a href="articles_by.html">вярнуцца да артыкулаў</a><br />
-<a href="#">раздрукаваць артыкул</a><br />
+<a href=»articles_by.html»>вярнуцца да артыкулаў</a><br />
+<a href=»#»>раздрукаваць артыкул</a><br />
 
 
 
-English summary: According to the independent linguists the new 3<sup>rd</sup> edition of the Soviet Krapiva's Belarusian-Russian dictionary which came out in 2004 is virtually identical to the second edition (1989). The first edition came out back in 1962. For political reasons the third edition does not include such widespread, well-known words as "fatel" (armchair), "viecharyna" (party), "impreza" (organized event, party, performance). The word "spadar" (mister) is also not included into this Soviet dictionary. The official linguists of the Belarusian Academy of Sciences seem to be stuck in another era, 50 years ago.
+English summary: According to the independent linguists the new 3<sup>rd</sup> edition of the Soviet Krapiva's Belarusian-Russian dictionary which came out in 2004 is virtually identical to the second edition (1989). The first edition came out back in 1962. For political reasons the third edition does not include such widespread, well-known words as «fatel» (armchair), «viecharyna» (party), «impreza» (organized event, party, performance). The word «spadar» (mister) is also not included into this Soviet dictionary. The official linguists of the Belarusian Academy of Sciences seem to be stuck in another era, 50 years ago.
 
-<h1 id="беларуска-расейскі-слоўнік-крапівы-3-е-выданне">Беларуска-расейскі слоўнік Крапівы, 3-е выданне</h1>
+<h1 id=»беларуска-расейскі-слоўнік-крапівы-3-е-выданне»>Беларуска-расейскі слоўнік Крапівы, 3-е выданне</h1>
 
 Валянціна Аксак
 
 
-<img src="img/padluzny.jpg" title="Padluzny (Падлужны) — the director of the Linguistics Institute at the Belarusian Academy of Sciences that produced this Soviet dictionary" width="133" height="200" alt="Padluzny (Падлужны) — the director of the Linguistics Institute at the Belarusian Academy of Sciences that produced this Soviet dictionary" /> "Замацаванне савецкасці беларускае мовы", — менавіта так ацэньваюць мовазнаўцы, навукоўцы і практыкі, новае перавыданне беларуска-расейскага слоўніка, якое днямі зьявілася ў кнігарнях краіны.
+<img src=»img/padluzny.jpg» title=»Padluzny (Падлужны) — the director of the Linguistics Institute at the Belarusian Academy of Sciences that produced this Soviet dictionary» width=»133» height=»200» alt=»Padluzny (Падлужны) — the director of the Linguistics Institute at the Belarusian Academy of Sciences that produced this Soviet dictionary» /> «Замацаванне савецкасці беларускае мовы», — менавіта так ацэньваюць мовазнаўцы, навукоўцы і практыкі, новае перавыданне беларуска-расейскага слоўніка, якое днямі зьявілася ў кнігарнях краіны.
 
 
 “Беларуска-рускі слоўнік. Рэдактар акадэмік АН Беларусі К.К. Атраховіч (Кандрат Крапіва). Выданне 3-е, папраўленае і дапоўненае. Пад рэдакцыяй акадэміка НАН Беларусі А.І.Падлужнага”. Так складальнікі і выдаўцы рэпрэзэнтуюць выданне, якое некаторыя журналісты ўжо пасьпелі ацаніць як значную прагрэсіўную працу акадэмічных мовазнаўцаў, якія, маўляў, улічылі ўвесь новы лексычны набытак роднае мовы за апошнія 15 гадоў, зьвязаных з усталяваннем Беларусі як сувэрэннае самастойнае краіны.

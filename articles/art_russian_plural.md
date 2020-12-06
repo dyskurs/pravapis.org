@@ -9,11 +9,11 @@ large_header: false
 
 
 
-<h1 id="forming-plural-nominative-in-russian-and-belarusian">Forming Plural Nominative in Russian and Belarusian</h1>
+<h1 id=»forming-plural-nominative-in-russian-and-belarusian»>Forming Plural Nominative in Russian and Belarusian</h1>
 
 Uladzimir Katkouski
 
-<h2 id="russian">1. Russian</h2>
+<h2 id=»russian»>1. Russian</h2>
 
 In Russian there are four different endings for nominative plural <strong>-а, -я</strong> and <strong>-ы, -и</strong> and a whole bunch of exceptions. Here's a brief overview:
 
@@ -76,7 +76,7 @@ Exceptions:
 • Some other exceptions: <strong>мать — матери, дочь — дочери, небо — небеса, чудо — чудеса, англичанин — англичане, крестьянин — крестьяне.</strong>
 
 <br />
-<h2 id="belarusian">2. Belarusian</h2>
+<h2 id=»belarusian»>2. Belarusian</h2>
 
 In Belarusian, forming plural is not so complicated as in Russian. There are only two possible endings: <strong>-і</strong> and <strong>-ы</strong>. And it's very easy to distinguish which one you should use in each case.
 

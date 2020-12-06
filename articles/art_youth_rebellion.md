@@ -9,7 +9,7 @@ large_header: false
 
 
 
-<h1 id="youth-keeps-alive-spark-of-rebellion-to-europes-last-dictator">"Youth keeps alive spark of rebellion to Europe's last dictator"</h1>
+<h1 id=»youth-keeps-alive-spark-of-rebellion-to-europes-last-dictator»>»Youth keeps alive spark of rebellion to Europe's last dictator»</h1>
 
 TIMES, September 09, 2003 by Roger Boyes
 

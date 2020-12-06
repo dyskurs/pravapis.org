@@ -9,22 +9,22 @@ large_header: false
 
 
 
-<h1 id="belarusian-bulgarian-russian-english-basic-phrases">Belarusian-Bulgarian-Russian-English Basic Phrases</h1>
+<h1 id=»belarusian-bulgarian-russian-english-basic-phrases»>Belarusian-Bulgarian-Russian-English Basic Phrases</h1>
 
 Uladzimir Katkouski
 
 
-Thanks to this fantastic <a href="http://web.archive.org">web archive</a> I have retrieved a document which I'd thought was lost for ever. The document was a simple HTML file with a list of the most basic phrases in Bulgarian, Belarusian and Russian, that I compiled back in 1996. Here it comes back to life. To make things easier for an English speaker I have added a transcription, based upon <a href="articles/art_cyrillic_translit.html">U.S. Library of Congress Slavic Cyrillic Transliteration</a>.
+Thanks to this fantastic <a href=»http://web.archive.org»>web archive</a> I have retrieved a document which I'd thought was lost for ever. The document was a simple HTML file with a list of the most basic phrases in Bulgarian, Belarusian and Russian, that I compiled back in 1996. Here it comes back to life. To make things easier for an English speaker I have added a transcription, based upon <a href=»articles/art_cyrillic_translit.html»>U.S. Library of Congress Slavic Cyrillic Transliteration</a>.
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col style=»width: 25%» />
+<col style=»width: 25%» />
+<col style=»width: 25%» />
+<col style=»width: 25%» />
 </colgroup>
 <tbody>
-<tr class="odd">
+<tr class=»odd»>
 
 <strong>Belarusian (Беларуская мова)</strong>
 <strong>Bulgarian (Български език)</strong>
@@ -33,7 +33,7 @@ Thanks to this fantastic <a href="http://web.archive.org">web archive</a> I have
 </strong>
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 <br />
  **  
@@ -44,7 +44,7 @@ Thanks to this fantastic <a href="http://web.archive.org">web archive</a> I have
 <strong>Greetings</strong> 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Вітаю<br />
  *Vitayu*  
@@ -55,7 +55,7 @@ Thanks to this fantastic <a href="http://web.archive.org">web archive</a> I have
 Hello 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Прывітанне<br />
  *Pryvitannie*  
@@ -66,7 +66,7 @@ Hello 
 Hi 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Добрай раніцы<br />
  *Dobray ranitsy*  
@@ -77,7 +77,7 @@ Hi 
 Good morning 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Дзень добры; Дабрыдзень<br />
  *Dzien' dobry; Dabrydzien'*  
@@ -88,7 +88,7 @@ Good morning 
 Hello; Good day 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Добры вечар<br />
  *Dobry vechar*  
@@ -99,7 +99,7 @@ Hello; Good day 
 Good evening 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Дабранач<br />
  *Dabranach*  
@@ -110,7 +110,7 @@ Good evening 
 Good night 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 <br />
  **  
@@ -121,7 +121,7 @@ Good night 
 <strong>Basic expressions</strong> 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Так / Не<br />
  *Tak / Nye*  
@@ -132,7 +132,7 @@ Good night 
 Yes / No 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Дзякуй<br />
  *Dziakuy*  
@@ -143,7 +143,7 @@ Yes / No 
 Thanks 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Дзякую вам<br />
  *Dziakuyu vam*  
@@ -154,7 +154,7 @@ Thanks 
 Thank you 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Спадар / Спадарыня / Спадарычна<br />
  *Spadar / Spadarynya / Spadarychna*  
@@ -165,7 +165,7 @@ Thank you 
 Mister / Missis / Miss 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Як справы?<br />
  *Jak spravy?*  
@@ -176,7 +176,7 @@ Mister / Missis / Miss 
 How is it going? 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Як маесся?<br />
  *Jak mayes'sia?*  
@@ -187,7 +187,7 @@ How is it going? 
 How are you? (inf.) 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Як маецеся?<br />
  *Jak mayeciesia?*  
@@ -198,7 +198,7 @@ How are you? (inf.) 
 How are you? (formal) 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Добра, дзякуй.<br />
  *Dobra, dziakuj.*  
@@ -209,7 +209,7 @@ How are you? (formal) 
 Good, thanks. 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Вельмі добра<br />
  *Viel'mi dobra*  
@@ -220,7 +220,7 @@ Good, thanks. 
 Very good 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Кепска; дрэнна<br />
  *Kepska; drenna*  
@@ -231,7 +231,7 @@ Very good 
 Bad 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Выдатна; файна<br />
  *Vydatna; fayna*  
@@ -242,7 +242,7 @@ Bad 
 Excellent 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Цудоўна<br />
  *Tsudouna*  
@@ -253,7 +253,7 @@ Excellent 
 Wonderful 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Смачна есці!<br />
  *Smachna yesci!*  
@@ -264,7 +264,7 @@ Wonderful 
 Enjoy your meal! 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Як цябе клічуць?<br />
  *Jak cyabye klichuts'?*  
@@ -275,7 +275,7 @@ Enjoy your meal! 
 What's your name? (inf.) 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Як вас завуць?<br />
  *Jak vas zavuts'?*  
@@ -286,7 +286,7 @@ What's your name? (inf.) 
 What is your name? (formal) 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Мяне клічуць Пятрусь.<br />
  *Myanye klichuts' Piatrus'.*  
@@ -297,7 +297,7 @@ What is your name? (formal) 
 My name is Peter. 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Прыемна пазнаёміцца.<br />
  *Pryjemna paznayomitstsa.*  
@@ -308,7 +308,7 @@ My name is Peter. 
 Nice to meet you. 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Шчыры дзякуй.<br />
  *Shchyry dzyakuy.*  
@@ -319,7 +319,7 @@ Nice to meet you. 
 Thank you very much. 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Калі ласка<br />
  *Kali laska*  
@@ -330,7 +330,7 @@ Thank you very much. 
 Please 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Няма за што!<br />
  *Nyama za shto!*  
@@ -341,7 +341,7 @@ Please 
 You are welcome! 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Дапамога!<br />
  *Dapamoha!*  
@@ -352,7 +352,7 @@ You are welcome! 
 Help! 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Дазвольце?<br />
  *Dazvol'tsye?*  
@@ -363,7 +363,7 @@ Help! 
 May I? 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Прабачце; выбачайце<br />
  *Prabachtsye; vybachaytsye*  
@@ -374,7 +374,7 @@ May I? 
 I am sorry. 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Даруйце; перапрашаю<br />
  *Daruytsye; pyeraprashayu*  
@@ -385,7 +385,7 @@ I am sorry. 
 Excuse me. 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Да пабачэння!<br />
  *Da pabachen'nya!*  
@@ -396,7 +396,7 @@ Excuse me. 
 Good bye! 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Убачымся!<br />
  *Ubachymsia!*  
@@ -407,7 +407,7 @@ Good bye! 
 See you later! 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 <br />
  **  
@@ -418,7 +418,7 @@ See you later! 
 <strong>Do you speak...</strong> 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Ці размаўляеце па-ангельску?<br />
  *Ci razmaulyajetsie pa-anhielsku?*  
@@ -429,7 +429,7 @@ See you later! 
 Do you speak English? 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 па-гішпанску<br />
  *pa-hishpansku*  
@@ -440,7 +440,7 @@ Do you speak English? 
 Spanish? 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 па-нямецку<br />
  *pa-nyametsku*  
@@ -451,7 +451,7 @@ Spanish? 
 German? 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 па-французску<br />
  *pa-frantsuzsku*  
@@ -462,7 +462,7 @@ German? 
 French? 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 па-вугорску<br />
  *pa-vuhosrku*  
@@ -473,7 +473,7 @@ French? 
 Hungarian? 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 па-баўгарску<br />
  *pa-bauharsku*  
@@ -484,7 +484,7 @@ Hungarian? 
 Bulgarian? 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 па-расейску<br />
  *pa-raseysku*  
@@ -495,7 +495,7 @@ Bulgarian? 
 Russian? 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Я разумею.<br />
  *Ya razumeyu.*  
@@ -506,7 +506,7 @@ Russian? 
 I understand. 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Я нічога не разумею.<br />
  *Ya nichoha nye razumeyu.*  
@@ -517,7 +517,7 @@ I understand. 
 I don't understand anything. 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Я не размаўляю па-баўгарску<br />
  *Ya nye razmaulyayu pa-bauharsku.*  
@@ -528,7 +528,7 @@ I don't understand anything. 
 I don't speak Bulgarian 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 <br />
  **  
@@ -539,7 +539,7 @@ I don't speak Bulgarian 
 <strong>Questions</strong> 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Дзе?<br />
  *Dzie?*  
@@ -550,7 +550,7 @@ I don't speak Bulgarian 
 Where? 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Як?<br />
  *Jak?*  
@@ -561,7 +561,7 @@ Where? 
 How? 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Калі?<br />
  *Kali?*  
@@ -572,7 +572,7 @@ How? 
 When? 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Што?<br />
  *Shto?*  
@@ -583,7 +583,7 @@ When? 
 What? 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Чаму?<br />
  *Chamu?*  
@@ -594,7 +594,7 @@ What? 
 Why? 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Хто?<br />
  *Khto?*  
@@ -605,7 +605,7 @@ Why? 
 Who? 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Куды?<br />
  *Kudy?*  
@@ -616,7 +616,7 @@ Who? 
 Where to? 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Адкуль?<br />
  *Adkul?*  
@@ -627,7 +627,7 @@ Where to? 
 Where from? 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Колькі?<br />
  *Kolki?*  
@@ -638,7 +638,7 @@ Where from? 
 How much? 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 <br />
  **  
@@ -649,7 +649,7 @@ How much? 
 <strong>Days of the week</strong> 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 панядзелак<br />
  *paniadzielak*  
@@ -660,7 +660,7 @@ How much? 
 Monday 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 аўторак<br />
  *autorak*  
@@ -671,7 +671,7 @@ Monday 
 Tuesday 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 серада<br />
  *sierada*  
@@ -682,7 +682,7 @@ Tuesday 
 Wednesday 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 чацьвер<br />
  *chats'vier*  
@@ -693,7 +693,7 @@ Wednesday 
 Thursday 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 пятніца<br />
  *piatnitsa*  
@@ -704,7 +704,7 @@ Thursday 
 Friday 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 сыбота<br />
  *sybota*  
@@ -715,7 +715,7 @@ Friday 
 Saturday 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 нядзеля<br />
  *niadzielya*  
@@ -726,7 +726,7 @@ Saturday 
 Sunday 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 сённч<br />
  *sionnia*  
@@ -737,7 +737,7 @@ Sunday 
 Today 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 учора<br />
  *uchora*  
@@ -748,7 +748,7 @@ Today 
 Yesterday 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 заўтра<br />
  *zautra*  
@@ -759,7 +759,7 @@ Yesterday 
 Tomorrow 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 тыдзень<br />
  *tydzien'*  
@@ -770,7 +770,7 @@ Tomorrow 
 Week 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 <br />
  **  
@@ -781,7 +781,7 @@ Week 
 <strong>Months</strong> 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Студзень<br />
  *Studzien'*  
@@ -792,7 +792,7 @@ Week 
 January 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Люты<br />
  *Lyuty*  
@@ -803,7 +803,7 @@ January 
 February 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Сакавік<br />
  *Sakavik*  
@@ -814,7 +814,7 @@ February 
 March 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Красавік<br />
  *Krasavik*  
@@ -825,7 +825,7 @@ March 
 April 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Травень<br />
  *Travien'*  
@@ -836,7 +836,7 @@ April 
 May 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Чэрвень<br />
  *Chervien'*  
@@ -847,7 +847,7 @@ May 
 June 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Ліпень<br />
  *Lipien'*  
@@ -858,7 +858,7 @@ June 
 July 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Жнівень<br />
  *Zhnivien'*  
@@ -869,7 +869,7 @@ July 
 August 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Верасень<br />
  *Vierasien'*  
@@ -880,7 +880,7 @@ August 
 Septempber 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Кастрычнік<br />
  *Kastrychnik*  
@@ -891,7 +891,7 @@ Septempber 
 October 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Лістапад<br />
  *Listapad*  
@@ -902,7 +902,7 @@ October 
 November 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Сьнежань<br />
  *S'niezhan'*  
@@ -913,7 +913,7 @@ November 
 December 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 <br />
  **  
@@ -924,7 +924,7 @@ December 
 <strong>Numbers</strong> 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 адзін, першы<br />
  *adzin, piershy*  
@@ -935,7 +935,7 @@ December 
 one, first 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 два, другі<br />
  *dva, druhi*  
@@ -946,7 +946,7 @@ one, first 
 two, second 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 тры, трэйці<br />
  *try, treytsi*  
@@ -957,7 +957,7 @@ two, second 
 three, third 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 чатыры, чацьверты<br />
  *chatyry, chatsvierty*  
@@ -968,7 +968,7 @@ three, third 
 four, fourth 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 пяць, пяты<br />
  *piats', piaty*  
@@ -979,7 +979,7 @@ four, fourth 
 five, fifth 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 шэсць, шосты<br />
  *shests', shosty*  
@@ -990,7 +990,7 @@ five, fifth 
 six, sixth 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 сем, сёмы<br />
  *siem, siomy*  
@@ -1001,7 +1001,7 @@ six, sixth 
 seven, seventh 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 восем, восьмы<br />
  *vosiem, vos'my*  
@@ -1012,7 +1012,7 @@ seven, seventh 
 eight, eighth 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 дзевяць, дзявяты<br />
  *dzieviats', dziaviaty*  
@@ -1023,7 +1023,7 @@ eight, eighth 
 nine, ninth 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 дзесяць, дзясяты<br />
  *dziesiats', dziasiaty*  
@@ -1034,7 +1034,7 @@ nine, ninth 
 ten, tenth 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 <br />
  **  
@@ -1045,7 +1045,7 @@ ten, tenth 
 <strong>Greetings</strong> 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 сьвята<br />
  *s'viata*  
@@ -1056,7 +1056,7 @@ ten, tenth 
 holiday 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 сябар<br />
  *syabar*  
@@ -1067,7 +1067,7 @@ holiday 
 friend 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 дзень народзінаў<br />
  *dzien' narodzinau*  
@@ -1078,7 +1078,7 @@ friend 
 birthday 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Зь днём народзінаў!<br />
  *Z' dnyom narodzinau!*  
@@ -1089,7 +1089,7 @@ birthday 
 Happy birthday! 
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 Віншую!<br />
  *Vinshuju!*  
@@ -1100,7 +1100,7 @@ Happy birthday! 
 Congratulations! 
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 Усяго найлепшага!<br />
  *Usiaho naylepshaha!*  

@@ -5,7 +5,7 @@ large_header: false
 ---
 
 
-<h1 id="фэстываль-гэбрайскай-кнігі-ў-гонар-бэн-егуды-ben-yehuda">Фэстываль гэбрайскай кнігі ў гонар Бэн-Егуды (Ben Yehuda)</h1>
+<h1 id=»фэстываль-гэбрайскай-кнігі-ў-гонар-бэн-егуды-ben-yehuda»>Фэстываль гэбрайскай кнігі ў гонар Бэн-Егуды (Ben Yehuda)</h1>
 
 Вінцэсь Мудроў, Полацак. 23.11.2000
 
@@ -13,7 +13,7 @@ large_header: false
 У Полацку адбыўся першы гарадзкі фэстываль гэбрайскай кнігі. Прысьвечаны фэстываль быў выдатнай постаці жыдоўскай культуры, сыну беларускае зямлі Эліэзэру Бэн-Егудзе – чалавеку, які вярнуў да жыцця некалі амаль мёртвую мову іўрыт.
 
 
-<img src="benyehuda1.gif" width="250" height="128" alt="Ben-Yehuda working" />Бэн-Егуда – ад нараджэння Лазар Пэрэльман – нарадзіўся ў сярэдзіне мінулага стагоддзя ў мястэчку Лужкі навачаснага Шаркаўшчынскага раёну. У 13 гадоў хлопец быў аддадзены ў Полацкі ешыбот, і менавіта тут, у сценах духоўнай вучэльні душу ягоную апанавала старажытнагэбрайская мова, на якой была напісаная Тора.
+<img src=»benyehuda1.gif» width=»250» height=»128» alt=»Ben-Yehuda working» />Бэн-Егуда – ад нараджэння Лазар Пэрэльман – нарадзіўся ў сярэдзіне мінулага стагоддзя ў мястэчку Лужкі навачаснага Шаркаўшчынскага раёну. У 13 гадоў хлопец быў аддадзены ў Полацкі ешыбот, і менавіта тут, у сценах духоўнай вучэльні душу ягоную апанавала старажытнагэбрайская мова, на якой была напісаная Тора.
 
 
 Неўзабаве ягоны родны дзядзька, зразумеўшы, што рабіна з хлопца не атрымаецца, забраў Лазара да сябе – у мястэчка Глыбокае, каб далучыць да нейкай справы. Але хлопец нічым іншым, апрача вывучэння іўрыту, не хацеў займацца.
@@ -28,7 +28,7 @@ large_header: false
 Аб неабходнасці стварэння музэя Бэн-Егуды на ягонай радзіме казаў у сваёй прамове краязнавец з Лужку Эдмунд Гірын. Праца такая, паводле сп.Гірына, ужо пачалася. А ягоная калега – краязнаўца Ада Райчонак – заклікала стварыць такі музэй агульным высілкам габрэяў і беларусаў.
 
 
-<strong>English summary: Polacak (Polatsk), a city in the northeast of Belarus, hosted the first Jewish book festival in honor of Ben-Yehuda. Eliazar Ben-Yehuda, the "father of modern Hebrew", was born in a Belarusian town Luzhki, from age 13 he attended religious academy "yeshiva" in Polacak (Polatsk). Festival participants shared their plans to open Ben-Yehuda's museum in his birth place in Luzhki, which would become a joint Belarusian-Jewish cultural project.</strong>
+<strong>English summary: Polacak (Polatsk), a city in the northeast of Belarus, hosted the first Jewish book festival in honor of Ben-Yehuda. Eliazar Ben-Yehuda, the «father of modern Hebrew», was born in a Belarusian town Luzhki, from age 13 he attended religious academy «yeshiva» in Polacak (Polatsk). Festival participants shared their plans to open Ben-Yehuda's museum in his birth place in Luzhki, which would become a joint Belarusian-Jewish cultural project.</strong>
 
 
 © Radio Free Europe / Radio Liberty, Inc., All Rights Reserved.

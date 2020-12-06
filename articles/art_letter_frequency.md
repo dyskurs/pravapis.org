@@ -14,35 +14,35 @@ large_header: false
 by [rydel n23](http://www.rydel.net/)
 
 <ul>
-<li>Here are some brief notes regarding the <a href="#tablica">table below</a>;</li>
-<li>I used 11 books for calculation of letter frequencies. Four well-known books written in "Narkamauka" (Soviet version of Belarusian), five in classical orthography (sometimes called "tarashkevica"), and two books in Russian (actually two Belarusian books translated into Russian). You can see the <a href="#books">actual book list below</a>.</li>
-<li>Probably the most distinguising feature of Belarusian letter frequency is the abundance of letter "a" -- more than 16%!</li>
-<li>Also you can note that overall letter frequency distribution is very different from Russian, especially the vowels "а", "о", "ы", "я". Some consonants such as "ц" and "з" are much more often encountered in Belarusian. I'll leave furrther analysis to the reader...</li>
-<li>It's worth noting that there are very few differences between classical and Soviet versions of our orthography. Most notably, classical has higher percentage of "ь" (soft sign), "э" and "я".</li>
-<li>You can download the complete Excel sheet file from <a href="download.html">the downloads section</a> (there is a zip file with a Windows executable file that allows to calculate the frequency and an Excel file that contains two worksheets).</li>
+<li>Here are some brief notes regarding the <a href=»#tablica»>table below</a>;</li>
+<li>I used 11 books for calculation of letter frequencies. Four well-known books written in «Narkamauka» (Soviet version of Belarusian), five in classical orthography (sometimes called «tarashkevica»), and two books in Russian (actually two Belarusian books translated into Russian). You can see the <a href=»#books»>actual book list below</a>.</li>
+<li>Probably the most distinguising feature of Belarusian letter frequency is the abundance of letter «a» -- more than 16%!</li>
+<li>Also you can note that overall letter frequency distribution is very different from Russian, especially the vowels «а», «о», «ы», «я». Some consonants such as «ц» and «з» are much more often encountered in Belarusian. I'll leave furrther analysis to the reader...</li>
+<li>It's worth noting that there are very few differences between classical and Soviet versions of our orthography. Most notably, classical has higher percentage of «ь» (soft sign), «э» and «я».</li>
+<li>You can download the complete Excel sheet file from <a href=»download.html»>the downloads section</a> (there is a zip file with a Windows executable file that allows to calculate the frequency and an Excel file that contains two worksheets).</li>
 </ul>
 <ul>
-<li>Хацеў бы зрабіць некалькі заўвагаў, што да <a href="#tablica">табліцы частотнасці</a>;</li>
-<li>Для падліку частотнасці я скарыстаў агулам 11 кніг: чатыры шырока вядомых кнігі, напісаных "наркамаўкай"; пяць кніг, напісаных клясычным правапісам (гэтак званай "тарашкевіцай"); дзьве кнігі па-расейску (пераклады двух беларускіх раманаў). Вы можаце праглядзець сьпіс <a href="#books">тутака</a>.</li>
-<li>Напэўна, самая заўважная характарыстыка беларускай мовы -- вялікая колькасць літары "а" -- больш, як 16 адсоткаў!</li>
-<li>Таксама можна заўважыць, што агульная дыстрыбуцыя літараў досыць моцна адрозьніваецца ад расейскай мовы. Гэта асабліва датычыць галосных "а", "о", "ы", "я", а таксама некаторых зычных, напрыклад, "ц" і "з". Далейшы аналіз я пакідаю зацікаўленаму чытачу.</li>
-<li>Варта заўважыць, што насуперак пасапалітаму меркаванню, адрозьненні паміж савецкай наркамаўкай і клясычным правапісам досыць не значныя і тычацца пераважна трох літараў: "ь" (мяккі знак), "э" і "я". У клясычным правапісе іхная доля трохі большая.</li>
-<li>Вы можаце загрузіць сабе поўныя дадзеныя ў фармаце Microsoft Excel з <a href="download_by.html">разьдзелу downloads</a>. Заархіваваны ZIP файл утрымлівае Windows праграму для падліку частотнасці літараў і файл Excel з двума аркушамі.</li>
-</ul><span id="tablica"></span>
+<li>Хацеў бы зрабіць некалькі заўвагаў, што да <a href=»#tablica»>табліцы частотнасці</a>;</li>
+<li>Для падліку частотнасці я скарыстаў агулам 11 кніг: чатыры шырока вядомых кнігі, напісаных «наркамаўкай»; пяць кніг, напісаных клясычным правапісам (гэтак званай «тарашкевіцай»); дзьве кнігі па-расейску (пераклады двух беларускіх раманаў). Вы можаце праглядзець сьпіс <a href=»#books»>тутака</a>.</li>
+<li>Напэўна, самая заўважная характарыстыка беларускай мовы -- вялікая колькасць літары «а» -- больш, як 16 адсоткаў!</li>
+<li>Таксама можна заўважыць, што агульная дыстрыбуцыя літараў досыць моцна адрозьніваецца ад расейскай мовы. Гэта асабліва датычыць галосных «а», «о», «ы», «я», а таксама некаторых зычных, напрыклад, «ц» і «з». Далейшы аналіз я пакідаю зацікаўленаму чытачу.</li>
+<li>Варта заўважыць, што насуперак пасапалітаму меркаванню, адрозьненні паміж савецкай наркамаўкай і клясычным правапісам досыць не значныя і тычацца пераважна трох літараў: «ь» (мяккі знак), «э» і «я». У клясычным правапісе іхная доля трохі большая.</li>
+<li>Вы можаце загрузіць сабе поўныя дадзеныя ў фармаце Microsoft Excel з <a href=»download_by.html»>разьдзелу downloads</a>. Заархіваваны ZIP файл утрымлівае Windows праграму для падліку частотнасці літараў і файл Excel з двума аркушамі.</li>
+</ul><span id=»tablica»></span>
 Classical Belarusian
 Soviet Belarusian
 Russian
-<span class="small">letter</span>
-<span class="small">% perc.</span>
-<span class="small">occur.</span>
+<span class=»small»>letter</span>
+<span class=»small»>% perc.</span>
+<span class=»small»>occur.</span>
  
-<span class="small">letter</span>
-<span class="small">% perc.</span>
-<span class="small">occur.</span>
+<span class=»small»>letter</span>
+<span class=»small»>% perc.</span>
+<span class=»small»>occur.</span>
  
-<span class="small">letter</span>
-<span class="small">% perc.</span>
-<span class="small">occur.</span>
+<span class=»small»>letter</span>
+<span class=»small»>% perc.</span>
+<span class=»small»>occur.</span>
  
 а
 16,08
@@ -415,24 +415,24 @@ Russian
    
  
    
-<span id="books"></span>
+<span id=»books»></span>
 # Books used for calculations — Скарыстаныя для падліку кнігі
 Soviet Belarusian (Наркамаўка): 
-1. Jakub Kolas "Novaja ziamla" -- Якуб Колас "Новая зямля"
-2. Ivan Samiakin "Serca na daloni" -- Іван Шамякін "Сэрца на далоні"
-3. Uladzimir Karatkievic "Corny zamak Alsanski" -- Уладзімір Караткевіч
- "Чорны замак Альшанскі"
-4. Uladzimir Dubouka "Pialostki" -- Уладзімір Дубоўка — "Пялёсткі"
+1. Jakub Kolas «Novaja ziamla» -- Якуб Колас «Новая зямля»
+2. Ivan Samiakin «Serca na daloni» -- Іван Шамякін «Сэрца на далоні»
+3. Uladzimir Karatkievic «Corny zamak Alsanski» -- Уладзімір Караткевіч
+ «Чорны замак Альшанскі»
+4. Uladzimir Dubouka «Pialostki» -- Уладзімір Дубоўка — «Пялёсткі»
 Classical orthography (Клясычны правапіс): 
-1. Kastus Akula "Za volu" -- Кастусь Акула "За волю"
-2. Piotra Syc "Smierc i salauji" (Mt.Casino) -- Пётра Сыч "Сьмерць і
- Салаўі" (Mt.Casino)
-3. Anton Adamovic "Kachany horad" -- Антон Адамовіч "Каханы горад"
-4. Jazep Losik "Zauvahi da..." -- Язэп Лёсік "Заўвагі да..."
-5. Vasil Bykau "Sciana" -- Васіль Быкаў "Сцяна"
+1. Kastus Akula «Za volu» -- Кастусь Акула «За волю»
+2. Piotra Syc «Smierc i salauji» (Mt.Casino) -- Пётра Сыч «Сьмерць і
+ Салаўі» (Mt.Casino)
+3. Anton Adamovic «Kachany horad» -- Антон Адамовіч «Каханы горад»
+4. Jazep Losik «Zauvahi da...» -- Язэп Лёсік «Заўвагі да...»
+5. Vasil Bykau «Sciana» -- Васіль Быкаў «Сцяна»
 Russian (расейская мова): 
-1. Janka Maur, "Amok" (Russian translation) -- Янка Маур "Амок"
-2. Vladimir Korotkevich "Dikaya ohota korolya Stakha" (Russian
- translation) -- Владимир Короткевич "Дикая охота короля Стаха"
+1. Janka Maur, «Amok» (Russian translation) -- Янка Маур «Амок»
+2. Vladimir Korotkevich «Dikaya ohota korolya Stakha» (Russian
+ translation) -- Владимир Короткевич «Дикая охота короля Стаха»
 Electronic versions of the books were taken from [knihi.com
 (Bielaruskaja Palicka).](http://www.knihi.com/)

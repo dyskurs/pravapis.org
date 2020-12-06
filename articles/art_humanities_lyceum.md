@@ -5,7 +5,7 @@ large_header: false
 ---
 
 
-<h1 id="children-on-the-streets-belarusian-humanities-lyceum-closed-down">Children on the streets: Belarusian Humanities Lyceum closed down</h1>
+<h1 id=»children-on-the-streets-belarusian-humanities-lyceum-closed-down»>Children on the streets: Belarusian Humanities Lyceum closed down</h1>
 
 Ihar Svabodzin (charter97.org), Uladzimir Katkouski
 

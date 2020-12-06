@@ -6,13 +6,13 @@ large_header: false
 
 
 
-<h1 id="фенечка-belarusian-hippie-slang">Фенечка [Belarusian Hippie Slang]</h1>
+<h1 id=»фенечка-belarusian-hippie-slang»>Фенечка [Belarusian Hippie Slang]</h1>
 
 Кароткі слоўнік менскіх хіпі і панкаў канца 70-х і пачатку 80-х гадоў,<br />
 скаладзены Адамам Глёбусам
 
 
-<img src="hippie03.jpg" width="150" height="250" alt="Belarusian hyppy (cute long-haired girl). (C) IREX Fotoservis, Minsk, Belarus" /> АДЦЯГН<strong>У</strong>ЦЦА – злавіць кайф, адпачыць – Пайшлі да Крыпі, адцягнемся.<br />
+<img src=»hippie03.jpg» width=»150» height=»250» alt=»Belarusian hyppy (cute long-haired girl). (C) IREX Fotoservis, Minsk, Belarus» /> АДЦЯГН<strong>У</strong>ЦЦА – злавіць кайф, адпачыць – Пайшлі да Крыпі, адцягнемся.<br />
 <br />
 АСКАЦЬ – прасіць, клянчыць, зшыбаць грошы (звычайна, на алейках, у парках, на ваґзалах) – Есці хочацца, пайшлі аскаць на стрыт…<br />
 <br />
@@ -67,7 +67,7 @@ large_header: false
 ЗАВЁРНУТЫ – 1. Моцна захоплены чым-небудзь – Шыма на рамане завярнуўся. Піша, потым патэлефануе: “Швед, я пра цябе напісаў!”, кідае трубку і зноў піша. 2. Звар’яцелы – Ад такіх наваротаў і завярнуцца можна.<br />
 <br />
 ЗАМАНДЗ<strong>Я</strong>ЧЫЦЬ – 1. Ударыць, улупіць, замачыць, шарахнуць – Не пасьпеў я слова сказаць, а ён як замандзячыць мне ў бараду. 2. Сказаць моцнае слова, пажартаваць – Гаварылі, гаварылі, і раптам Француз як замандзячыў пра Ірку, што яна шкура – пачаліся разборкі.<br />
-<img src="hippie01.jpg" width="180" height="270" alt="Belarusian hippie. girl (C) IREX Fotoservis, Minsk, Belarus" /><br />
+<img src=»hippie01.jpg» width=»180» height=»270» alt=»Belarusian hippie. girl (C) IREX Fotoservis, Minsk, Belarus» /><br />
 ЗДЫМАЦЬ ПАДРУГ – знаёміцца зь дзяўчатамі – Падвальваем да лаўкі. Дзьве падругі кураць “Арбіту”. Мы і так, і гэтак, а яны не зьёмныя. Давялося прагнаць з Алейкі.<br />
 <br />
 КАЙФ – 1. Найвышэйшая ступень задавальнення. – Бяз кайфу не ма лайфу. 2. Наркотык – Алё, Швед, у цябе кайф ёсць? У мяне ломка пачынаецца.<br />
@@ -175,7 +175,7 @@ large_header: false
 УМАТНЫ – 1. Свой – Алекса ўматны мэн. – Быў. 2. Выдатны – “Уліс” уматная каманда. – Была.<br />
 <br />
 УСПУХАЦЬ – выступаць не па справе (ня ў троп) – А Шуга ўсё ўспухае і ўспухае, задзёўб.<br />
-<img src="hippie02.jpg" width="160" height="250" alt="Belarusian hippie (C) IREX Fotoservis, Minsk, Belarus" /><br />
+<img src=»hippie02.jpg» width=»160» height=»250» alt=»Belarusian hippie (C) IREX Fotoservis, Minsk, Belarus» /><br />
 ФАК – коітус, полавы акт – А мне факі не  ў кайф – Вядома, трапак.<br />
 <br />
 Ф<strong>А</strong>КАЦЦА (Ф<strong>А</strong>ЧЫЦЦА) – рабіць коітус, трахацца, маркітавацца, любіцца… – А ты, калі яе факаў у пад’езьдзе, станавіўся на прыступку вышэй?<br />

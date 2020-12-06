@@ -5,30 +5,30 @@ large_header: false
 ---
 
 
-<h1 id="swadesh-list-belarusian---polish-russian---belarusian">Swadesh List: Belarusian — Polish, Russian — Belarusian</h1>
+<h1 id=»swadesh-list-belarusian---polish-russian---belarusian»>Swadesh List: Belarusian — Polish, Russian — Belarusian</h1>
 
 Uladzimir Katkouski
 
-<h2 id="what-is-a-swadesh-list-anyway">1. What is a Swadesh list anyway?</h2>
+<h2 id=»what-is-a-swadesh-list-anyway»>1. What is a Swadesh list anyway?</h2>
 
 A Swadesh list is a tool of <strong>glottochronology</strong>, proposed by Morris Swadesh (1950). It is a list of prescribed items of basic vocabulary (variously featuring 100, 200 or 207 items) in two or more related languages. The closeness of the relationship of the languages is suggested to be roughly proportional to the number of <strong>cognate</strong> words present in the list. The reason that a fixed set of concept is used, rather than a list of arbitrary words, is that the basic vocabulary learned during early childhood is assumed to change very slowly over time. Note that the task of counting the number of cognate words in the list is far from trivial, and may be subjected to dispute, because cognates do not necessarily look similar, and recognition of cognates presupposes knowledge of the sound laws of the respective languages. For example, Greek  *galaktos*  and English  *milk*  are cognates, although they are not recognizable as such without knowledge of the history of both languages. Also, even in cases where the number of cognates is undisputed, use of Swadesh lists for dating is disputed, because of the underlying assumption that the rate of replacement of basic vocabulary is constant over long periods of time. While Swadesh lists are a useful tool to get a rough idea, mainstream historical linguistics is usually very sceptical about claims of relatedness based on Swadesh lists.
 
-<h2 id="what-did-we-do">2. What did we do?</h2>
+<h2 id=»what-did-we-do»>2. What did we do?</h2>
 
-In spite of the sceptical attitude, I still decided to compile a very rough estimate for Belarusian, just out of curiousity and because I couldn't find any reliable data on the Web regarding Belarusian and lexical similaruty of the Belarusian language in relation to its Slavic neighbours, such as Ukrainian, Polish, and Russian. So I ran the Swadesh "test" for Belarusian — Polish and Russian — Belarusian pairs. The easy part was to compile the lists (see below). But "grading" them was more challenging. Two people (me and my friend) did it. Since we both are not professional linguists, our results should be taken with a grain of salt. We don't know Slavic etymology that good and we don't know Protoindoeuropean and don't have practical experience with Swadesh lists, so our system of grading the words was as follows: if the words looked totally different (obviously different roots), we put a 0 (zero). If the words looked the same or very similar we put 1 (one). If the words looked sufficiently different, but still looked as if they could be cognates, we put 0.5 (a kind of "in between", "not sure").
+In spite of the sceptical attitude, I still decided to compile a very rough estimate for Belarusian, just out of curiousity and because I couldn't find any reliable data on the Web regarding Belarusian and lexical similaruty of the Belarusian language in relation to its Slavic neighbours, such as Ukrainian, Polish, and Russian. So I ran the Swadesh «test» for Belarusian — Polish and Russian — Belarusian pairs. The easy part was to compile the lists (see below). But «grading» them was more challenging. Two people (me and my friend) did it. Since we both are not professional linguists, our results should be taken with a grain of salt. We don't know Slavic etymology that good and we don't know Protoindoeuropean and don't have practical experience with Swadesh lists, so our system of grading the words was as follows: if the words looked totally different (obviously different roots), we put a 0 (zero). If the words looked the same or very similar we put 1 (one). If the words looked sufficiently different, but still looked as if they could be cognates, we put 0.5 (a kind of «in between», «not sure»).
 
 
 The results of our calculations are stored in MS Excel sheet which you are welcome to download:
 
 
-• <a href="swadesh_slavic.xls"><strong>Download Microsoft Excel file: swadesh_slavic.xls</strong></a> (70 KB)
+• <a href=»swadesh_slavic.xls»><strong>Download Microsoft Excel file: swadesh_slavic.xls</strong></a> (70 KB)
 
-<h2 id="results">3. Results</h2>
+<h2 id=»results»>3. Results</h2>
 
 The estimates that we got are as follows:
 
 
-The lexical similarity between Belarusian and Russian is in between 78% to 83.5%. That is somewhere around <strong><span class="underline">80%</span></strong>.
+The lexical similarity between Belarusian and Russian is in between 78% to 83.5%. That is somewhere around <strong><span class=»underline»>80%</span></strong>.
 
 
 The lexical similarity between Belarusian and Polish was in between 82%-84%. That is somewhere around <strong>83%</strong>.
@@ -39,23 +39,23 @@ The conclusion (at least on the basis of this particular test) is that Swadesh l
 
 The lexical similarity between Russian and Polish according to our estimates was <strong>76%</strong>.
 
-<h2 id="swodesh-list-for-some-slavic-languages">4. Swodesh list for some Slavic languages</h2>
+<h2 id=»swodesh-list-for-some-slavic-languages»>4. Swodesh list for some Slavic languages</h2>
 
 For people that don't have MS Excel, here's the copy of the list (without the grading though), just the words:
 
 <table>
 <colgroup>
-<col style="width: 12%" />
-<col style="width: 12%" />
-<col style="width: 12%" />
-<col style="width: 12%" />
-<col style="width: 12%" />
-<col style="width: 12%" />
-<col style="width: 12%" />
-<col style="width: 12%" />
+<col style=»width: 12%» />
+<col style=»width: 12%» />
+<col style=»width: 12%» />
+<col style=»width: 12%» />
+<col style=»width: 12%» />
+<col style=»width: 12%» />
+<col style=»width: 12%» />
+<col style=»width: 12%» />
 </colgroup>
 <tbody>
-<tr class="odd">
+<tr class=»odd»>
 
 #.
 English
@@ -67,7 +67,7 @@ Bulgarian
 Belarusian
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 1.
 I
@@ -79,7 +79,7 @@ ja
 ja
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 2.
 thou
@@ -91,7 +91,7 @@ ti
 ty
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 3.
 he
@@ -103,7 +103,7 @@ on , to
 jon
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 4.
 we
@@ -115,7 +115,7 @@ mi
 my
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 5.
 you
@@ -127,7 +127,7 @@ vi
 vy
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 6.
 they
@@ -139,7 +139,7 @@ oni
 jany
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 7.
 this
@@ -152,7 +152,7 @@ tut , taktor , tuktor
 hety , heta
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 8.
 that
@@ -165,7 +165,7 @@ tot
 toj , heny
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 9.
 here
@@ -177,7 +177,7 @@ tugde
 tut
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 10.
 there
@@ -189,7 +189,7 @@ tamgde
 tam
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 11.
 who
@@ -201,7 +201,7 @@ kto
 chto
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 12.
 what
@@ -213,7 +213,7 @@ sxto
 ЕЎto
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 13.
 where
@@ -225,7 +225,7 @@ gde
 dzie
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 14.
 when
@@ -237,7 +237,7 @@ gda
 kali
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 15.
 how
@@ -249,7 +249,7 @@ kak
 jak
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 16.
 not
@@ -261,7 +261,7 @@ ne
 nie
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 17.
 all
@@ -273,7 +273,7 @@ vse
 usio
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 18.
 many
@@ -285,7 +285,7 @@ mnogju , mnog , mnoguo
 ЕЎmat
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 19.
 some
@@ -297,7 +297,7 @@ nekolk , nektor
 niekalki
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 20.
 few
@@ -309,7 +309,7 @@ maluo
 niaЕЎmat , maЕ‚a
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 21.
 other
@@ -321,7 +321,7 @@ inju
 inЕЎy
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 22.
 one
@@ -333,7 +333,7 @@ din
 adzin
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 23.
 two
@@ -345,7 +345,7 @@ dva
 dva
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 24.
 three
@@ -357,7 +357,7 @@ tri
 try
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 25.
 four
@@ -369,7 +369,7 @@ cxtir
 ДЌatyry
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 26.
 five
@@ -381,7 +381,7 @@ piat
 piaД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 27.
 big
@@ -393,7 +393,7 @@ velju
 vialiki
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 28.
 long
@@ -405,7 +405,7 @@ dolgju
 doЕ­hi
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 29.
 wide
@@ -417,7 +417,7 @@ sxirju
 ЕЎyroki
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 30.
 thick
@@ -429,7 +429,7 @@ tolstju
 toЕ­sty
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 31.
 heavy
@@ -441,7 +441,7 @@ tezxkju
 ciaЕѕki
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 32.
 small
@@ -453,7 +453,7 @@ malju
 malenki
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 33.
 short
@@ -465,7 +465,7 @@ kratju
 karotki
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 34.
 narrow
@@ -477,7 +477,7 @@ uzkju
 vuzki
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 35.
 thin
@@ -489,7 +489,7 @@ tonkju
 tonki
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 36.
 woman
@@ -501,7 +501,7 @@ zxen , ludica
 ЕѕanДЌyna , kabieta
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 37.
 man
@@ -513,7 +513,7 @@ muzx , ludic
 muЕѕДЌyna
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 38.
 person
@@ -525,7 +525,7 @@ osoba
 asoba , ДЌaЕ‚aviek
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 39.
 child
@@ -537,7 +537,7 @@ dete
 dzicia , dzicionak
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 40.
 wife
@@ -550,7 +550,7 @@ svadzxen
 Еѕonka
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 41.
 husband
@@ -563,7 +563,7 @@ svadmuzx
 muЕѕ
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 42.
 mother
@@ -575,7 +575,7 @@ mama
 maci
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 43.
 father
@@ -587,7 +587,7 @@ otec
 baД‡ka
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 44.
 animal
@@ -599,7 +599,7 @@ zver
 ЕѕyvioЕ‚a , Еєvier
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 45.
 fish
@@ -611,7 +611,7 @@ riba
 ryba
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 46.
 bird
@@ -623,7 +623,7 @@ ptak
 ptuЕЎka
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 47.
 dog
@@ -635,7 +635,7 @@ sobak
 sabaka , pios
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 48.
 louse
@@ -647,7 +647,7 @@ vosx
 voЕЎ
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 49.
 snake
@@ -659,7 +659,7 @@ gad , zmia
 Еєmiaja
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 50.
 worm
@@ -671,7 +671,7 @@ cxerv
 ДЌarviak , rabak
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 51.
 tree
@@ -683,7 +683,7 @@ drev
 dreva
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 52.
 forest
@@ -695,7 +695,7 @@ les
 les
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 53.
 stick
@@ -707,7 +707,7 @@ palka
 kij , paЕ‚ka
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 54.
 fruit
@@ -719,7 +719,7 @@ plod
 sadavina
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 55.
 seed
@@ -731,7 +731,7 @@ seme
 nasieЕ„nie
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 56.
 leaf
@@ -743,7 +743,7 @@ list
 list
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 57.
 root
@@ -755,7 +755,7 @@ koren
 koraЕ„
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 58.
 bark
@@ -767,7 +767,7 @@ kora
 kara
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 59.
 flower
@@ -779,7 +779,7 @@ kvet
 kvietka
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 60.
 grass
@@ -791,7 +791,7 @@ trava
 trava
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 61.
 rope
@@ -803,7 +803,7 @@ sxnur
 viaroЕ­ka , ЕЎnur
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 62.
 skin
@@ -815,7 +815,7 @@ kozxa
 skura
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 63.
 meat
@@ -827,7 +827,7 @@ miaso
 miasa
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 64.
 blood
@@ -839,7 +839,7 @@ krov
 kroЕ­
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 65.
 bone
@@ -851,7 +851,7 @@ kost
 koЕ›Д‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 66.
 fat (n.)
@@ -863,7 +863,7 @@ sadlo
 tЕ‚uЕЎДЌ
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 67.
 egg
@@ -875,7 +875,7 @@ jaico
 jajka
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 68.
 horn
@@ -887,7 +887,7 @@ rog
 roh
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 69.
 tail
@@ -899,7 +899,7 @@ hvost
 chvost
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 70.
 feather
@@ -911,7 +911,7 @@ pero
 piaro
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 71.
 hair
@@ -923,7 +923,7 @@ vlosis , sxerst
 vaЕ‚asy
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 72.
 head
@@ -935,7 +935,7 @@ glov
 haЕ‚ava
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 73.
 ear
@@ -947,7 +947,7 @@ usx
 vucha
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 74.
 eye
@@ -959,7 +959,7 @@ ocx
 voka
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 75.
 nose
@@ -971,7 +971,7 @@ nos
 nos
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 76.
 mouth
@@ -983,7 +983,7 @@ usta
 vusny , rot
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 77.
 tooth
@@ -995,7 +995,7 @@ zub
 zub
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 78.
 tongue
@@ -1007,7 +1007,7 @@ jazik
 jazyk
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 79.
 fingernail
@@ -1019,7 +1019,7 @@ nogot
 paznohaД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 80.
 foot
@@ -1031,7 +1031,7 @@ nog , stopa
 stupnia
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 81.
 leg
@@ -1043,7 +1043,7 @@ noga
 naha
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 82.
 knee
@@ -1055,7 +1055,7 @@ kolen
 kalena
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 83.
 hand
@@ -1067,7 +1067,7 @@ ruk
 daЕ‚oЕ„ , ruka
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 84.
 wing
@@ -1079,7 +1079,7 @@ krilo
 kryЕ‚o
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 85.
 belly
@@ -1091,7 +1091,7 @@ bruho
 brucha , puza
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 86.
 guts
@@ -1103,7 +1103,7 @@ smelost
 vantroby
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 87.
 neck
@@ -1115,7 +1115,7 @@ sxia
 ЕЎyja
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 88.
 back
@@ -1127,7 +1127,7 @@ hrebet
 Е›pina
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 89.
 breast
@@ -1139,7 +1139,7 @@ grud , sisk
 hrudzi
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 90.
 heart
@@ -1151,7 +1151,7 @@ serdce
 serca
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 91.
 liver
@@ -1163,7 +1163,7 @@ pecxen
 pieДЌaЕ„
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 92.
 drink
@@ -1175,7 +1175,7 @@ pitit
 piД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 93.
 eat
@@ -1187,7 +1187,7 @@ edat
 jeЕ›ci
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 94.
 bite
@@ -1199,7 +1199,7 @@ kusit
 hryЕєci
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 95.
 suck
@@ -1211,7 +1211,7 @@ sosat
 ssaД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 96.
 spit
@@ -1223,7 +1223,7 @@ pluvat
 plavaД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 97.
 vomit
@@ -1235,7 +1235,7 @@ bluvat
 vanitavaД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 98.
 blow
@@ -1247,7 +1247,7 @@ viatit
 dЕєmuД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 99.
 breathe
@@ -1259,7 +1259,7 @@ dihat
 dychaД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 100.
 laugh
@@ -1271,7 +1271,7 @@ smehit
 Е›miajacca
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 101.
 see
@@ -1283,7 +1283,7 @@ vidit
 baДЌyД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 102.
 hear
@@ -1295,7 +1295,7 @@ slisxit
 ДЌuД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 103.
 know
@@ -1307,7 +1307,7 @@ znat
 viedaД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 104.
 think
@@ -1319,7 +1319,7 @@ mislit , dumat
 dumaД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 105.
 smell
@@ -1331,7 +1331,7 @@ niuhat
 niuchaД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 106.
 fear
@@ -1343,7 +1343,7 @@ boiat
 bajacca
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 107.
 sleep
@@ -1355,7 +1355,7 @@ spatit
 spaД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 108.
 live
@@ -1367,7 +1367,7 @@ zxiznit , domovit
 ЕѕyД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 109.
 die
@@ -1379,7 +1379,7 @@ umirat
 pamiraД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 110.
 kill
@@ -1391,7 +1391,7 @@ smertit , ubit
 zabivaД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 111.
 fight
@@ -1403,7 +1403,7 @@ borbat , borit
 zmahacca
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 112.
 hunt
@@ -1415,7 +1415,7 @@ lovit
 palavaД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 113.
 hit
@@ -1427,7 +1427,7 @@ udarit
 udaryД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 114.
 cut
@@ -1439,7 +1439,7 @@ rezit
 rezaД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 115.
 split
@@ -1451,7 +1451,7 @@ razsxtepit
 raЕєdzialaД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 116.
 stab
@@ -1463,7 +1463,7 @@ zakolit
 zakaloД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 117.
 scratch
@@ -1475,7 +1475,7 @@ skrebit
 drapaД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 118.
 dig
@@ -1487,7 +1487,7 @@ kopat
 kapaД‡ , ryД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 119.
 swim
@@ -1499,7 +1499,7 @@ plavat
 pЕ‚avaД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 120.
 fly (v.)
@@ -1511,7 +1511,7 @@ letit
 lataД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 121.
 walk
@@ -1523,7 +1523,7 @@ hodit
 iЕ›ci , chadziД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 122.
 come
@@ -1535,7 +1535,7 @@ pridit
 pryjЕ›ci , prychodziД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 123.
 lie
@@ -1547,7 +1547,7 @@ lezxat
 laЕѕaД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 124.
 sit
@@ -1559,7 +1559,7 @@ sidit
 siadzieД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 125.
 stand
@@ -1571,7 +1571,7 @@ staiat
 stajaД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 126.
 turn
@@ -1583,7 +1583,7 @@ vrotit
 pavaroДЌvacca
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 127.
 fall
@@ -1595,7 +1595,7 @@ padat
 upaЕ›ci
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 128.
 give
@@ -1607,7 +1607,7 @@ podat
 davaД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 129.
 hold
@@ -1619,7 +1619,7 @@ derzxit
 trymaД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 130.
 squeeze
@@ -1631,7 +1631,7 @@ zximat
 Е›ciskaД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 131.
 rub
@@ -1643,7 +1643,7 @@ tirat
 cierci
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 132.
 wash
@@ -1655,7 +1655,7 @@ umivat
 myД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 133.
 wipe
@@ -1667,7 +1667,7 @@ utirat
 vycierci
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 134.
 pull
@@ -1679,7 +1679,7 @@ tiagat
 ciahnuД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 135.
 push
@@ -1691,7 +1691,7 @@ tiskit
 ЕЎturchaД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 136.
 throw
@@ -1703,7 +1703,7 @@ kidat
 kidaД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 137.
 tie
@@ -1715,7 +1715,7 @@ viazat
 ЕєviazaД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 138.
 sew
@@ -1727,7 +1727,7 @@ sxitit
 ЕЎyД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 139.
 count
@@ -1739,7 +1739,7 @@ scxitat
 liДЌyД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 140.
 say
@@ -1751,7 +1751,7 @@ molvit , gvorit , skazat
 kazaД‡ , razmaЕ­laД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 141.
 sing
@@ -1763,7 +1763,7 @@ pesnat
 Е›piavaД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 142.
 play
@@ -1775,7 +1775,7 @@ igrat
 hulaД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 143.
 float
@@ -1787,7 +1787,7 @@ plovit
 pЕ‚yД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 144.
 flow
@@ -1799,7 +1799,7 @@ tecxit
 ciaДЌy
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 145.
 freeze
@@ -1811,7 +1811,7 @@ mrozit
 zamiorznuД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 146.
 swell
@@ -1823,7 +1823,7 @@ opuhit
 puchnuД‡
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 147.
 sun
@@ -1835,7 +1835,7 @@ solnce
 sonca
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 148.
 moon
@@ -1847,7 +1847,7 @@ luna
 miesiac
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 149.
 star
@@ -1859,7 +1859,7 @@ zvezd
 zorka
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 150.
 water
@@ -1871,7 +1871,7 @@ voda
 vada
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 151.
 rain
@@ -1883,7 +1883,7 @@ dozxd
 doЕѕdЕѕ
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 152.
 river
@@ -1895,7 +1895,7 @@ reka
 raka
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 153.
 lake
@@ -1907,7 +1907,7 @@ ozero
 voziera
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 154.
 sea
@@ -1919,7 +1919,7 @@ morie
 mora
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 155.
 salt
@@ -1931,7 +1931,7 @@ sol
 sol
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 156.
 stone
@@ -1943,7 +1943,7 @@ kamen
 kamieЕ„
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 157.
 sand
@@ -1955,7 +1955,7 @@ pesok
 piasok
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 158.
 dust
@@ -1967,7 +1967,7 @@ prah
 pyЕ‚
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 159.
 earth
@@ -1979,7 +1979,7 @@ zemla
 ziamla
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 160.
 cloud
@@ -1991,7 +1991,7 @@ oblak
 chmara , voblaka
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 161.
 fog
@@ -2003,7 +2003,7 @@ tuman
 imhЕ‚a , tuman
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 162.
 sky
@@ -2015,7 +2015,7 @@ nebo
 nieba
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 163.
 wind
@@ -2027,7 +2027,7 @@ veter
 viecier
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 164.
 snow
@@ -2039,7 +2039,7 @@ sneg
 Е›nieh
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 165.
 ice
@@ -2051,7 +2051,7 @@ led
 lod
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 166.
 smoke
@@ -2063,7 +2063,7 @@ dim
 dym
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 167.
 fire
@@ -2075,7 +2075,7 @@ ogon
 ahoЕ„
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 168.
 ashes
@@ -2087,7 +2087,7 @@ pepel
 popieЕ‚
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 169.
 burn
@@ -2099,7 +2099,7 @@ palit , goret
 paliД‡
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 170.
 road
@@ -2111,7 +2111,7 @@ dorog
 daroha , ЕЎlach
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 171.
 mountain
@@ -2123,7 +2123,7 @@ gora
 hara
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 172.
 red
@@ -2135,7 +2135,7 @@ cxervenju
 ДЌyrvony
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 173.
 green
@@ -2147,7 +2147,7 @@ zelenju
 zialony
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 174.
 yellow
@@ -2159,7 +2159,7 @@ zxoltju
 ЕѕoЕ­ty
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 175.
 white
@@ -2171,7 +2171,7 @@ belju
 bieЕ‚y
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 176.
 black
@@ -2183,7 +2183,7 @@ cxernju
 ДЌorny
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 177.
 night
@@ -2195,7 +2195,7 @@ nocx
 noДЌ
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 178.
 day
@@ -2207,7 +2207,7 @@ den
 dzieЕ„
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 179.
 year
@@ -2219,7 +2219,7 @@ rok
 hod
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 180.
 warm
@@ -2231,7 +2231,7 @@ toplju
 ciopЕ‚y
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 181.
 cold
@@ -2243,7 +2243,7 @@ holodju , zimju
 Е›ciudziony , zimny , chaЕ‚odny
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 182.
 full
@@ -2255,7 +2255,7 @@ polnju
 peЕ­ny
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 183.
 new
@@ -2267,7 +2267,7 @@ novju
 novy
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 184.
 old
@@ -2279,7 +2279,7 @@ starju
 stary
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 185.
 good
@@ -2292,7 +2292,7 @@ dobrju
 dobry
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 186.
 bad
@@ -2304,7 +2304,7 @@ bezdobrju , zloju
 drenny , kiepski
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 187.
 rotten
@@ -2316,7 +2316,7 @@ gnilju
 hniЕ‚y
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 188.
 dirty
@@ -2328,7 +2328,7 @@ bezcxistju , grazju
 brudny
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 189.
 straight
@@ -2340,7 +2340,7 @@ pramju
 pramy , prosty
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 190.
 round
@@ -2352,7 +2352,7 @@ krugju , kulaju
 kruhЕ‚y
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 191.
 sharp
@@ -2364,7 +2364,7 @@ ostrju
 vostry
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 192.
 dull
@@ -2376,7 +2376,7 @@ tupju
 tupy
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 193.
 smooth
@@ -2388,7 +2388,7 @@ gladju
 hЕ‚adki
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 194.
 wet
@@ -2400,7 +2400,7 @@ mokrju
 mokry , vilhotny
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 195.
 dry
@@ -2412,7 +2412,7 @@ suhju
 suchi
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 196.
 correct
@@ -2425,7 +2425,7 @@ pravilnju
 pravilny , sЕ‚uЕЎny
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 197.
 near
@@ -2437,7 +2437,7 @@ blizju , nedalkju
 blizki
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 198.
 far
@@ -2449,7 +2449,7 @@ dalkuo , dalkju
 daloki
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 199.
 right
@@ -2461,7 +2461,7 @@ prav
 pravy
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 200.
 left
@@ -2473,7 +2473,7 @@ lav
 levy
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 201.
 at
@@ -2485,7 +2485,7 @@ u
 kala , la , pry
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 202.
 in
@@ -2497,7 +2497,7 @@ in
 u , Е­
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 203.
 with
@@ -2509,7 +2509,7 @@ so
 z
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 204.
 and
@@ -2521,7 +2521,7 @@ i
 dy , i
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 205.
 if
@@ -2533,7 +2533,7 @@ esli
 kali
 
 </tr>
-<tr class="odd">
+<tr class=»odd»>
 
 206.
 because
@@ -2545,7 +2545,7 @@ bo , tapocx
 bo , tamu ЕЎto
 
 </tr>
-<tr class="even">
+<tr class=»even»>
 
 207.
 name

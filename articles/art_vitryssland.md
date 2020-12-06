@@ -6,14 +6,14 @@ large_header: false
 
 
 
-<a href="articles_by.html">вярнуцца да артыкулаў</a><br />
-<a href="#">раздрукаваць артыкул</a><br />
+<a href=»articles_by.html»>вярнуцца да артыкулаў</a><br />
+<a href=»#»>раздрукаваць артыкул</a><br />
 
 
 
-English: <strong>Vitryssland</strong> is the Swedish word for Belarus which in a word-by-word translation means "White Russia." Recently, a Swedish journalist wrote in a serious newspaper that "Vitryssland" is "Russia in winter". ... Just like in some other Germanic languages, Swedish has this problem with how they call Belarus, they use a misleading term which leads to misunderstanding. But the author, professor Andrej Katlarczuk from Stockholm, says that the problem also lies with Belarus itself. He says most of our official websites have only English and Russian versions and that makes an impression as if Belarus is indeed just some province of Russia. He mentions that some Swedish tourists mistakenly took Russian visas in order to go to Belarus. Professor Andrej Katlarczyk says that there needs to be more exposure to Belarusian language and Belarusian culture in Europe. He compares the situation with the Ukrainian language and notes, sadly, that Belarusian is the only Slavic language which is not taught in Swedish universities.
+English: <strong>Vitryssland</strong> is the Swedish word for Belarus which in a word-by-word translation means «White Russia.» Recently, a Swedish journalist wrote in a serious newspaper that «Vitryssland» is «Russia in winter». ... Just like in some other Germanic languages, Swedish has this problem with how they call Belarus, they use a misleading term which leads to misunderstanding. But the author, professor Andrej Katlarczuk from Stockholm, says that the problem also lies with Belarus itself. He says most of our official websites have only English and Russian versions and that makes an impression as if Belarus is indeed just some province of Russia. He mentions that some Swedish tourists mistakenly took Russian visas in order to go to Belarus. Professor Andrej Katlarczyk says that there needs to be more exposure to Belarusian language and Belarusian culture in Europe. He compares the situation with the Ukrainian language and notes, sadly, that Belarusian is the only Slavic language which is not taught in Swedish universities.
 
-<h1 id="vitryssland---гэта-не-расея-ўзімку">Vitryssland — гэта не Расея ўзімку</h1>
+<h1 id=»vitryssland---гэта-не-расея-ўзімку»>Vitryssland — гэта не Расея ўзімку</h1>
 
 Андрэй Катлярчук, Стакгольм
 
@@ -39,4 +39,4 @@ English: <strong>Vitryssland</strong> is the Swedish word for Belarus which in a
 Усё сапраўды цікавае і жывое (літаратура, рок, гістарычная навука, журналістыка і аналітыка) ствараецца ў Менску па-беларуску. І гэта доўгатэрміновая гістарычная тэндэнцыя. На думку Ларысы Геніюш, зьнішчальная ў дачыненні да роднай культуры цывілізацыя «абы кілбасы» — шлях у нікуды. На посткаляніяльнай мэнтальнасці не пабудуеш дабрабыту. Паглядзіце, што робіцца ў англамоўнай ці франкамоўнай Афрыцы. Лёгіка тут простая. Правінцыя ніколі не жыве лепш за цэнтар. Беларуская мова аўтаматычна рухае краіну ў цэнтар з усімі пазытыўнымі наступствамі. Іншых рэцэптаў я не  ведаю.
 
 
- *© "Наша Ніва" (www.nn.by), 2004. Гэты артыкул-камэнтар быў надрукаваны ў газэце "Наша Ніва", №15, 2004.* 
+ *© «Наша Ніва» (www.nn.by), 2004. Гэты артыкул-камэнтар быў надрукаваны ў газэце «Наша Ніва», №15, 2004.* 

@@ -5,7 +5,7 @@ large_header: false
 ---
 
 
-<h1 id="belarusian-german-minorities-in-polands-political-life-in-1989-99-a-book-review">Belarusian, German Minorities In Poland's Political Life In 1989-99: A Book Review</h1>
+<h1 id=»belarusian-german-minorities-in-polands-political-life-in-1989-99-a-book-review»>Belarusian, German Minorities In Poland's Political Life In 1989-99: A Book Review</h1>
 
 Aleksander Maksymiuk
 
@@ -28,21 +28,21 @@ Chapter 6 and Chapter 7 are devoted to a detailed study of the 1998 local electi
 Chapter 8 summarizes the study by reviewing the reasons for the successes and failures of the two minorities and considering their future as political forces in the Polish political system.
 
 
-<img src="belarusian_minority.jpg" width="310" height="206" alt="Belarusian minority in Poland" />The political movements of the German and Belarusian minorities on the Polish political stage in 1989-99, as Rabagliati shows, developed in different ways. The Germans managed to build strong subregional political structures based on a platform involving the remnants of pro-Germany sentiments and German identity, language, and culture. The general discontent with the Polish state and system among the minority, as well as the social and cultural ties of the community, assisted their political success. Polish Germans won seven seats in the Sejm in the 1991 parliamentary election and four seats in the 1993 elections. The decreasing support for German-minority candidates, Rabagliati observes, was primarily caused by the feeling that voters' interests could be better served by voting for a Polish party, which could represent their interests and be in better position to solve their economic problems.
+<img src=»belarusian_minority.jpg» width=»310» height=»206» alt=»Belarusian minority in Poland» />The political movements of the German and Belarusian minorities on the Polish political stage in 1989-99, as Rabagliati shows, developed in different ways. The Germans managed to build strong subregional political structures based on a platform involving the remnants of pro-Germany sentiments and German identity, language, and culture. The general discontent with the Polish state and system among the minority, as well as the social and cultural ties of the community, assisted their political success. Polish Germans won seven seats in the Sejm in the 1991 parliamentary election and four seats in the 1993 elections. The decreasing support for German-minority candidates, Rabagliati observes, was primarily caused by the feeling that voters' interests could be better served by voting for a Polish party, which could represent their interests and be in better position to solve their economic problems.
 
 
-As regards the Belarusian political movement, Rabagliati argues that, although it initially seemed to possess significant potential for political success, it has effectively failed to build strong social support following its emergence in 1989. In addition, the movement was almost immediately plagued by internecine wars. As early as in the 1991 parliamentary elections, there were already three separate forces vying for the same minority votes: the Belarusian Democratic Union based on a "nationalist" platform, the Polish postcommunists, and a third force based on a broad "Orthodox" platform that tended to promote a religious rather than ethnic identity in the Belarusian minority.
+As regards the Belarusian political movement, Rabagliati argues that, although it initially seemed to possess significant potential for political success, it has effectively failed to build strong social support following its emergence in 1989. In addition, the movement was almost immediately plagued by internecine wars. As early as in the 1991 parliamentary elections, there were already three separate forces vying for the same minority votes: the Belarusian Democratic Union based on a «nationalist» platform, the Polish postcommunists, and a third force based on a broad «Orthodox» platform that tended to promote a religious rather than ethnic identity in the Belarusian minority.
 
 
 Rabagliati's book is profusely supplied with relevant numerical data (national censuses, election results) and photographs (minority activists, election posters). Moreover, apart from presenting political developments in the two minorities, it also offers a much broader picture of their civic efforts. Rabagliati's study should become standard reading not only for readers interested exclusively in ethnic-minority problems but also for those who want to grasp the full meaning of postcommunist transformation in Eastern and Central Europe. Rabagliati's study makes a powerful point by asserting that the picture of postcommunist transition would be substantially incomplete without taking into account the political activity of ethnic groups in postcommunist countries.
 
 
-This review was written by Aleksander Maksymiuk, senior editor of the Belarusian-language weekly "Niva" in Bialystok, Poland.
+This review was written by Aleksander Maksymiuk, senior editor of the Belarusian-language weekly «Niva» in Bialystok, Poland.
 
 <hr />
 
  *Copyright © 2003. RFE/RL, Inc. Reprinted with the permission of Radio Free Europe/Radio Liberty, 1201 Connecticut Ave., N.W. Washington DC 20036. www.rferl.org* 
 
 
-"small"><a href="gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fbelarusian%5Fminorities%2Easp">- Write your comment</a></span>
+«small»><a href=»gb_add.html?ref=http%3A%2F%2Fwww%2Epravapis%2Eorg%2Fart%5Fbelarusian%5Fminorities%2Easp»>- Write your comment</a></span>
 

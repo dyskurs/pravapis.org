@@ -10,20 +10,20 @@ large_header: false
 
 
 
-<a href="articles_by.html">вярнуцца да артыкулаў</a><br />
-<a href="#">раздрукаваць артыкул</a><br />
-<a href="#english">English summary</a>
+<a href=»articles_by.html»>вярнуцца да артыкулаў</a><br />
+<a href=»#»>раздрукаваць артыкул</a><br />
+<a href=»#english»>English summary</a>
 
-<h1 id="software-localization-in-belarus-беларуская-кампутарная-і-інтэрнэтная-тэрміналёгія">Software Localization in Belarus:<br />
+<h1 id=»software-localization-in-belarus-беларуская-кампутарная-і-інтэрнэтная-тэрміналёгія»>Software Localization in Belarus:<br />
 Беларуская кампутарная і інтэрнэтная тэрміналёгія</h1>
 
 Сяргей Шупа, Прага
 
 
-Падставай для выбару тэмы стала <a href="http://www.mova.org/lists-archives/i18n/">абмеркаванне</a>, якое ўжо не  першы месяц вядзецца ў дыскусійнай групе “і18n” – так у асяроддзі прыхільнікаў open source (адкрытага зыходнага коду) скарочана азначаецца паняцце “інтэрнацыяналізацыя” – пераклад рэсурсаў на розныя мовы сьвету.
+Падставай для выбару тэмы стала <a href=»http://www.mova.org/lists-archives/i18n/»>абмеркаванне</a>, якое ўжо не  першы месяц вядзецца ў дыскусійнай групе “і18n” – так у асяроддзі прыхільнікаў open source (адкрытага зыходнага коду) скарочана азначаецца паняцце “інтэрнацыяналізацыя” – пераклад рэсурсаў на розныя мовы сьвету.
 
 
-<img src="localization_folder.gif" width="393" height="245" alt="Localization Folder. Software in Belarusian Language" />Праблемы, зь якімі сутыкаюцца стваральнікі беларускай тэрміналёгіі, я абмеркаваў з удзельнікамі дыскусіі. Мой першы суразмоўца – менскі праграміст Віталь Хілько:<br />
+<img src=»localization_folder.gif» width=»393» height=»245» alt=»Localization Folder. Software in Belarusian Language» />Праблемы, зь якімі сутыкаюцца стваральнікі беларускай тэрміналёгіі, я абмеркаваў з удзельнікамі дыскусіі. Мой першы суразмоўца – менскі праграміст Віталь Хілько:<br />
 <br />
 (Шупа: ) “Вы як прадстаўнік супольнасці Linux акунуліся ў тэрміналягічныя спрэчкі, і якія галоўныя праблемы ўзьнікаюць?”<br />
 <br />
@@ -56,7 +56,7 @@ Software Localization in Belarus
 <br />
 (Тарасевіч: ) “Нават у тым выпадку, калі б гэта было ім сьмешна, у нас усё роўна сытуацыя вельмі катастрафічна іншая. Такога масіву, такой колькасці носьбітаў мовы, у тым ліку прафэсійных, прафэсіяналаў, прадметнікаў у нас усё роўна не ма. Нам, як кажуць, не ма ніякага значання – ці будзе з нас хто сьмяяцца, ці не. Лепш сказаць – пытанне пра тое, ці будзе з нашых тэрмінаў хто сьмяяцца, ці не – яно наагул не стаіць. Таму што па-за тымі, хто зараз займаецца, бадай што гэтая тэма нікога і не цікавіць. А так званы гіпатэтычны карыстальнік – напрыклад, у дзяржаўнай або навучальнай установе – ён не  будзе сьмяяцца, ён або будзе карыстацца, або не”.<br />
 <br />
-Мой наступны суразмоўца – актыўны насельнік беларускага Інтэрнэту Ўладзімер Каткоўскі, сярод іншага – гаспадар вядомага сайту <a href="http://www.pravapis.org/">pravapis.org</a>, прысьвечанага пытанням беларускай мовы.<br />
+Мой наступны суразмоўца – актыўны насельнік беларускага Інтэрнэту Ўладзімер Каткоўскі, сярод іншага – гаспадар вядомага сайту <a href=»http://www.pravapis.org/»>pravapis.org</a>, прысьвечанага пытанням беларускай мовы.<br />
 <br />
 (Шупа: ) “Вы ўжо гадоў дзесяць назіраеце за Інтэрнэтам наагул – як выглядае дынаміка пашырэння беларускай мовы ў Інтэрнэце? Што наагул можна сказаць пра асаблівасці беларускай мовы – хоць бы пра тое, які варыянт беларускай мовы ўжываецца – тарашкевіца, наркамаўка – у якіх прапорцыях гэтыя варыянты суіснуюць у Інтэрнэце?”
 
@@ -79,7 +79,7 @@ Software Localization in Belarus
 <br />
 Усіх праблем, зьвязаных з тэрміналёгіяй, мы сёння, вядома ж, нават не пасьпелі б і пералічыць. Аднак адна зь іх відавочна стрымвае разьвіццё тэрміналёгіі – гэта праблема супрацьстаяння правапісных сыстэмаў беларускай мовы. Як засьведчыла не даўняе прыняцце Акадэміяй Навук удакладненяў да афіцыйнага беларускага правапісу, да пагаднення суперных бакоў у гэтым пытанні яшчэ далёка. А тым часам жыццё ідзе далей, мы працуем з кампутарамі, выходзім у Інтэрнэт і нейкім чынам усё называем і пры гэтым разумеем адзін аднаго.
 
-<span id="english"></span>
+<span id=»english»></span>
 <hr />
 
 English summary: This is a review article about software localization issues in Belarus. RFE/RL journalist Siarhiej Shupa has interviewed three developers involved with some localization projects in Belarus: Vital Khilko, Jury Tarasievic and Uladzimir Katkouski. The major problem which was mentioned by all participants of the discussion is, of course, the absence of the standardized computer-specific terminology in modern Belarusian language. Also the conflict between the two orthographies (classical form and the reformed Soviet version) has caused a major division among Belarusian software localization specialists. The three approaches to creating new computer vocabulary are: to create new original words based on linguistic principles, to use more loan words (predominantly English or English via Russian), to identify those words that are already used by the Belarusian-speaking computer users. There is no agreement as to which strategy would be optimal for the Belarusian language.

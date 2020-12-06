@@ -6,25 +6,25 @@ large_header: false
 
 
 
-<a href="articles_by.html">вярнуцца да артыкулаў</a><br />
-<a href="#english">English summary below</a><br />
+<a href=»articles_by.html»>вярнуцца да артыкулаў</a><br />
+<a href=»#english»>English summary below</a><br />
 
 
-<h1 id="best-books-найлепшыя-кнігі-2003">Best Books: Найлепшыя кнігі 2003</h1>
+<h1 id=»best-books-найлепшыя-кнігі-2003»>Best Books: Найлепшыя кнігі 2003</h1>
 
-Падрыхтаваў Адам Воршыч (<a href="http://www.nn.by/">Nasza Niva</a>)
+Падрыхтаваў Адам Воршыч (<a href=»http://www.nn.by/»>Nasza Niva</a>)
 
 
-<img src="img/book_country_belarus.jpg" title="Album — Country Belarus" width="200" height="269" alt="Album — Country Belarus" />Каб вызначыць найлепшыя кнігі году, рэдакцыя "Нашай Нівы" зьвярнулася да адзінаццаці аўтарытэтных экспэртаў — крытыкаў, выдаўцоў і кнігагандляроў. Фаварытамі сталі густоўна выдадзеныя фаліянты ў цьвёрдых вокладках на добрай паперы. І кніга Быкава.
+<img src=»img/book_country_belarus.jpg» title=»Album — Country Belarus» width=»200» height=»269» alt=»Album — Country Belarus» />Каб вызначыць найлепшыя кнігі году, рэдакцыя «Нашай Нівы» зьвярнулася да адзінаццаці аўтарытэтных экспэртаў — крытыкаў, выдаўцоў і кнігагандляроў. Фаварытамі сталі густоўна выдадзеныя фаліянты ў цьвёрдых вокладках на добрай паперы. І кніга Быкава.
 
 
 Зь вялікім адрывам найлепшай кнігай 2003 году прызнаная «Краіна Беларусь. Ілюстраваная гісторыя» Ўладзімера Арлова й Зьмітра Герасімовіча: яе згадвалі амаль усе экспэрты «НН», а Даніла Жукоўскі назваў «самай рэклямаванай кнігай году». «Яна далучыла да айчыннай гісторыі цэлы пласт нашага грамадзтва, а для чужаземцаў стала своеасаблівай візытоўкай краіны», — прызнае Зьміцер Санько.
 
 
-На другое месца заканамерна выйшла апошняя прыжыццёвая кніга Васіля Быкава <a href="http://oz.by/books/more.phtml?id=107788&amp;partner=pravapis">«Доўгая дарога дадому»</a>. Прыемна, што перамаглі камэрцыйна пасьпяховыя выданні. Чаго не  скажаш пра тамы, якія занялі наступныя пазыцыі ў сьпісе.
+На другое месца заканамерна выйшла апошняя прыжыццёвая кніга Васіля Быкава <a href=»http://oz.by/books/more.phtml?id=107788&amp;partner=pravapis»>«Доўгая дарога дадому»</a>. Прыемна, што перамаглі камэрцыйна пасьпяховыя выданні. Чаго не  скажаш пра тамы, якія занялі наступныя пазыцыі ў сьпісе.
 
 
-<img src="img/book_long_way_home.jpg" title="Vasil Bykau — Last Book — Long Way Home" width="200" height="320" alt="Vasil Bykau — Last Book — Long Way Home" /> Экспэрты высока ацанілі яшчэ адно падарункавае выданне — анталёгію беларускай паэзіі ХХ ст. «Краса і сіла». Кур’ёзна, што яна выйшла дзякуючы гранту ад фонду, які ўзначальвае сьпікер расейскае Думы Генадзь Селязьнёў.
+<img src=»img/book_long_way_home.jpg» title=»Vasil Bykau — Last Book — Long Way Home» width=»200» height=»320» alt=»Vasil Bykau — Last Book — Long Way Home» /> Экспэрты высока ацанілі яшчэ адно падарункавае выданне — анталёгію беларускай паэзіі ХХ ст. «Краса і сіла». Кур’ёзна, што яна выйшла дзякуючы гранту ад фонду, які ўзначальвае сьпікер расейскае Думы Генадзь Селязьнёў.
 
 
 Разам з прызнанымі майстрамі Янкам Брылём, Уладзімерам не кляевым і Леанідам Драньком-Майсюком у «дзясятцы» — Альгерд Бахарэвіч. Гэта высокая ацэнка творчасці маладога празаіка.
@@ -44,10 +44,10 @@ large_header: false
 
 Падчас вызначэння месца кнігі ў рэйтынгу ўлічвалася яе пазыцыя ў дзясятцы: першае месца — 10 балаў, другое — 9 і г.д. Выніковы сьпіс складаўся па суме балаў.
 
-<h2 id="top-выніковы-рэйтынг">Top: Выніковы рэйтынг</h2>
+<h2 id=»top-выніковы-рэйтынг»>Top: Выніковы рэйтынг</h2>
 
-<img src="img/book_beauty_and_power.jpg" title="Poetry Anthology: Beauty and Power" width="200" height="269" alt="Poetry Anthology: Beauty and Power" /><strong>1. Уладзімер Арлоў, Зьміцер Герасімовіч. Краіна Беларусь.</strong> — Менск: Салвія; 75 балаў.<br />
-<strong>2. Васіль Быкаў. <a href="http://oz.by/books/more.phtml?id=107788&amp;partner=pravapis">Доўгая дарога дадому</a></strong>. — Менск: Таварыства «Кніга»; 33 балы.<br />
+<img src=»img/book_beauty_and_power.jpg» title=»Poetry Anthology: Beauty and Power» width=»200» height=»269» alt=»Poetry Anthology: Beauty and Power» /><strong>1. Уладзімер Арлоў, Зьміцер Герасімовіч. Краіна Беларусь.</strong> — Менск: Салвія; 75 балаў.<br />
+<strong>2. Васіль Быкаў. <a href=»http://oz.by/books/more.phtml?id=107788&amp;partner=pravapis»>Доўгая дарога дадому</a></strong>. — Менск: Таварыства «Кніга»; 33 балы.<br />
 <strong>3. Краса і сіла: Анталёгія беларускай паэзіі</strong> / Укладальнік Міхась Скобла. — Менск: Лімарыюс; 32 балы.<br />
 <br />
 <strong>4.</strong> Зора і Вітаўт Кіпелі. Беларускі й беларусаведны друк на Захадзе. — Менск—Нью-Ёрк: БІНіМ;<br />
@@ -71,7 +71,7 @@ large_header: false
 2. Францішка Ўршуля Радзівіл. Выбраныя творы.<br />
 3. Уладзімер Арлоў, Зьміцер Герасімовіч. Краіна Беларусь.<br />
 4. Адам Міцкевіч. Выбраныя творы.<br />
-5. Васіль Быкаў. <a href="http://oz.by/books/more.phtml?id=107788&amp;partner=pravapis">Доўгая дарога дадому</a>.<br />
+5. Васіль Быкаў. <a href=»http://oz.by/books/more.phtml?id=107788&amp;partner=pravapis»>Доўгая дарога дадому</a>.<br />
 6. Антон Луцкевіч. Да гісторыі беларускага руху.<br />
 7. Зора і Вітаўт Кіпелі. Беларускі й беларусаведны друк на Захадзе.<br />
 8. Ян Станкевіч. Гістарычныя творы.<br />
@@ -79,7 +79,7 @@ large_header: false
 10. Франсуа Жакмэн. Поры году; Янка Брыль. Зь людзьмі і сам-насам.
 
 
-<img src="img/book_nn_dictionary.jpg" title="Nasza Niva Dictionary" width="200" height="281" alt="Nasza Niva Dictionary" /> <strong>Міхась Скобла, намесьнік старшыні Саюзу пісьменнікаў Беларусі</strong><br />
+<img src=»img/book_nn_dictionary.jpg» title=»Nasza Niva Dictionary» width=»200» height=»281» alt=»Nasza Niva Dictionary» /> <strong>Міхась Скобла, намесьнік старшыні Саюзу пісьменнікаў Беларусі</strong><br />
 1. Янка Брыль. Зь людзьмі і сам-насам.<br />
 2. Караль Вайтыла (Ян Павал ІІ). Рымскі трыпціх.<br />
 3. Віктар Жыбуль. Дыяфрагма.<br />
@@ -115,7 +115,7 @@ large_header: false
 10. Фадзей Булгарын. Выбранае.
 
 
-<img src="img/book_gdl_weapons.jpg" title="Weapons of the Grand Duchy of Lithuania" width="200" height="272" alt="Weapons of the Grand Duchy of Lithuania" /> <strong>Зьміцер Санько, галоўны рэдактар выдавецтва «Тэхналёгія»</strong><br />
+<img src=»img/book_gdl_weapons.jpg» title=»Weapons of the Grand Duchy of Lithuania» width=»200» height=»272» alt=»Weapons of the Grand Duchy of Lithuania» /> <strong>Зьміцер Санько, галоўны рэдактар выдавецтва «Тэхналёгія»</strong><br />
 1. Зора і Вітаўт Кіпелі. Беларускі й беларусаведны друк на Захадзе.<br />
 2. Уладзімер Арлоў, Зьміцер Герасімовіч. Краіна Беларусь.<br />
 3. Слоўнік мовы «Нашай Нівы». Т.1.<br />
@@ -139,7 +139,7 @@ large_header: false
 10. Аксана Бязьлепкіна. Разам і паасобку. Таварыства «Тутэйшыя».
 
 
-<img src="img/book_natural_color.jpg" title="Natural Color" width="200" height="327" alt="Natural Color" /> <strong>Тацяна Вабішчэвіч, кніжная аглядальніца «НН»</strong><br />
+<img src=»img/book_natural_color.jpg» title=»Natural Color» width=»200» height=»327» alt=»Natural Color» /> <strong>Тацяна Вабішчэвіч, кніжная аглядальніца «НН»</strong><br />
 1. Зора і Вітаўт Кіпелі. Беларускі й беларусаведны друк на Захадзе.<br />
 2. Слоўнік мовы «Нашай Нівы». Т.1.<br />
 3. Уладзімер Арлоў, Зьміцер Герасімовіч. Краіна Беларусь.<br />
@@ -166,7 +166,7 @@ large_header: false
 
 
 <strong>Анатоль Бутэвіч, экс-міністар інфармацыі й культуры</strong><br />
-1—2. Васіль Быкаў. <a href="http://oz.by/books/more.phtml?id=107788&amp;partner=pravapis">Доўгая дарога дадому</a>; Уладзімер Арлоў, Зьміцер Герасімовіч. Краіна Беларусь.<br />
+1—2. Васіль Быкаў. <a href=»http://oz.by/books/more.phtml?id=107788&amp;partner=pravapis»>Доўгая дарога дадому</a>; Уладзімер Арлоў, Зьміцер Герасімовіч. Краіна Беларусь.<br />
 3. Краса і сіла. Анталёгія беларускай паэзіі.<br />
 4. Янка Брыль. Зь людзьмі й сам-насам.<br />
 5. Леанід Дранько-Майсюк. Вершы. Каханне. Проза.<br />
@@ -177,9 +177,9 @@ large_header: false
 10. Юры Бохан. Зброя Вялікага Княства Літоўскага.
 
 
-<img src="img/book_blonde_attack.jpg" title="Blonde Attack" width="200" height="312" alt="Blonde Attack" /> <strong>Алесь Яўдаха, незалежны кнігараспаўсюднік (паводле вынікаў продажаў)</strong><br />
+<img src=»img/book_blonde_attack.jpg» title=»Blonde Attack» width=»200» height=»312» alt=»Blonde Attack» /> <strong>Алесь Яўдаха, незалежны кнігараспаўсюднік (паводле вынікаў продажаў)</strong><br />
 1. Уладзімер Арлоў. Ордэн Белай Мышы.<br />
-2. Васіль Быкаў. <a href="http://oz.by/books/more.phtml?id=107788&amp;partner=pravapis">Доўгая дарога дадому</a>.<br />
+2. Васіль Быкаў. <a href=»http://oz.by/books/more.phtml?id=107788&amp;partner=pravapis»>Доўгая дарога дадому</a>.<br />
 3. Ян Станкевіч. Гістарычныя творы.<br />
 4. Уладзімер Арлоў, Зьміцер Герасімовіч. Краіна Беларусь.<br />
 5. Антон Луцкевіч. Да гісторыі беларускага руху.<br />
@@ -192,7 +192,7 @@ large_header: false
 <strong>Ірына Крэсік, таваразнаўца «Кнігарні пісьменніка» (паводле вынікаў продажаў)</strong>:<br />
 1. Уладзімер Арлоў, Зьміцер Герасімовіч. Краіна Беларусь.<br />
 2. Уладзімер Арлоў. Ордэн Белай мышы.<br />
-3. Васіль Быкаў. <a href="http://oz.by/books/more.phtml?id=107788&amp;partner=pravapis">Доўгая дарога дадому</a>.<br />
+3. Васіль Быкаў. <a href=»http://oz.by/books/more.phtml?id=107788&amp;partner=pravapis»>Доўгая дарога дадому</a>.<br />
 4. Юры Бохан. Зброя Вялікага Княства Літоўскага.<br />
 5. Францішка Ўршуля Радзівіл. Выбраныя творы (сэрыя «Беларускі кнігазбор»).<br />
 6. Адам Міцкевіч (сэрыя «Беларускі кнігазбор»).<br />
@@ -202,7 +202,7 @@ large_header: false
 10. Там, дзе вежы Сафіі. Укл. Навум Гальпяровіч.
 
 
-<span id="english"></span> <strong>English Summary</strong><br />
+<span id=»english»></span> <strong>English Summary</strong><br />
 The editors of  *Nasza Niva*  newspaper asked a dozen Belarusian book publishers, book critics and book distributors the following question: what were the best-selling or the most interesting books in Belarus in 2003? Each of them had to list up to 10 books. And here is the resulting top ten of the Belarusian-language books that were published in 2003:<br />
 <br />
 <strong>1. Country Belarus</strong> by Uładzimier Arłou, Zmicier Hierasimovič<br />
@@ -213,7 +213,7 @@ The editors of  *Nasza Niva*  newspaper asked a dozen Belarusian book publishers
   <strong>The Order of the White Mouse</strong> by Uładzimier Arłou<br />
 5. <strong>Repressed literati, scientists, educators and activists 1794-1991.</strong> by Leanid Marakou<br />
 6. <strong>Tet-a-tet with People</strong> by Janka Bryl<br />
-7. <strong>"Nasza Niva" Dictionary</strong><br />
+7. <strong>»Nasza Niva» Dictionary</strong><br />
   <strong>History of the Belarusian Movement</strong> by Anton Łuckievič<br />
   <strong>Weapons of the Grand Duchy of Lithuania</strong> by Jury Bochan<br />
 8. <strong>Franciška Uršula Radzivił: Selected Works</strong><br />
@@ -226,6 +226,6 @@ The editors of  *Nasza Niva*  newspaper asked a dozen Belarusian book publishers
 
 
 
-<span class="small">Copyright © Nasza Niva, 2003. Minsk, Belarus</span>
+<span class=»small»>Copyright © Nasza Niva, 2003. Minsk, Belarus</span>
 
 

@@ -5,12 +5,12 @@ large_header: false
 ---
 
 
-<h1 id="віленскі-ўнівэрсытэт-запрашае">Віленскі ўнівэрсытэт запрашае</h1>
+<h1 id=»віленскі-ўнівэрсытэт-запрашае»>Віленскі ўнівэрсытэт запрашае</h1>
 
-<a href="http://www.vilnia.com/">vilnia.com</a>
+<a href=»http://www.vilnia.com/»>vilnia.com</a>
 
 
-<img src="belarusian_girl.jpg" width="170" height="297" alt="belarusian girl" />Катэдра беларускай філалогіі факультэту славістыкі Віленскага пэдагагічнага ўнівэрсытэту абвяшчае набор абітурыентаў па спэцыяльнасці <strong>беларуская філалогія</strong> з магчымасцю атрымання дадатковай спэцыяльнасці: расейская філалогія, польская філалогія, журналістыка, культуралёгія, геапалітыка, маркетынг антыкварнай справы. У Беларусі дыплём Віленскага пэдагагічнага ўнівэрсытэту мае юрыдычную сілу. Навучанне завочнае й <strong>платнае</strong>.
+<img src=»belarusian_girl.jpg» width=»170» height=»297» alt=»belarusian girl» />Катэдра беларускай філалогіі факультэту славістыкі Віленскага пэдагагічнага ўнівэрсытэту абвяшчае набор абітурыентаў па спэцыяльнасці <strong>беларуская філалогія</strong> з магчымасцю атрымання дадатковай спэцыяльнасці: расейская філалогія, польская філалогія, журналістыка, культуралёгія, геапалітыка, маркетынг антыкварнай справы. У Беларусі дыплём Віленскага пэдагагічнага ўнівэрсытэту мае юрыдычную сілу. Навучанне завочнае й <strong>платнае</strong>.
 
 
 Структура навучання ва ўнівэрсытэце мае тры ступені: бакаляўр, магістар, дактарант. У часе вучобы замежныя студэнты змогуць атрымаць бясплатныя шматразовыя візы, папрацаваць у багатых архівах і бібліятэках Літвы, пазнаёміцца з мовай і культурай народа-суседа, узяць удзел у культурным жыцці беларускае дыяспары. Можна будзе таксама выпрабаваць свае сілы ў беларускіх праграмах літоўскага радыё й тэлебачання, газетах Літвы.
@@ -36,7 +36,7 @@ large_header: false
 
 
 Кантактная асоба — загадчыца катэдры Лілея Плыгаўка:<br />
-Электронная пошта: <a href="mailto:belfil@vpu.lt?Subject=pravapis">belfil@vpu.lt</a><br />
+Электронная пошта: <a href=»mailto:belfil@vpu.lt?Subject=pravapis»>belfil@vpu.lt</a><br />
 Тэлефоны: +3702751604 (+факс), +3709806710 (мабільны), (8 0163)470503 (у Баранавічах).
 
 
@@ -44,7 +44,7 @@ large_header: false
 
 <hr />
 
-<strong>English summary:</strong> Vilnius Pedagogical University is inviting new students to study for a degree in <strong>Belarusian philology</strong> with the possiblity to have a second major in Russian philology, Polish philology, journalism, culturology, geopolitics, antiques marketing. You will study "by correspondence" and will have to pay for your education. During your studies you will receive multiple-entry Lithuanian visa and will get an opportunity for internship in Lithuanian Radio and TV, will visit the rich archives and libraries of Vilnius. Currently around 100 students are studying toward the degree in Belarusian philology (from Lithuania, Belarus, Great Britain and Spain). The deadline for documents' submission is 15.09.2002. You should send your high school transcript (or a university transcript), 4 photos (3x4cm), resume, and the official request to enroll addressed to the dean. The letter should be sent to the following address:<br />
+<strong>English summary:</strong> Vilnius Pedagogical University is inviting new students to study for a degree in <strong>Belarusian philology</strong> with the possiblity to have a second major in Russian philology, Polish philology, journalism, culturology, geopolitics, antiques marketing. You will study «by correspondence» and will have to pay for your education. During your studies you will receive multiple-entry Lithuanian visa and will get an opportunity for internship in Lithuanian Radio and TV, will visit the rich archives and libraries of Vilnius. Currently around 100 students are studying toward the degree in Belarusian philology (from Lithuania, Belarus, Great Britain and Spain). The deadline for documents' submission is 15.09.2002. You should send your high school transcript (or a university transcript), 4 photos (3x4cm), resume, and the official request to enroll addressed to the dean. The letter should be sent to the following address:<br />
 <br />
   Baltarusiu filologijos katedra<br />
   Vilniaus pedagoginis universitetas<br />
@@ -54,7 +54,7 @@ large_header: false
 
 
 The dean of the Belarusian philology department Lileja Plyhauka (Plygavka) has kindly allowed me to post her contact information on this Webpage:<br />
-E-mail: <a href="mailto:belfil@vpu.lt?Subject=pravapis">belfil@vpu.lt</a><br />
+E-mail: <a href=»mailto:belfil@vpu.lt?Subject=pravapis»>belfil@vpu.lt</a><br />
 Phone: +3702751604, mobile +3709806710, +375163470503 (in Baranaviczy, Belarus).
 
 

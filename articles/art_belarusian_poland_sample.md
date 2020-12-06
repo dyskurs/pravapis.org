@@ -6,11 +6,11 @@ large_header: false
 
 
 
-<a href="articles_by.html">РІСЏСЂРЅСѓС†С†Р° РґР° Р°СЂС‚С‹РєСѓР»Р°Сћ</a><br />
-<a href="#">СЂР°Р·РґСЂСѓРєР°РІР°С†СЊ Р°СЂС‚С‹РєСѓР»</a><br />
+<a href=»articles_by.html»>РІСЏСЂРЅСѓС†С†Р° РґР° Р°СЂС‚С‹РєСѓР»Р°Сћ</a><br />
+<a href=»#»>СЂР°Р·РґСЂСѓРєР°РІР°С†СЊ Р°СЂС‚С‹РєСѓР»</a><br />
 
 
-<h1 id="nevinny.-graham-greene">Nevinny. Graham Greene</h1>
+<h1 id=»nevinny.-graham-greene»>Nevinny. Graham Greene</h1>
 
  *PerekЕ‚av na svoju movu Jan Maksimiuk* 
 
