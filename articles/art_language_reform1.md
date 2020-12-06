@@ -1,6 +1,5 @@
 ---
 title: articles/art_language_reform1.md 
-layout: pravapis-gen
 lang: be
 ---
 

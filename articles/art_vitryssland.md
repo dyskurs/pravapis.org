@@ -1,6 +1,5 @@
 ---
 title: articles/art_vitryssland.md 
-layout: pravapis-gen
 lang: be
 ---
 

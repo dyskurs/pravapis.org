@@ -1,6 +1,6 @@
 ---
 title: articles/art_no_russian.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

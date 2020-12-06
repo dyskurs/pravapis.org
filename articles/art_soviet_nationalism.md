@@ -1,6 +1,6 @@
 ---
 title: articles/art_soviet_nationalism.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

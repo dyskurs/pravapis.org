@@ -1,6 +1,6 @@
 ---
 title: articles/art_belarusian_minorities.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: d_turkish_belarusian.md 
-layout: pravapis-gen
+lang: en
 ---
 
  

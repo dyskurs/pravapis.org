@@ -1,6 +1,5 @@
 ---
 title: articles/art_belarusian_mobile.md 
-layout: pravapis-gen
 lang: be
 ---
 

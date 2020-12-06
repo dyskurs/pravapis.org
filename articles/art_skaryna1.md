@@ -1,6 +1,6 @@
 ---
 title: articles/art_skaryna1.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

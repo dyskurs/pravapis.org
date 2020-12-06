@@ -1,6 +1,6 @@
 ---
 title: articles/art_chagall.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

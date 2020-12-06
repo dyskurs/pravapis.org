@@ -1,6 +1,5 @@
 ---
 title: sought_articles.md 
-layout: pravapis-gen
 lang: be
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: articles/art_publishing.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

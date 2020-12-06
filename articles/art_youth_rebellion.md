@@ -1,6 +1,6 @@
 ---
 title: articles/art_youth_rebellion.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

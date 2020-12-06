@@ -1,6 +1,5 @@
 ---
 title: articles/art_soviet_dictionary.md 
-layout: pravapis-gen
 lang: be
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: articles/art_belarusian_lecture_1968.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

@@ -1,6 +1,5 @@
 ---
 title: articles/art_worvik1.md 
-layout: pravapis-gen
 lang: be
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: articles/art_white_holland.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

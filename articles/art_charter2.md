@@ -1,6 +1,5 @@
 ---
 title: articles/art_charter2.md 
-layout: pravapis-gen
 lang: be
 ---
 

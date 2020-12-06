@@ -1,6 +1,5 @@
 ---
 title: articles/art_alice_interview.md 
-layout: pravapis-gen
 lang: be
 ---
 

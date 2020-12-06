@@ -1,6 +1,6 @@
 ---
 title: articles/art_vasil_bykau.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

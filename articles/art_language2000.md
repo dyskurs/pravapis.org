@@ -1,6 +1,5 @@
 ---
 title: articles/art_language2000.md 
-layout: pravapis-gen
 lang: be
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: articles/art_decline.md 
-layout: pravapis-gen
 lang: be
 ---
 

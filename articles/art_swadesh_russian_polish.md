@@ -1,6 +1,6 @@
 ---
 title: articles/art_swadesh_russian_polish.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

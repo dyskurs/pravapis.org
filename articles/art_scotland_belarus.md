@@ -1,6 +1,6 @@
 ---
 title: articles/art_scotland_belarus.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

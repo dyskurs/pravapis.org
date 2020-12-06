@@ -1,6 +1,6 @@
 ---
 title: articles/art_russian_plural.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

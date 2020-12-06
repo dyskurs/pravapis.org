@@ -1,6 +1,5 @@
 ---
 title: articles/art_mova_jazierski.md 
-layout: pravapis-gen
 lang: be
 ---
 

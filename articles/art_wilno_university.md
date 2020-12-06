@@ -1,6 +1,5 @@
 ---
 title: articles/art_wilno_university.md 
-layout: pravapis-gen
 lang: be
 ---
 

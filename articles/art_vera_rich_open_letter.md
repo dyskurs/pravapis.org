@@ -1,6 +1,6 @@
 ---
 title: articles/art_vera_rich_open_letter.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

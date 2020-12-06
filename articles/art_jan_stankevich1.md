@@ -1,6 +1,5 @@
 ---
 title: articles/art_jan_stankevich1.md 
-layout: pravapis-gen
 lang: be
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: articles/art_arabic_belarusian_transliteration.md 
-layout: pravapis-gen
 lang: be
 ---
 

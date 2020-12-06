@@ -1,6 +1,6 @@
 ---
 title: articles/art_karski.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

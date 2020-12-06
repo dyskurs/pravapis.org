@@ -1,6 +1,6 @@
 ---
 title: articles/art_top_articles.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

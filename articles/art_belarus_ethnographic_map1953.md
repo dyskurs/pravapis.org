@@ -1,6 +1,6 @@
 ---
 title: articles/art_belarus_ethnographic_map1953.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

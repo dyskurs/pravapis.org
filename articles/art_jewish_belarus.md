@@ -1,6 +1,5 @@
 ---
 title: articles/art_jewish_belarus.md 
-layout: pravapis-gen
 lang: be
 ---
 

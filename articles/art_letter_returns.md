@@ -1,6 +1,5 @@
 ---
 title: articles/art_letter_returns.md 
-layout: pravapis-gen
 lang: be
 ---
 

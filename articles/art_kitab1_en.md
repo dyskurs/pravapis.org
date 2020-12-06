@@ -1,6 +1,6 @@
 ---
 title: articles/art_kitab1_en.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

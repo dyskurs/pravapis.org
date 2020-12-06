@@ -1,6 +1,5 @@
 ---
 title: articles/art_netspeak.md 
-layout: pravapis-gen
 lang: be
 ---
 

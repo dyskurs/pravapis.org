@@ -1,6 +1,6 @@
 ---
 title: articles/art_cyrillic_translit.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

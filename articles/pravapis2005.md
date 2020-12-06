@@ -1,6 +1,6 @@
 ---
 title: pravapis2005.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

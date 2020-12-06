@@ -1,6 +1,6 @@
 ---
 title: articles/art_belarus_nation.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

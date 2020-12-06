@@ -1,6 +1,6 @@
 ---
 title: articles/art_orthography_opinion.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

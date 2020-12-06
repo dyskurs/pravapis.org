@@ -1,6 +1,5 @@
 ---
 title: articles/art_hebrew1.md 
-layout: pravapis-gen
 lang: be
 ---
 

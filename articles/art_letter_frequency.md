@@ -1,6 +1,5 @@
 ---
 title: articles/art_letter_frequency.md 
-layout: pravapis-gen
 lang: be
 ---
 

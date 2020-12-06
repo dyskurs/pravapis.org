@@ -1,6 +1,6 @@
 ---
 title: articles/art_humanities_lyceum.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

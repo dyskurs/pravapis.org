@@ -1,6 +1,5 @@
 ---
 title: articles/art_future_tense.md 
-layout: pravapis-gen
 lang: be
 ---
 

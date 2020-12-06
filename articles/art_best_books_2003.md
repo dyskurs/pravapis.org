@@ -1,6 +1,5 @@
 ---
 title: articles/art_best_books_2003.md 
-layout: pravapis-gen
 lang: be
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: articles/art_minsk_guide.md 
-layout: pravapis-gen
 lang: be
 ---
 

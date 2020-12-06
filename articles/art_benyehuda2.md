@@ -1,6 +1,6 @@
 ---
 title: articles/art_benyehuda2.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

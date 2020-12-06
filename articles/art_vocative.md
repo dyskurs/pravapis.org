@@ -1,6 +1,5 @@
 ---
 title: articles/art_vocative.md 
-layout: pravapis-gen
 lang: be
 ---
 

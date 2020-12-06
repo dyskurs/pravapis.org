@@ -1,6 +1,5 @@
 ---
 title: articles/art_hippie_slang.md 
-layout: pravapis-gen
 lang: be
 ---
 

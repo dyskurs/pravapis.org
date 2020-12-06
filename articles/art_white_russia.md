@@ -1,6 +1,6 @@
 ---
 title: articles/art_white_russia.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

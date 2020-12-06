@@ -1,6 +1,5 @@
 ---
 title: articles/art_software_localization.md 
-layout: pravapis-gen
 lang: be
 ---
 

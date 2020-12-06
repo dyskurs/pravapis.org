@@ -1,6 +1,6 @@
 ---
 title: articles/art_belarusian_adjective.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

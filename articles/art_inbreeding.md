@@ -1,6 +1,5 @@
 ---
 title: articles/art_inbreeding.md 
-layout: pravapis-gen
 lang: be
 ---
 

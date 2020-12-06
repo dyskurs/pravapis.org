@@ -1,6 +1,6 @@
 ---
 title: articles/art_rich_translators_notes.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

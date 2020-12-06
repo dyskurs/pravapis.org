@@ -1,6 +1,6 @@
 ---
 title: articles/art_belarusian_poland.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

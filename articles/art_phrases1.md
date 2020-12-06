@@ -1,6 +1,6 @@
 ---
 title: articles/art_phrases1.md 
-layout: pravapis-gen
+lang: en
 ---
 
 

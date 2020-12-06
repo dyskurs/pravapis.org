@@ -1,6 +1,6 @@
 ---
 title: articles/art_brit.md 
-layout: pravapis-gen
+lang: en
 ---
 
 
