@@ -1,32 +1,24 @@
 ---
-title: articles/art_minsk_guide2.md 
 lang: be
 large_header: false
+title: Minsk Guide 1930
 ---
 
+<br />
 
-
-
-
-
-<br /><br />
-<a href=»articles/art_minsk_guide.html»>па-беларуску</a><br />
-
-
-<h1 id=»minsk-guide-1930»>Minsk Guide 1930</h1>
+<a href=»articles/art_minsk_guide.html»>па-беларуску</a>
 
 summary by Uladzimir Katkouski
 
-
 <img src=»old_minsk.gif» width=»78» height=»95» alt=»Old Minsk Symbol» />temporary under reconstruction not ready still to be done. temporary under reconstruction not ready still to be done. minsk, belarus. temporary under reconstruction not ready still to be done. temporary under reconstruction not ready still to be done. minsk, belarus. temporary under reconstruction not ready still to be done. temporary under reconstruction not ready still to be done. minsk, belarus.
 
+<strong>СПАДАРОЖНІК ПА МЕНСКУ</strong>
 
-<strong>СПАДАРОЖНІК ПА МЕНСКУ</strong><br />
-Выданне Менгарсавету і рэдакцыі газ. «Рабочий»<br />
-1930 г.<br />
-АГУЛЬНЫЯ СПРАВАЧНЫЯ ВЕСТКІ<br />
+Выданне Менгарсавету і рэдакцыі газ. «Рабочий»
 
+1930 г.
 
+АГУЛЬНЫЯ СПРАВАЧНЫЯ ВЕСТКІ
 
 Ґазэты
 Часопісы
@@ -34,36 +26,55 @@ summary by Uladzimir Katkouski
 </tr>
 <tr class=»even»>
 
-«Зьвязда»<br />
-«Рабочий»<br />
-«Савецкая Беларусь»<br />
-«Orka»<br />
-«Піонэр Беларусі»<br />
-«Раўдонасіс артояс»<br />
-«Юнгэр арбэтэр»<br />
-«Юнгэр ленінец»<br />
-«Іскры Ілліча»<br />
-«Чырвоная Зьмена»<br />
-«Акцябр»<br />
-«Беларуская вёска»<br />
-«Беларускі батрак»<br />
-«Беларускі гандлёвы бюлэтэнь»<br />
+«Зьвязда»
 
-«Паляўнічы Беларусі»<br />
-«Беларуская работніца і сялянка»<br />
-«Соцыялістычнае будаўніцтва»<br />
-«Чырвоная Беларусь»<br />
-«Полымя»<br />
-«Маладняк»<br />
-«Узвышша»<br />
-«Бальшавік Беларусі»<br />
-«Комуністычнае выхаванне»<br />
+«Рабочий»
+
+«Савецкая Беларусь»
+
+«Orka»
+
+«Піонэр Беларусі»
+
+«Раўдонасіс артояс»
+
+«Юнгэр арбэтэр»
+
+«Юнгэр ленінец»
+
+«Іскры Ілліча»
+
+«Чырвоная Зьмена»
+
+«Акцябр»
+
+«Беларуская вёска»
+
+«Беларускі батрак»
+
+«Беларускі гандлёвы бюлэтэнь»
+
+«Паляўнічы Беларусі»
+
+«Беларуская работніца і сялянка»
+
+«Соцыялістычнае будаўніцтва»
+
+«Чырвоная Беларусь»
+
+«Полымя»
+
+«Маладняк»
+
+«Узвышша»
+
+«Бальшавік Беларусі»
+
+«Комуністычнае выхаванне»
 
 <img src=»wilna_bahnhof.jpg» width=»226» height=»143» alt=»Minsk. Wilenski Vagzal» /> У 1930 годзе нават камуністы пісалі з мяккімі знакамі! «Спадарожнік» напісаны па-беларуску клясычным правапісам, але ўважлівы чытач адразу ж убачыць, што мова «Спадарожніку» мае шэраг асаблівасцяў і трохі адрозьніваецца ад сучаснай мовы «Нашай Нівы» ці іншых выданняў, якія карыстаюцца клясычным правапісам сёння, праз семдзесят тры гады. Гэтыя дробныя адрозьненні як балючыя ўколы ігліцы напамінаюць нам, што ў нас усё яшчэ не ма адзінага сучаснага стандарту «тарашкевіцы». Але ж гэта тэма для асобнага артыкулу. Тут я стаўлю за мэту проста пералічыць, падсумаваць асаблівасці мовы гэтага тэксту.
 
-
 These are the excerpts from the rare edition of Minsk city guide «Spadarozhnik pa Miensku» that was published in 1930.
-
 
 Language
 Total

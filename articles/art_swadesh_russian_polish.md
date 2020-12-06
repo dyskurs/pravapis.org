@@ -1,45 +1,37 @@
 ---
-title: articles/art_swadesh_russian_polish.md 
 lang: en
 large_header: false
+title: "Swadesh List: Belarusian — Polish, Russian — Belarusian"
 ---
 
 
-<h1 id=»swadesh-list-belarusian---polish-russian---belarusian»>Swadesh List: Belarusian — Polish, Russian — Belarusian</h1>
-
 Uladzimir Katkouski
 
-<h2 id=»what-is-a-swadesh-list-anyway»>1. What is a Swadesh list anyway?</h2>
+## 1. What is a Swadesh list anyway?
 
 A Swadesh list is a tool of <strong>glottochronology</strong>, proposed by Morris Swadesh (1950). It is a list of prescribed items of basic vocabulary (variously featuring 100, 200 or 207 items) in two or more related languages. The closeness of the relationship of the languages is suggested to be roughly proportional to the number of <strong>cognate</strong> words present in the list. The reason that a fixed set of concept is used, rather than a list of arbitrary words, is that the basic vocabulary learned during early childhood is assumed to change very slowly over time. Note that the task of counting the number of cognate words in the list is far from trivial, and may be subjected to dispute, because cognates do not necessarily look similar, and recognition of cognates presupposes knowledge of the sound laws of the respective languages. For example, Greek  *galaktos*  and English  *milk*  are cognates, although they are not recognizable as such without knowledge of the history of both languages. Also, even in cases where the number of cognates is undisputed, use of Swadesh lists for dating is disputed, because of the underlying assumption that the rate of replacement of basic vocabulary is constant over long periods of time. While Swadesh lists are a useful tool to get a rough idea, mainstream historical linguistics is usually very sceptical about claims of relatedness based on Swadesh lists.
 
-<h2 id=»what-did-we-do»>2. What did we do?</h2>
+## 2. What did we do?
 
 In spite of the sceptical attitude, I still decided to compile a very rough estimate for Belarusian, just out of curiousity and because I couldn't find any reliable data on the Web regarding Belarusian and lexical similaruty of the Belarusian language in relation to its Slavic neighbours, such as Ukrainian, Polish, and Russian. So I ran the Swadesh «test» for Belarusian — Polish and Russian — Belarusian pairs. The easy part was to compile the lists (see below). But «grading» them was more challenging. Two people (me and my friend) did it. Since we both are not professional linguists, our results should be taken with a grain of salt. We don't know Slavic etymology that good and we don't know Protoindoeuropean and don't have practical experience with Swadesh lists, so our system of grading the words was as follows: if the words looked totally different (obviously different roots), we put a 0 (zero). If the words looked the same or very similar we put 1 (one). If the words looked sufficiently different, but still looked as if they could be cognates, we put 0.5 (a kind of «in between», «not sure»).
 
-
 The results of our calculations are stored in MS Excel sheet which you are welcome to download:
-
 
 • <a href=»swadesh_slavic.xls»><strong>Download Microsoft Excel file: swadesh_slavic.xls</strong></a> (70 KB)
 
-<h2 id=»results»>3. Results</h2>
+## 3. Results
 
 The estimates that we got are as follows:
 
-
 The lexical similarity between Belarusian and Russian is in between 78% to 83.5%. That is somewhere around <strong><span class=»underline»>80%</span></strong>.
-
 
 The lexical similarity between Belarusian and Polish was in between 82%-84%. That is somewhere around <strong>83%</strong>.
 
-
 The conclusion (at least on the basis of this particular test) is that Swadesh lists show somewhat more similarity between Belarusian and Polish vocabulary, rather than between Belarusian and Russian lexicons.
-
 
 The lexical similarity between Russian and Polish according to our estimates was <strong>76%</strong>.
 
-<h2 id=»swodesh-list-for-some-slavic-languages»>4. Swodesh list for some Slavic languages</h2>
+## 4. Swodesh list for some Slavic languages
 
 For people that don't have MS Excel, here's the copy of the list (without the grading though), just the words:
 
@@ -147,7 +139,8 @@ ten , ta , to
 СЌС‚РѕС‚ , СЌС‚Р° , СЌС‚Рѕ
 tento , tato , toto
 tut , taktor , tuktor
-С‚РѕР·Рё , С‚Р°Р·Рё , С‚РѕРІР° ;<br />
+С‚РѕР·Рё , С‚Р°Р·Рё , С‚РѕРІР° ;
+
 С‚РѕСЏ , С‚Р°СЏ , С‚СѓР№
 hety , heta
 
@@ -160,7 +153,8 @@ tamten , tamta , tamto
 С‚РѕС‚ , С‚Р° , С‚Рѕ
 tamten , tamta , tamto
 tot
-РѕРЅР·Рё , РѕРЅР°Р·Рё , РѕРЅРѕРІР° ;<br />
+РѕРЅР·Рё , РѕРЅР°Р·Рё , РѕРЅРѕРІР° ;
+
 РѕРЅСЏ , РѕРЅР°СЏ , РѕРЅСѓР№
 toj , heny
 
@@ -543,7 +537,8 @@ dzicia , dzicionak
 wife
 Ејona
 Р¶РµРЅР°
-Еѕena ,<br />
+Еѕena ,
+
 manЕѕelka
 svadzxen
 СЃСЉРїСЂСѓРіР°
@@ -556,7 +551,8 @@ svadzxen
 husband
 mД…Еј
 РјСѓР¶
-muЕѕ ,<br />
+muЕѕ ,
+
 manЕѕel
 svadmuzx
 СЃСЉРїСЂСѓРі
@@ -2284,7 +2280,8 @@ stary
 185.
 good
 dobry
-С…РѕСЂРѕС€РёР№ ;<br />
+С…РѕСЂРѕС€РёР№ ;
+
 РґРѕР±СЂС‹Р№
 dobrГЅ
 dobrju
@@ -2416,7 +2413,8 @@ suchi
 
 196.
 correct
-poprawny ,<br />
+poprawny ,
+
 prawidЕ‚owy
 РїСЂР°РІРёР»СЊРЅС‹Р№
 sprГЎvnГЅ

@@ -1,18 +1,11 @@
 ---
-title: articles/art_phrases1.md 
 lang: en
 large_header: false
+title: Belarusian-Bulgarian-Russian-English Basic Phrases
 ---
 
 
-
-
-
-
-<h1 id=»belarusian-bulgarian-russian-english-basic-phrases»>Belarusian-Bulgarian-Russian-English Basic Phrases</h1>
-
 Uladzimir Katkouski
-
 
 Thanks to this fantastic <a href=»http://web.archive.org»>web archive</a> I have retrieved a document which I'd thought was lost for ever. The document was a simple HTML file with a list of the most basic phrases in Bulgarian, Belarusian and Russian, that I compiled back in 1996. Here it comes back to life. To make things easier for an English speaker I have added a transcription, based upon <a href=»articles/art_cyrillic_translit.html»>U.S. Library of Congress Slavic Cyrillic Transliteration</a>.
 
@@ -29,1083 +22,1346 @@ Thanks to this fantastic <a href=»http://web.archive.org»>web archive</a> I ha
 <strong>Belarusian (Беларуская мова)</strong>
 <strong>Bulgarian (Български език)</strong>
 <strong>Russian (Русский язык)</strong>
-<strong>English translation<br />
+<strong>English translation
+
 </strong>
 
 </tr>
 <tr class=»even»>
 
-<br />
  **  
-<br />
+
  **  
-<br />
+
  **  
 <strong>Greetings</strong> 
 
 </tr>
 <tr class=»odd»>
 
-Вітаю<br />
+Вітаю
+
  *Vitayu*  
-Здравейте<br />
+Здравейте
+
  *Zdraveite*  
-Здравствуйте<br />
+Здравствуйте
+
  *Zdravstvuyte*  
 Hello 
 
 </tr>
 <tr class=»even»>
 
-Прывітанне<br />
+Прывітанне
+
  *Pryvitannie*  
-Здрасти<br />
+Здрасти
+
  *Zdrasti*  
-Привет<br />
+Привет
+
  *Privet*  
 Hi 
 
 </tr>
 <tr class=»odd»>
 
-Добрай раніцы<br />
+Добрай раніцы
+
  *Dobray ranitsy*  
-Добро утро<br />
+Добро утро
+
  *Dobro utro*  
-Доброе утро<br />
+Доброе утро
+
  *Dobroye utro*  
 Good morning 
 
 </tr>
 <tr class=»even»>
 
-Дзень добры; Дабрыдзень<br />
+Дзень добры; Дабрыдзень
+
  *Dzien' dobry; Dabrydzien'*  
-Добър ден<br />
+Добър ден
+
  *Dobur den*  
-Добрый день<br />
+Добрый день
+
  *Dobryi den'*  
 Hello; Good day 
 
 </tr>
 <tr class=»odd»>
 
-Добры вечар<br />
+Добры вечар
+
  *Dobry vechar*  
-Добър вечер<br />
+Добър вечер
+
  *Dobur vecher*  
-Добрый вечер<br />
+Добрый вечер
+
  *Dobryi vecher*  
 Good evening 
 
 </tr>
 <tr class=»even»>
 
-Дабранач<br />
+Дабранач
+
  *Dabranach*  
-Лека нощ<br />
+Лека нощ
+
  *Leka nosht*  
-Спокойной ночи<br />
+Спокойной ночи
+
  *Spokoynoy nochi*  
 Good night 
 
 </tr>
 <tr class=»odd»>
 
-<br />
  **  
-<br />
+
  **  
-<br />
+
  **  
 <strong>Basic expressions</strong> 
 
 </tr>
 <tr class=»even»>
 
-Так / Не<br />
+Так / Не
+
  *Tak / Nye*  
-Да / Не<br />
+Да / Не
+
  *Da / Ne*  
-Да / Нет<br />
+Да / Нет
+
  *Da / Net*  
 Yes / No 
 
 </tr>
 <tr class=»odd»>
 
-Дзякуй<br />
+Дзякуй
+
  *Dziakuy*  
-Благодаря; мерси<br />
+Благодаря; мерси
+
  *Blagodarya; mersi*  
-Спасибо<br />
+Спасибо
+
  *Spasibo*  
 Thanks 
 
 </tr>
 <tr class=»even»>
 
-Дзякую вам<br />
+Дзякую вам
+
  *Dziakuyu vam*  
-Благодаря ви<br />
+Благодаря ви
+
  *Blagodarya vi*  
-Благодарю вас<br />
+Благодарю вас
+
  *Blagodaryu vas*  
 Thank you 
 
 </tr>
 <tr class=»odd»>
 
-Спадар / Спадарыня / Спадарычна<br />
+Спадар / Спадарыня / Спадарычна
+
  *Spadar / Spadarynya / Spadarychna*  
-Господин / Госпожа / Госпожица<br />
+Господин / Госпожа / Госпожица
+
  *Gospodin / Gozpozha / Gospozhitsa*  
-Господин / Мадам /<br />
+Господин / Мадам /
+
  *Gospodin / Madam /*  
 Mister / Missis / Miss 
 
 </tr>
 <tr class=»even»>
 
-Як справы?<br />
+Як справы?
+
  *Jak spravy?*  
-Как е?<br />
+Как е?
+
  *Kak e?*  
-Как дела?<br />
+Как дела?
+
  *Kak dela?*  
 How is it going? 
 
 </tr>
 <tr class=»odd»>
 
-Як маесся?<br />
+Як маесся?
+
  *Jak mayes'sia?*  
-Как си?<br />
+Как си?
+
  *Kak si?*  
-Как у тебя дела?<br />
+Как у тебя дела?
+
  *Kak u tebya dela?*  
 How are you? (inf.) 
 
 </tr>
 <tr class=»even»>
 
-Як маецеся?<br />
+Як маецеся?
+
  *Jak mayeciesia?*  
-Как сте?<br />
+Как сте?
+
  *Kak ste?*  
-Как у вас дела?<br />
+Как у вас дела?
+
  *Kak u vas dela?*  
 How are you? (formal) 
 
 </tr>
 <tr class=»odd»>
 
-Добра, дзякуй.<br />
+Добра, дзякуй.
+
  *Dobra, dziakuj.*  
-Добре, мерси.<br />
+Добре, мерси.
+
  *Dobre, mersi.*  
-Спасибо, хорошо.<br />
+Спасибо, хорошо.
+
  *Spasibo, horosho.*  
 Good, thanks. 
 
 </tr>
 <tr class=»even»>
 
-Вельмі добра<br />
+Вельмі добра
+
  *Viel'mi dobra*  
-Много добре<br />
+Много добре
+
  *Mnogo dobre*  
-Очень хорошо<br />
+Очень хорошо
+
  *Ochen' horosho*  
 Very good 
 
 </tr>
 <tr class=»odd»>
 
-Кепска; дрэнна<br />
+Кепска; дрэнна
+
  *Kepska; drenna*  
-Зле; лошо<br />
+Зле; лошо
+
  *Zle; losho*  
-Плохо<br />
+Плохо
+
  *Ploho*  
 Bad 
 
 </tr>
 <tr class=»even»>
 
-Выдатна; файна<br />
+Выдатна; файна
+
  *Vydatna; fayna*  
-Отлично<br />
+Отлично
+
  *Otlichno*  
-Отлично<br />
+Отлично
+
  *Otlichno*  
 Excellent 
 
 </tr>
 <tr class=»odd»>
 
-Цудоўна<br />
+Цудоўна
+
  *Tsudouna*  
-Чудесно<br />
+Чудесно
+
  *Chudesno*  
-Чудесно<br />
+Чудесно
+
  *Chudesno*  
 Wonderful 
 
 </tr>
 <tr class=»even»>
 
-Смачна есці!<br />
+Смачна есці!
+
  *Smachna yesci!*  
-Добър апетит!<br />
+Добър апетит!
+
  *Dobur apetit!*  
-Приятного аппетита!<br />
+Приятного аппетита!
+
  *Priyatnogo appetita!*  
 Enjoy your meal! 
 
 </tr>
 <tr class=»odd»>
 
-Як цябе клічуць?<br />
+Як цябе клічуць?
+
  *Jak cyabye klichuts'?*  
-Как се казваш?<br />
+Как се казваш?
+
  *Kak se kazvash?*  
-Как тебя зовут?<br />
+Как тебя зовут?
+
  *Kak tebya zovut?*  
 What's your name? (inf.) 
 
 </tr>
 <tr class=»even»>
 
-Як вас завуць?<br />
+Як вас завуць?
+
  *Jak vas zavuts'?*  
-Как се казвате?<br />
+Как се казвате?
+
  *Kak se kazvate?*  
-Как вас зовут?<br />
+Как вас зовут?
+
  *Kak vas zovut?*  
 What is your name? (formal) 
 
 </tr>
 <tr class=»odd»>
 
-Мяне клічуць Пятрусь.<br />
+Мяне клічуць Пятрусь.
+
  *Myanye klichuts' Piatrus'.*  
-Аз се казвам Петко.<br />
+Аз се казвам Петко.
+
  *Az se kazvam Petko.*  
-Меня зовут Петя.<br />
+Меня зовут Петя.
+
  *Menya zovut Petya.*  
 My name is Peter. 
 
 </tr>
 <tr class=»even»>
 
-Прыемна пазнаёміцца.<br />
+Прыемна пазнаёміцца.
+
  *Pryjemna paznayomitstsa.*  
-Приятно ми е.<br />
+Приятно ми е.
+
  *Priyatno mi e.*  
-Приятно познакомиться.<br />
+Приятно познакомиться.
+
  *Priyatno poznakomitsya.*  
 Nice to meet you. 
 
 </tr>
 <tr class=»odd»>
 
-Шчыры дзякуй.<br />
+Шчыры дзякуй.
+
  *Shchyry dzyakuy.*  
-Благодаря ви много.<br />
+Благодаря ви много.
+
  *Blagodarya vi mnogo*  
-Большое спасибо!<br />
+Большое спасибо!
+
  *Bolshoye spasibo.*  
 Thank you very much. 
 
 </tr>
 <tr class=»even»>
 
-Калі ласка<br />
+Калі ласка
+
  *Kali laska*  
-Моля<br />
+Моля
+
  *Molya*  
-Пожалуйста<br />
+Пожалуйста
+
  *Pozhaluysta*  
 Please 
 
 </tr>
 <tr class=»odd»>
 
-Няма за што!<br />
+Няма за што!
+
  *Nyama za shto!*  
-За ништо!<br />
+За ништо!
+
  *Za nishto!*  
-Не за что!<br />
+Не за что!
+
  *Ne za chto!*  
 You are welcome! 
 
 </tr>
 <tr class=»even»>
 
-Дапамога!<br />
+Дапамога!
+
  *Dapamoha!*  
-Помощ!<br />
+Помощ!
+
  *Pomosht!*  
-Помощь<br />
+Помощь
+
  *Pomosh'!*  
 Help! 
 
 </tr>
 <tr class=»odd»>
 
-Дазвольце?<br />
+Дазвольце?
+
  *Dazvol'tsye?*  
-Може ли?<br />
+Може ли?
+
  *Mozhe li?*  
-Можно?<br />
+Можно?
+
  *Mozhno?*  
 May I? 
 
 </tr>
 <tr class=»even»>
 
-Прабачце; выбачайце<br />
+Прабачце; выбачайце
+
  *Prabachtsye; vybachaytsye*  
-Извинете; извинявайте<br />
+Извинете; извинявайте
+
  *Izvinete; izvinyavayte*  
-Извините<br />
+Извините
+
  *Izvinite*  
 I am sorry. 
 
 </tr>
 <tr class=»odd»>
 
-Даруйце; перапрашаю<br />
+Даруйце; перапрашаю
+
  *Daruytsye; pyeraprashayu*  
-Простете<br />
+Простете
+
  *Prostete*  
-Простите<br />
+Простите
+
  *Prostite*  
 Excuse me. 
 
 </tr>
 <tr class=»even»>
 
-Да пабачэння!<br />
+Да пабачэння!
+
  *Da pabachen'nya!*  
-Довиждане!<br />
+Довиждане!
+
  *Dovizhdane!*  
-До свидания!<br />
+До свидания!
+
  *Do svidania!*  
 Good bye! 
 
 </tr>
 <tr class=»odd»>
 
-Убачымся!<br />
+Убачымся!
+
  *Ubachymsia!*  
-Ще се видим!<br />
+Ще се видим!
+
  *Shte se vidime!*  
-Увидимся!<br />
+Увидимся!
+
  *Uvidimsya!*  
 See you later! 
 
 </tr>
 <tr class=»even»>
 
-<br />
  **  
-<br />
+
  **  
-<br />
+
  **  
 <strong>Do you speak...</strong> 
 
 </tr>
 <tr class=»odd»>
 
-Ці размаўляеце па-ангельску?<br />
+Ці размаўляеце па-ангельску?
+
  *Ci razmaulyajetsie pa-anhielsku?*  
-Говорите ли англиски?<br />
+Говорите ли англиски?
+
  *Govorite li angliyski?*  
-Вы говорите по-английски?<br />
+Вы говорите по-английски?
+
  *Vy govorite po-angliyski?*  
 Do you speak English? 
 
 </tr>
 <tr class=»even»>
 
-па-гішпанску<br />
+па-гішпанску
+
  *pa-hishpansku*  
-испански<br />
+испански
+
  *ispanski*  
-по-испански<br />
+по-испански
+
  *po-ispanski*  
 Spanish? 
 
 </tr>
 <tr class=»odd»>
 
-па-нямецку<br />
+па-нямецку
+
  *pa-nyametsku*  
-немски<br />
+немски
+
  *nemski*  
-по-немецки<br />
+по-немецки
+
  *po-nemetski*  
 German? 
 
 </tr>
 <tr class=»even»>
 
-па-французску<br />
+па-французску
+
  *pa-frantsuzsku*  
-френски<br />
+френски
+
  *frenski*  
-по-французски<br />
+по-французски
+
  *po-frantsuzski*  
 French? 
 
 </tr>
 <tr class=»odd»>
 
-па-вугорску<br />
+па-вугорску
+
  *pa-vuhosrku*  
-унгарски<br />
+унгарски
+
  *ungarski*  
-по-венгерски<br />
+по-венгерски
+
  *po-vengerski*  
 Hungarian? 
 
 </tr>
 <tr class=»even»>
 
-па-баўгарску<br />
+па-баўгарску
+
  *pa-bauharsku*  
-български<br />
+български
+
  *bulgarski*  
-по-болгарски<br />
+по-болгарски
+
  *po-bolgarski*  
 Bulgarian? 
 
 </tr>
 <tr class=»odd»>
 
-па-расійску<br />
+па-расійску
+
  *pa-raseysku*  
-руски<br />
+руски
+
  *ruski*  
-по-русски<br />
+по-русски
+
  *po-russki*  
 Russian? 
 
 </tr>
 <tr class=»even»>
 
-Я разумею.<br />
+Я разумею.
+
  *Ya razumeyu.*  
-Аз разбирам.<br />
+Аз разбирам.
+
  *Az razbiram.*  
-Я понимаю.<br />
+Я понимаю.
+
  *Ya ponimayu.*  
 I understand. 
 
 </tr>
 <tr class=»odd»>
 
-Я нічога не разумею.<br />
+Я нічога не разумею.
+
  *Ya nichoha nye razumeyu.*  
-Аз ништо не разбирам.<br />
+Аз ништо не разбирам.
+
  *Az nishto razbiram.*  
-Я ничего не понимаю.<br />
+Я ничего не понимаю.
+
  *Ya nichego ne ponimayu.*  
 I don't understand anything. 
 
 </tr>
 <tr class=»even»>
 
-Я не размаўляю па-баўгарску<br />
+Я не размаўляю па-баўгарску
+
  *Ya nye razmaulyayu pa-bauharsku.*  
-Аз не говоря български.<br />
+Аз не говоря български.
+
  *Az ne govorya bulgarski.*  
-Я не говорю по-болгарски<br />
+Я не говорю по-болгарски
+
  *Ya ne govoryu po-bolgarski.*  
 I don't speak Bulgarian 
 
 </tr>
 <tr class=»odd»>
 
-<br />
  **  
-<br />
+
  **  
-<br />
+
  **  
 <strong>Questions</strong> 
 
 </tr>
 <tr class=»even»>
 
-Дзе?<br />
+Дзе?
+
  *Dzie?*  
-Къде?<br />
+Къде?
+
  *Kude?*  
-Где?<br />
+Где?
+
  *Gde?*  
 Where? 
 
 </tr>
 <tr class=»odd»>
 
-Як?<br />
+Як?
+
  *Jak?*  
-Как?<br />
+Как?
+
  *Kak?*  
-Как?<br />
+Как?
+
  *Kak?*  
 How? 
 
 </tr>
 <tr class=»even»>
 
-Калі?<br />
+Калі?
+
  *Kali?*  
-Кога?<br />
+Кога?
+
  *Koga?*  
-Когда?<br />
+Когда?
+
  *Kogda?*  
 When? 
 
 </tr>
 <tr class=»odd»>
 
-Што?<br />
+Што?
+
  *Shto?*  
-Какво?<br />
+Какво?
+
  *Kakvo?*  
-Что?<br />
+Что?
+
  *Chto?*  
 What? 
 
 </tr>
 <tr class=»even»>
 
-Чаму?<br />
+Чаму?
+
  *Chamu?*  
-Защо?<br />
+Защо?
+
  *Zashto?*  
-Почему?<br />
+Почему?
+
  *Pochemu?*  
 Why? 
 
 </tr>
 <tr class=»odd»>
 
-Хто?<br />
+Хто?
+
  *Khto?*  
-Кой?<br />
+Кой?
+
  *Koy?*  
-Кто?<br />
+Кто?
+
  *Kto?*  
 Who? 
 
 </tr>
 <tr class=»even»>
 
-Куды?<br />
+Куды?
+
  *Kudy?*  
-Накъде?<br />
+Накъде?
+
  *Nakude?*  
-Куда?<br />
+Куда?
+
  *Kuda?*  
 Where to? 
 
 </tr>
 <tr class=»odd»>
 
-Адкуль?<br />
+Адкуль?
+
  *Adkul?*  
-Откъде?<br />
+Откъде?
+
  *Otkude?*  
-Откуда?<br />
+Откуда?
+
  *Otkuda?*  
 Where from? 
 
 </tr>
 <tr class=»even»>
 
-Колькі?<br />
+Колькі?
+
  *Kolki?*  
-Колко?<br />
+Колко?
+
  *Kolko?*  
-Сколько?<br />
+Сколько?
+
  *Skol'ko?*  
 How much? 
 
 </tr>
 <tr class=»odd»>
 
-<br />
  **  
-<br />
+
  **  
-<br />
+
  **  
 <strong>Days of the week</strong> 
 
 </tr>
 <tr class=»even»>
 
-панядзелак<br />
+панядзелак
+
  *paniadzielak*  
-понеделник<br />
+понеделник
+
  *ponedelnik*  
-понедельник<br />
+понедельник
+
  *ponedel'nik*  
 Monday 
 
 </tr>
 <tr class=»odd»>
 
-аўторак<br />
+аўторак
+
  *autorak*  
-вторник<br />
+вторник
+
  *vtornik*  
-вторник<br />
+вторник
+
  *vtornik*  
 Tuesday 
 
 </tr>
 <tr class=»even»>
 
-серада<br />
+серада
+
  *sierada*  
-сряда<br />
+сряда
+
  *sryada*  
-среда<br />
+среда
+
  *sreda*  
 Wednesday 
 
 </tr>
 <tr class=»odd»>
 
-чацьвер<br />
+чацьвер
+
  *chats'vier*  
-четвъртък<br />
+четвъртък
+
  *chetvertuk*  
-четверг<br />
+четверг
+
  *chetverg*  
 Thursday 
 
 </tr>
 <tr class=»even»>
 
-пятніца<br />
+пятніца
+
  *piatnitsa*  
-петък<br />
+петък
+
  *petuk*  
-пятница<br />
+пятница
+
  *pyatnitsa*  
 Friday 
 
 </tr>
 <tr class=»odd»>
 
-сыбота<br />
+сыбота
+
  *sybota*  
-събота<br />
+събота
+
  *sybota*  
-суббота<br />
+суббота
+
  *subbota*  
 Saturday 
 
 </tr>
 <tr class=»even»>
 
-нядзеля<br />
+нядзеля
+
  *niadzielya*  
-неделя<br />
+неделя
+
  *nedelya*  
-воскресенье<br />
+воскресенье
+
  *voskresen'ye*  
 Sunday 
 
 </tr>
 <tr class=»odd»>
 
-сённч<br />
+сённч
+
  *sionnia*  
-днес<br />
+днес
+
  *dnes*  
-сегодня<br />
+сегодня
+
  *segodnya*  
 Today 
 
 </tr>
 <tr class=»even»>
 
-учора<br />
+учора
+
  *uchora*  
-вчера<br />
+вчера
+
  *vchera*  
-вчера<br />
+вчера
+
  *vchera*  
 Yesterday 
 
 </tr>
 <tr class=»odd»>
 
-заўтра<br />
+заўтра
+
  *zautra*  
-утре<br />
+утре
+
  *utre*  
-завтра<br />
+завтра
+
  *zavtra*  
 Tomorrow 
 
 </tr>
 <tr class=»even»>
 
-тыдзень<br />
+тыдзень
+
  *tydzien'*  
-седмица<br />
+седмица
+
  *sedmitsa*  
-неделя<br />
+неделя
+
  *nedelya*  
 Week 
 
 </tr>
 <tr class=»odd»>
 
-<br />
  **  
-<br />
+
  **  
-<br />
+
  **  
 <strong>Months</strong> 
 
 </tr>
 <tr class=»even»>
 
-Студзень<br />
+Студзень
+
  *Studzien'*  
-Януари<br />
+Януари
+
  *Yanuari*  
-Январь<br />
+Январь
+
  *Yanvar'*  
 January 
 
 </tr>
 <tr class=»odd»>
 
-Люты<br />
+Люты
+
  *Lyuty*  
-Февруари<br />
+Февруари
+
  *Fevruari*  
-Февраль<br />
+Февраль
+
  *Fevral'*  
 February 
 
 </tr>
 <tr class=»even»>
 
-Сакавік<br />
+Сакавік
+
  *Sakavik*  
-Март<br />
+Март
+
  *Mart*  
-Март<br />
+Март
+
  *Mart*  
 March 
 
 </tr>
 <tr class=»odd»>
 
-Красавік<br />
+Красавік
+
  *Krasavik*  
-Април<br />
+Април
+
  *April*  
-Апрель<br />
+Апрель
+
  *Aprel'*  
 April 
 
 </tr>
 <tr class=»even»>
 
-Травень<br />
+Травень
+
  *Travien'*  
-Май<br />
+Май
+
  *May*  
-Май<br />
+Май
+
  *May*  
 May 
 
 </tr>
 <tr class=»odd»>
 
-Чэрвень<br />
+Чэрвень
+
  *Chervien'*  
-Юни<br />
+Юни
+
  *Yuni*  
-Июнь<br />
+Июнь
+
  *Iyun'*  
 June 
 
 </tr>
 <tr class=»even»>
 
-Ліпень<br />
+Ліпень
+
  *Lipien'*  
-Юли<br />
+Юли
+
  *Yuli*  
-Июль<br />
+Июль
+
  *Iyul'*  
 July 
 
 </tr>
 <tr class=»odd»>
 
-Жнівень<br />
+Жнівень
+
  *Zhnivien'*  
-Август<br />
+Август
+
  *Avgust*  
-Август<br />
+Август
+
  *Avgust*  
 August 
 
 </tr>
 <tr class=»even»>
 
-Верасень<br />
+Верасень
+
  *Vierasien'*  
-Септември<br />
+Септември
+
  *Septemvri*  
-Сентябрь<br />
+Сентябрь
+
  *Sentiabr'*  
 Septempber 
 
 </tr>
 <tr class=»odd»>
 
-Кастрычнік<br />
+Кастрычнік
+
  *Kastrychnik*  
-Октомври<br />
+Октомври
+
  *Oktomvri*  
-Октябрь<br />
+Октябрь
+
  *Oktiabr'*  
 October 
 
 </tr>
 <tr class=»even»>
 
-Лістапад<br />
+Лістапад
+
  *Listapad*  
-Ноември<br />
+Ноември
+
  *Noemvri*  
-Ноябрь<br />
+Ноябрь
+
  *Noyabr'*  
 November 
 
 </tr>
 <tr class=»odd»>
 
-Сьнежань<br />
+Сьнежань
+
  *S'niezhan'*  
-Декември<br />
+Декември
+
  *Dekemvri*  
-Декабрь<br />
+Декабрь
+
  *Dekabr'*  
 December 
 
 </tr>
 <tr class=»even»>
 
-<br />
  **  
-<br />
+
  **  
-<br />
+
  **  
 <strong>Numbers</strong> 
 
 </tr>
 <tr class=»odd»>
 
-адзін, першы<br />
+адзін, першы
+
  *adzin, piershy*  
-един, първи<br />
+един, първи
+
  *edin, purvi*  
-один, первый<br />
+один, первый
+
  *odin, pervyi*  
 one, first 
 
 </tr>
 <tr class=»even»>
 
-два, другі<br />
+два, другі
+
  *dva, druhi*  
-два, втори<br />
+два, втори
+
  *dva, vtori*  
-два, второй<br />
+два, второй
+
  *dva, vtoroy*  
 two, second 
 
 </tr>
 <tr class=»odd»>
 
-тры, трэйці<br />
+тры, трэйці
+
  *try, treytsi*  
-три, трети<br />
+три, трети
+
  *tri, treti*  
-три, третий<br />
+три, третий
+
  *tri, tretiy*  
 three, third 
 
 </tr>
 <tr class=»even»>
 
-чатыры, чацьверты<br />
+чатыры, чацьверты
+
  *chatyry, chatsvierty*  
-четири, четвърти<br />
+четири, четвърти
+
  *chetiri, chetvurti*  
-четыре, четвертый<br />
+четыре, четвертый
+
  *chetyre, chetvertyi*  
 four, fourth 
 
 </tr>
 <tr class=»odd»>
 
-пяць, пяты<br />
+пяць, пяты
+
  *piats', piaty*  
-пет, пети<br />
+пет, пети
+
  *pet, peti*  
-пять, пятый<br />
+пять, пятый
+
  *piat', piaty*  
 five, fifth 
 
 </tr>
 <tr class=»even»>
 
-шэсць, шосты<br />
+шэсць, шосты
+
  *shests', shosty*  
-шест, шести<br />
+шест, шести
+
  *shest, shesti*  
-шесть, шестой<br />
+шесть, шестой
+
  *shest', shestoy*  
 six, sixth 
 
 </tr>
 <tr class=»odd»>
 
-сем, сёмы<br />
+сем, сёмы
+
  *siem, siomy*  
-седем, седми<br />
+седем, седми
+
  *sedem, sedmi*  
-семь, седьмой<br />
+семь, седьмой
+
  *sem', sed'moy*  
 seven, seventh 
 
 </tr>
 <tr class=»even»>
 
-восем, восьмы<br />
+восем, восьмы
+
  *vosiem, vos'my*  
-осем, осми<br />
+осем, осми
+
  *osem, osmi*  
-восемь, восьмой<br />
+восемь, восьмой
+
  *vosem', vosmoy*  
 eight, eighth 
 
 </tr>
 <tr class=»odd»>
 
-дзевяць, дзявяты<br />
+дзевяць, дзявяты
+
  *dzieviats', dziaviaty*  
-девет, девети<br />
+девет, девети
+
  *devet, deveti*  
-девять, девятый<br />
+девять, девятый
+
  *devyat', devyatyi*  
 nine, ninth 
 
 </tr>
 <tr class=»even»>
 
-дзесяць, дзясяты<br />
+дзесяць, дзясяты
+
  *dziesiats', dziasiaty*  
-десет, десети<br />
+десет, десети
+
  *deset, deseti*  
-десять, десятый<br />
+десять, десятый
+
  *desyat', desyatyi*  
 ten, tenth 
 
 </tr>
 <tr class=»odd»>
 
-<br />
  **  
-<br />
+
  **  
-<br />
+
  **  
 <strong>Greetings</strong> 
 
 </tr>
 <tr class=»even»>
 
-сьвята<br />
+сьвята
+
  *s'viata*  
-празник<br />
+празник
+
  *praznik*  
-праздник<br />
+праздник
+
  *prazdnik*  
 holiday 
 
 </tr>
 <tr class=»odd»>
 
-сябар<br />
+сябар
+
  *syabar*  
-приятел<br />
+приятел
+
  *priyatel*  
-друг; приятель<br />
+друг; приятель
+
  *drug; priyatel'*  
 friend 
 
 </tr>
 <tr class=»even»>
 
-дзень народзінаў<br />
+дзень народзінаў
+
  *dzien' narodzinau*  
-рожден ден<br />
+рожден ден
+
  *rozhden den*  
-День рождения<br />
+День рождения
+
  *Den' rozhdenya*  
 birthday 
 
 </tr>
 <tr class=»odd»>
 
-Зь днём народзінаў!<br />
+Зь днём народзінаў!
+
  *Z' dnyom narodzinau!*  
-Честит рожден ден!<br />
+Честит рожден ден!
+
  *Chestit rozhden den!*  
-С Днем рождения!<br />
+С Днем рождения!
+
  *S Dnyom rozhdenya!*  
 Happy birthday! 
 
 </tr>
 <tr class=»even»>
 
-Віншую!<br />
+Віншую!
+
  *Vinshuju!*  
-Честито!<br />
+Честито!
+
  *Chestito!*  
-Поздравляю!<br />
+Поздравляю!
+
  *Pozdravlyayu!*  
 Congratulations! 
 
 </tr>
 <tr class=»odd»>
 
-Усяго найлепшага!<br />
+Усяго найлепшага!
+
  *Usiaho naylepshaha!*  
-Всичко хубаво!<br />
+Всичко хубаво!
+
  *Vsichko hubavo!*  
-Всего наилучшего!<br />
+Всего наилучшего!
+
  *Vsego nailuchshego!*  
 All the best! 

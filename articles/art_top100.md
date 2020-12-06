@@ -1,18 +1,11 @@
 ---
-title: articles/art_top100.md 
 lang: en
 large_header: false
+title: The Forgotten Slang. The top 100
 ---
 
 
-
-
-
-
-<h1 id=»the-forgotten-slang.-the-top-100»>The Forgotten Slang. The top 100</h1>
-
 Lubou Szatalava, Uladzimir Katkouski
-
 
 <strong>Note:</strong> It is still under construction. More words to come; and the introductory comments also will be posted here. The entries are in bold, explanation in Belarusian is in the middle column, and the English translation is in the column on the right. <strong>Warning: explicit lyrics ;-)</strong>
 

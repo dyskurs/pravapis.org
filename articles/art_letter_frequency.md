@@ -1,15 +1,11 @@
 ---
-title: articles/art_letter_frequency.md 
 lang: be
 large_header: false
+title: Letter Frequency (Belarusian and Russian) 
 ---
-
 
  
 
-
-
-# Letter Frequency (Belarusian and Russian) 
 Частотнасць літараў (беларуская і расійская мовы)
 by [rydel n23](http://www.rydel.net/)
 

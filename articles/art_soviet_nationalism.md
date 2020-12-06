@@ -1,68 +1,47 @@
 ---
-title: articles/art_soviet_nationalism.md 
 lang: en
 large_header: false
+title: "Dynko: Soviet Nationalism as Lukashenka's Strategy of Survival"
 ---
 
 
-<h1 id=»dynko-soviet-nationalism-as-lukashenkas-strategy-of-survival»>Dynko: Soviet Nationalism as Lukashenka's Strategy of Survival</h1>
-
 Jan Maksymiuk, RFE/RL, Prague
-
 
 <img src=»img/dynko_havel_albright.jpg» title=»Dynko, Havel and Albright» width=»448» height=»303» alt=»Dynko, Havel and Albright» /> The following is an interview with Andrey Dynko, 29, editor in chief of the Minsk-based Belarusian-language weekly «Nasha Niva,» and chairman of Belarus's P.E.N. Center (a member organization of the International P.E.N. association of writers). Dynko is a leading figure among those Belarusian intellectuals who oppose the Russification and re-Sovietization policies pursued by the regime of Belarusian President Alyaksandr Lukashenka and stand for the development of Belarus's indigenous culture and language. In October, former Czech President Vaclav Havel granted the cash portion of the Hanno R. Ellenbogen Citizenship Award he received this year to Andrey Dynko. The Hanno R. Ellenbogen Citizenship Award is given each year to an individual who has dedicated his or her life to public service with the stipulation that the financial portion of the award be passed to a gifted young person. «I pass this award to Mr. Dynko because we, who have benefited so much from international solidarity, must show solidarity ourselves,» Havel said at the award ceremony in Prague. «'Nasha Niva' in Belarus is a symbol of independence on the one hand and an island of freedom on the other.»
 
-
 RFE/RL: How would you explain to Western readers of «RFE/RL Poland, Belarus, and Ukraine Report» an apparently paradoxical phenomenon taking place in Belarus -- the government of an independent country holds in contempt or even destroys such attributes of the national identity of Belarusians as their language, culture, and historical traditions? Is the Belarusian government not digging a grave for itself by trying to make a mini-Russia out of Belarus?
-
 
 Andrey Dynko: It is a simplified view to assert that the Belarusian government tries to liquidate itself. In my opinion, Belarus is witnessing a search for such a variant of national identity that could unify the variegated Belarusian society. One should take into account that the Belarusian population, even if it looks homogeneous to a foreigner, is in fact very heterogeneous as regards its linguistic and religious characteristics as well as civilizational choices. Lukashenka was aware that a model of national identity based on «classic European nationalism» would be rejected by a considerable segment of the population. Therefore, he has put his stake on Soviet Belarusian nationalism. And he has scored some successes thanks to this strategy.
 
-
 First, we can see a very rapid process of Belarusization of the political elite that supports Lukashenka. This may be said even about those representatives of the political elite that resettled in Belarus 10-15 years ago. Now they have become loyal officials and citizens of independent Belarus.
-
 
 Second, let us look at results of the last national census in Belarus [in 1999]. The census showed that Lukashenka's Belarus has been very successful in integrating ethnic minorities. Perhaps the word «successful» is not quite apt here, because the process is more an assimilation than an integration, and it is detrimental to the cultural variety of Belarusian society. The fact remains, however, that the number of Russians in Belarus shrank by more than one-fourth in the decade between the last two censuses. This assimilation is advancing even at a quicker pace than that in Ukraine. While in Ukraine it provokes various protests of the Russian minority, in Belarus it is proceeding unnoticeably and everybody seems to take it for granted.
 
-
 Third, despite Lukashenka's policies or thanks to them, the percentage of children instructed in Belarusian at school now is larger that that at the end of the Soviet Belarus. What is more, the 1999 census showed that the Belarusian language remains a great value for Belarusians, both as a native language and as a language used by them in everyday life. [A 1999 census found that 75 percent of Belarus's 10 million people deem Belarusian their mother tongue, and 37 percent of the population speaks Belarusian at home.]
-
 
 On the other hand, it's obviously true that the process of acquiring national identity by Belarusians is not proceeding with a similar intensity as those in the former Soviet Baltic republics or Ukraine.
 
-
 RFE/RL: So why did Lukashenka make a strong point of fighting «Belarusian nationalism» during his first and second presidential terms if, as you imply, his goal is to build a Belarusian national identity as different from the Russian one?
-
 
 Dynko: Why was Lukashenka afraid of «Belarusian nationalism» as opposed to his «Soviet nationalism»? Because Belarusian nationalism is a kind of political nationalism that creates civic society in Belarus, that molds people into citizens. When people become citizens, they will hardly tolerate his authoritarian ways. On the other hand, the Soviet Belarusian nationalism produces a mass person, an obedient person that guarantees the stability of an autocratic regime. Thus, Lukashenka's skepticism about the Belarusian language and the indigenous Belarusian cultural tradition seems to be a rational, well-considered choice oriented toward fortifying his political regime. During a recent meeting with Russian President Vladimir Putin, Lukashenka himself admitted that stopping integration with Russia would spell political death to him.
 
-
 RFE/RL: OK, this is true, but don't you think that in the long run Lukashenka's Soviet nationalism is doomed? People who remember and cherish the Soviet era die everyday, so the social basis of his support must be continuously shrinking. He can't stick to appealing to the Soviet values and traditions for long, can he?
-
 
 Dynko: Lukashenka's political behavior demonstrates that there may be different political strategies of survival in post-Soviet situations, and that he may use such strategies for quite a long time. Please note that Lukashenka's political strategy, as well as his ideology, is changing. It is adjusted every year. Incidentally, in 2004 the volume of Belarusian exports to EU countries is expected to exceed Belarusian exports to Russia for the first time in modern history. It coincides with 10 countries of Central Europe joining the European Union. There is certainly clear symbolism in this fact.
 
-
 The primary task of Lukashenka's ideologists now is to maintain support for the regime of the pro-Russian segment of Belarusian society. Belarus is increasingly emancipating to become economically less dependent on Russia. Lukashenka has put a brake on any attempts to deepen economic integration with Russia and is gradually limiting the influence of Russian media in Belarus. The Sovietized, pro-Russian segment of Belarusian society feels itself very uncomfortable with this. On the subliminal level, these people see Belarusian nationalism as the gravest threat to them. They consider the Belarusian language and Belarusian culture as threats to their usual way of life and thinking. Thus, it is primarily these people's fears that are targeted by the regime when it makes all those mean, shameful moves, as, for example, the recent closure of the  *National Humanities Lyceum*  in Minsk, which offered instruction in Belarusian.
-
 
 <img src=»img/humanities_lyceum.jpg» title=»National Humanities Lyceum» width=»437» height=»347» alt=»National Humanities Lyceum» /> To understand Lukashenka's deeds, one has to understand the state of mind of many Belarusians and their social consciousness. What we may see as inadmissible and immoral, for Lukashenka's people is quite acceptable as political methods and techniques to manipulate public opinion. Political strategies that are used, for example, by [former head of the right-wing Freedom Party in Austria Joerg] Haider in Austria or [French right-wing politician Jean-Marie] Le Pen in France are generally seen as immoral in Europe and, in addition, they are inefficient in mustering significant public support. Lukashenka uses similar populist strategies, and they turn out to be efficient in Belarus. And for Lukashenka and his aides, efficient means moral.
 
-
 RFE/RL: Why is Belarusian nationalism -- building a Belarusian nation based primarily on its indigenous linguistic and cultural heritage -- perceived as something unavoidably anti-Russian? Arguably, the most important thing for the Kremlin in Belarus is to assure unwavering support of the ruling regime to Russia's strategic interests, in particular, to maintain an operational, unproblematic transport corridor through Belarus for Russia oil, gas, and cargo. What language of instruction is used in Belarusian schools or what culture is prevalent in Minsk appears to be a matter of secondary importance for Moscow. In short, are the Russians really interested in Russifying Belarus? Is it not Lukashenka's own initiative?
-
 
 Dynko: Maybe you are right. Yet language and culture is still an important issue for the pro-Russian part of Belarusian society. It is an issue of civilizational comfort for them. To overcome such attitudes, a very long, painstaking effort is needed in order to launch a national dialogue between this pro-Russian segment of Belarusian society and those Belarusians who see Belarus as a democratic country integrated with Europe. What we see today in Belarus is not so much a political divide as one involving cultural and civilizational preferences.
 
-
 RFE/RL: Shortly after the start of his presidential career, in 1995, Lukashenka organized a referendum that gave Russian official status along with Belarusian and buried the hope that the Belarusian language might take an important place in the educational system and play an important role in public life in independent Belarus. Lukashenka has never concealed his contempt for the Belarusian language and for those who seemed to be its most steadfast supporters -- Belarusian writers. Why has he not tried to make peace with the Union of Belarusian Writers? Why has he not given them money for publishing books in Belarusian in exchange for their intellectual support of his policies, just as the Soviet-era regime did with Belarusian writers in its time?
-
 
 Dynko: Do not overestimate the political and intellectual potential of our writers. Why should he do it if it would not give him any electoral gains? Unfortunately, the writers' milieu in Belarus is Sovietized to the same, if not larger, extent as the remaining part of our society. That's one thing.
 
-
 Second, the regime needs internal enemies. Catholics, Protestants, Western spies -- these are traditional candidates for internal enemies in Belarus. And the intelligentsia, writers. Hatred toward educated people and anti-Semitism were successfully utilized already by the Soviet rulers. Thus, Lukashenka has not invented a bicycle anew -- he has just taken advantage of the tested methods of social control and manipulation.
-
 
 On the other hand, some writers did finally find a comfortable compromise with the government. Lukashenka is seen by many as part and parcel of the Belarusian Soviet cultural discourse. This is a man educated on ideals and values of Belarusian Soviet literature, which he seems to pursue in his present post. Therefore, it is no wonder that some Belarusian writers see in him a people's hero. Why they failed to make a mutually favorable deal with him at the start of his presidential career can be explained by the fact that nobody believed in the mid-1990s that Lukashenka would be able to stay in power for such a long time. Now, however, some writers, who earlier were publicly proud of their democratic views, have already adapted themselves to this situation and inconspicuously accepted posts in newspapers and magazines controlled by the Lukashenka regime.
 

@@ -1,14 +1,8 @@
 ---
-title: sought_articles.md 
 lang: be
 large_header: false
+title: Тэмы артыкулаў // Prospective Topics
 ---
-
-
-
-
-Тэмы артыкулаў // Prospective Topics
-====================================
 
 en Here is a short list of topics which seem to be of great interest to our audience and thus we are seeking more articles dealing with these topics:
 

@@ -1,14 +1,10 @@
 ---
-title: d_turkish_belarusian.md 
 lang: en
 large_header: false
+title: Turkish-Belarusian Phrasebook of 1836 // Турэцка-беларускі размоўнік 1836 г.
 ---
 
  
-
-Turkish-Belarusian Phrasebook of 1836
-=====================================
-
 Compiled by S.Shupa (NY 1995)
 
 Here is an excerpt from the introduction:
@@ -20,9 +16,6 @@ Here is an excerpt from the introduction:
 * * *
 
 [па-ангельску](#pa_anhielsku)
-
-Турэцка-беларускі размоўнік 1836 г.
-===================================
 
 Пад рэдакцыяй С.Шупы (Нью-Ёрк, 1995)
 

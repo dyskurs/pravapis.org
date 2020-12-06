@@ -1,20 +1,15 @@
 ---
-title: articles/art_belarus_name.md 
 lang: en
 large_header: false
+title: The 21 Names of Belarus
 ---
 
 
-<h1 id=»the-21-names-of-belarus»>The 21 Names of Belarus</h1>
-
 U.K. (inspired by <a href=»http://www.google.com/jobs/britney.html»>the intellgient Britney fans</a>)
-
 
 No kidding about that. Inspired by <a href=»http://www.google.com/jobs/britney.html»>the misspellings</a> of Britney Spears' first name I decided to find out how the name of our country is <strong>[mis-]spelled</strong> in the cyberspace. I guess this sounds somewhat crazy, but that was my idea of having fun on Belarus independence day (25th of March).
 
-
 To make things easier, I decided to concentrate on the English-speaking part of the Net (as much as this was possible). Basically this means that I was only searching for spellings that <strong>could</strong> be used in English. I ignored other alphabets such as Cyrillics, extended Latin-based alphabets, Arabic, etc. I also ignored adjectives that could be used in Belarusian Latin script (e.g. bielaruski, bielaruskaja). Finally I ignored the variants from languages other than English even if they use Latin-based alphabet, e.g. <a href=»http://www.google.com/search?hl=be&amp;q=Belorusko»>Belorusko</a> (in Czech) or <a href=»http://www.google.com/search?hl=be&amp;q=Vitryssland»>Vitryssland</a> (in Swedish). And here is what is left over:
-
 
 <a href=»http://www.google.com/search?hl=be&amp;q=Belarus»><img src=»google2.gif» width=»390» height=»264» alt=»Google in Belarusian» /></a>
 
@@ -45,7 +40,7 @@ To make things easier, I decided to concentrate on the English-speaking part of 
 
 So far the situation does not look bad at all! More than 90% of the time people spell it right. This is a big improvement in comparison with 1997-1998 when the form «Byelorussia» (promoted by the Russians) was much more popular. Unfortunately I couldn't find the old data (but will definitely post it here, if I find it). In any case, I will repeat a similar «search rating» in a year's time. And today's bonus, the tips on how to make your Google «speak» in Belarusan, assuming that you are using Internet Explorer.
 
-<h2 id=»google-pa-bielarusku»>Google  *pa-bielarusku* </h2>
+## Google  *pa-bielarusku* 
 <ol>
 <li>In Internet Explorer go to «Tools | Internet Options...» dialog box, and click on the button «Languages».</li>
 <li>In the «Language Preferences» dialog box that should appear, you should click «Add» button and select «Belarusian [be]» (this corresponds to the server variable <code>http_accept_language</code>)</li>

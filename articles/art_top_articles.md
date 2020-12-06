@@ -1,20 +1,22 @@
 ---
-title: articles/art_top_articles.md 
 lang: en
 large_header: false
+title: Самыя папулярныя артыкулы ў 2002-2003
 ---
 
 
-<h1 id=»самыя-папулярныя-артыкулы-ў-2002-2003-top-belarusian-articles-in-2002-2003»>Самыя папулярныя артыкулы ў 2002-2003<br />
-Top Belarusian Articles in 2002-2003</h1>
+Top Belarusian Articles in 2002-2003
 
 NB: The internal webstats are incomplete and abriged because we have changed the hosting provider a few times, so we are using external source of web statistics ( *akavita.by*  web counter) which should give fairly good estimate of web activity on our site. So, these are the most popular articles, as of January 10, 2003, excluding the data for main menu pages such as news.html, articles.html, download.html, forum.html etc.
 
+<span class=»small»>hits – number of times each article was loaded // колькасць загрузак кожнага артыкулу
 
-<span class=»small»>hits – number of times each article was loaded // колькасць загрузак кожнага артыкулу<br />
-be – article in Belarusian // артыкул па-беларуску<br />
-en – article in English // артыкул па-ангельску<br />
-be/en – article in both languages // абедзьве мовы<br />
+be – article in Belarusian // артыкул па-беларуску
+
+en – article in English // артыкул па-ангельску
+
+be/en – article in both languages // абедзьве мовы
+
 </span>
 
 <ol>
