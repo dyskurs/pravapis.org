@@ -172,7 +172,7 @@ Chutčej nie, byŭ jinšy, bolš prahresiŭny šlach (dyj ciapier jašče nia po
  
 
 
-<strong>Уладзімер Каткоўскі,<br />
+<strong>Уладзімір Каткоўскі,<br />
 праграміст, стваральнік інтэрнэт-рэсурсу pravapis.org,<br />
 Франкфурт-на-Майне</strong>
 
