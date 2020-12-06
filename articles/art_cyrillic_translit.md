@@ -1,6 +1,7 @@
 ---
 title: articles/art_cyrillic_translit.md 
 lang: en
+large_header: false
 ---
 
 

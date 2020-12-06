@@ -1,6 +1,7 @@
 ---
 title: articles/art_letter_frequency.md 
 lang: be
+large_header: false
 ---
 
 

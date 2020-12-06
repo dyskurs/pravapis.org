@@ -1,6 +1,7 @@
 ---
 title: articles/art_russian_plural.md 
 lang: en
+large_header: false
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 title: articles/art_vitryssland.md 
 lang: be
+large_header: false
 ---
 
 

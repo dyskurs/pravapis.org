@@ -1,6 +1,7 @@
 ---
 title: articles/art_lac1.md 
 lang: en
+large_header: false
 ---
 
 

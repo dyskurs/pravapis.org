@@ -1,6 +1,7 @@
 ---
 title: articles/art_karski.md 
 lang: en
+large_header: false
 ---
 
 

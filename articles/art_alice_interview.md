@@ -1,6 +1,7 @@
 ---
 title: articles/art_alice_interview.md 
 lang: be
+large_header: false
 ---
 
 

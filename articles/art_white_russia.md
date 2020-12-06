@@ -1,6 +1,7 @@
 ---
 title: articles/art_white_russia.md 
 lang: en
+large_header: false
 ---
 
 

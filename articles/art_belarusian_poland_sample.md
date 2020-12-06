@@ -1,6 +1,7 @@
 ---
 title: articles/art_belarusian_poland_sample.md 
 lang: en
+large_header: false
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 title: articles/art_netspeak.md 
 lang: be
+large_header: false
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 title: articles/art_kitab1_en.md 
 lang: en
+large_header: false
 ---
 
 

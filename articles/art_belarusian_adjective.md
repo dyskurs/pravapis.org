@@ -1,6 +1,7 @@
 ---
 title: articles/art_belarusian_adjective.md 
 lang: en
+large_header: false
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 title: articles/art_swadesh_russian_polish.md 
 lang: en
+large_header: false
 ---
 
 

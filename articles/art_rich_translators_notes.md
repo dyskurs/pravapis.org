@@ -1,6 +1,7 @@
 ---
 title: articles/art_rich_translators_notes.md 
 lang: en
+large_header: false
 ---
 
 

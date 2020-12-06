@@ -1,6 +1,7 @@
 ---
 title: articles/art_jew_belarusian.md 
 lang: be
+large_header: false
 ---
 
 

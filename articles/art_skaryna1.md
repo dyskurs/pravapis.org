@@ -1,6 +1,7 @@
 ---
 title: articles/art_skaryna1.md 
 lang: en
+large_header: false
 ---
 
 

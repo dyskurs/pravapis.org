@@ -1,6 +1,7 @@
 ---
 title: d_turkish_belarusian.md 
 lang: en
+large_header: false
 ---
 
  

@@ -1,6 +1,7 @@
 ---
 title: articles/art_vocative.md 
 lang: be
+large_header: false
 ---
 
 

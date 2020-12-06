@@ -1,6 +1,7 @@
 ---
 title: articles/art_belarus_name.md 
 lang: en
+large_header: false
 ---
 
 

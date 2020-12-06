@@ -1,6 +1,7 @@
 ---
 title: articles/art_chagall.md 
 lang: en
+large_header: false
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 title: articles/art_no_russian.md 
 lang: en
+large_header: false
 ---
 
 

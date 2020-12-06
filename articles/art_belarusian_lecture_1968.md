@@ -1,6 +1,7 @@
 ---
 title: articles/art_belarusian_lecture_1968.md 
 lang: en
+large_header: false
 ---
 
 

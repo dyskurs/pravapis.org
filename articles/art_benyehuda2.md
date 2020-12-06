@@ -1,6 +1,7 @@
 ---
 title: articles/art_benyehuda2.md 
 lang: en
+large_header: false
 ---
 
 

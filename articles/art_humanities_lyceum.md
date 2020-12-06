@@ -1,6 +1,7 @@
 ---
 title: articles/art_humanities_lyceum.md 
 lang: en
+large_header: false
 ---
 
 

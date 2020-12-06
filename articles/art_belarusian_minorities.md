@@ -1,6 +1,7 @@
 ---
 title: articles/art_belarusian_minorities.md 
 lang: en
+large_header: false
 ---
 
 

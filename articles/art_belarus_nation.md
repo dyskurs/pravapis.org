@@ -1,6 +1,7 @@
 ---
 title: articles/art_belarus_nation.md 
 lang: en
+large_header: false
 ---
 
 

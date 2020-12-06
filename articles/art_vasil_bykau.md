@@ -1,6 +1,7 @@
 ---
 title: articles/art_vasil_bykau.md 
 lang: en
+large_header: false
 ---
 
 

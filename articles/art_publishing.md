@@ -1,6 +1,7 @@
 ---
 title: articles/art_publishing.md 
 lang: en
+large_header: false
 ---
 
 

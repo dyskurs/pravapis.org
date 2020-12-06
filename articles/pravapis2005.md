@@ -1,6 +1,7 @@
 ---
 title: pravapis2005.md 
 lang: en
+large_header: false
 ---
 
 

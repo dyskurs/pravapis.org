@@ -1,6 +1,7 @@
 ---
 title: articles/art_phrases1.md 
 lang: en
+large_header: false
 ---
 
 

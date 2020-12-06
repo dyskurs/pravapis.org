@@ -1,6 +1,7 @@
 ---
 title: articles/art_hebrew1.md 
 lang: be
+large_header: false
 ---
 
 

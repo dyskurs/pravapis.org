@@ -1,6 +1,7 @@
 ---
 title: articles/art_youth_rebellion.md 
 lang: en
+large_header: false
 ---
 
 

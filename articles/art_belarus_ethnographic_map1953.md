@@ -1,6 +1,7 @@
 ---
 title: articles/art_belarus_ethnographic_map1953.md 
 lang: en
+large_header: false
 ---
 
 

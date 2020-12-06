@@ -1,6 +1,7 @@
 ---
 title: articles/art_vera_rich_open_letter.md 
 lang: en
+large_header: false
 ---
 
 

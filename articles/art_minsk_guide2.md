@@ -1,6 +1,7 @@
 ---
 title: articles/art_minsk_guide2.md 
 lang: be
+large_header: false
 ---
 
 

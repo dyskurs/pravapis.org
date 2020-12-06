@@ -1,6 +1,7 @@
 ---
 title: sought_articles.md 
 lang: be
+large_header: false
 ---
 
 

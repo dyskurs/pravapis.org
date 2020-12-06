@@ -1,6 +1,7 @@
 ---
 title: articles/art_language2000.md 
 lang: be
+large_header: false
 ---
 
 

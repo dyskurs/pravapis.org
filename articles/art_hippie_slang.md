@@ -1,6 +1,7 @@
 ---
 title: articles/art_hippie_slang.md 
 lang: be
+large_header: false
 ---
 
 

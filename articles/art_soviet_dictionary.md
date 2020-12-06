@@ -1,6 +1,7 @@
 ---
 title: articles/art_soviet_dictionary.md 
 lang: be
+large_header: false
 ---
 
 

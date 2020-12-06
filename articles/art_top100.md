@@ -1,6 +1,7 @@
 ---
 title: articles/art_top100.md 
 lang: en
+large_header: false
 ---
 
 

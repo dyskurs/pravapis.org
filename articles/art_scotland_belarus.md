@@ -1,6 +1,7 @@
 ---
 title: articles/art_scotland_belarus.md 
 lang: en
+large_header: false
 ---
 
 

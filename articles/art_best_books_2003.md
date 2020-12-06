@@ -1,6 +1,7 @@
 ---
 title: articles/art_best_books_2003.md 
 lang: be
+large_header: false
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 title: articles/art_decline.md 
 lang: be
+large_header: false
 ---
 
 

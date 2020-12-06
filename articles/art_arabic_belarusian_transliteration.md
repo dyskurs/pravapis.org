@@ -1,6 +1,7 @@
 ---
 title: articles/art_arabic_belarusian_transliteration.md 
 lang: be
+large_header: false
 ---
 
 

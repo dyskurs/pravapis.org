@@ -1,6 +1,7 @@
 ---
 title: articles/art_soviet_nationalism.md 
 lang: en
+large_header: false
 ---
 
 

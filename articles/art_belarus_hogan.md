@@ -1,6 +1,7 @@
 ---
 title: articles/art_belarus_hogan.md 
 lang: en
+large_header: false
 ---
 
 

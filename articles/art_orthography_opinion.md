@@ -1,6 +1,7 @@
 ---
 title: articles/art_orthography_opinion.md 
 lang: en
+large_header: false
 ---
 
 

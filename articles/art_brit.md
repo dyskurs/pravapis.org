@@ -1,6 +1,7 @@
 ---
 title: articles/art_brit.md 
 lang: en
+large_header: false
 ---
 
 

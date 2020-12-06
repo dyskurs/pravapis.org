@@ -1,6 +1,7 @@
 ---
 title: articles/art_wilno_university.md 
 lang: be
+large_header: false
 ---
 
 

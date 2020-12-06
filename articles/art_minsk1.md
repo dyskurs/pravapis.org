@@ -1,6 +1,7 @@
 ---
 title: articles/art_minsk1.md 
 lang: be
+large_header: false
 ---
 
 

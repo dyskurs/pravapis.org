@@ -1,6 +1,7 @@
 ---
 title: articles/art_jan_stankevich2.md 
 lang: be
+large_header: false
 ---
 
 
