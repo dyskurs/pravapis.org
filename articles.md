@@ -13,7 +13,9 @@ lang: en
 |{{ article[lang] }}|{{ article[title] }}|{{ article[authors] }}|{{ article[date] }}|{{ article[linklink] }}|{{ article[description] }}|
 {% endfor %}
 
-
+{% for sdv in site.data.articles %}
+{{ sdv }}
+{% endfor %}
 
 
 Unstaged articles : 
