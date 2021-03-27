@@ -37,8 +37,8 @@ defaults:
       path: ""
     values:
       layout: page
-      background_image_path: /uploads/penguin.jpg
-      image: /uploads/penguin.jpg
+      background_image_path: /images/penguin.jpg
+      image: /images/penguin.jpg
   -
     scope:
       path: ""
