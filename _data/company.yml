@@ -9,6 +9,7 @@ en:
   archivertitle: Dyskurs·be
   archiverurl: "https://dyskurs.be"
   navanchor: па-беларуску
+  navanchorurl: index_be
   archivedby_text: Archived by
   subscribeRSS: Subscribe with RSS
 
@@ -23,5 +24,6 @@ be:
   archivertitle: Дыскурс·беларускі
   archiverurl: "https://dyskurs.be"
   navanchor: in English
+  navanchorurl: index
   archivedby_text: Архіў падрыхтаваны платформай
   subscribeRSS: Падпісацца на RSS
