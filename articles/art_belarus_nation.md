@@ -1,7 +1,16 @@
 ---
 lang: en
 large_header: false
-title: Belarus: real or fictitious nation?
+lang: en
+title: 'Belarus: real or fictitious nation?'
+authors: Ales Biely
+date: March 1st 2003
+linklink: '[art_belarus_nation.html](/articles/art_belarus_nation.html)'
+description: >-
+  This is probably the best summary of Belarus history that you can possibly
+  fit into 4-5 pages. It is a must-read for anybody interested in the history
+  of Belarus. The article is written by Ales Biely, the author of the book
+  "The Chronicle of Ruthenia Alba." 
 ---
 
 

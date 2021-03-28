@@ -1,7 +1,15 @@
 ---
 lang: be
 large_header: false
-title: Mobile Communication in Belarusian
+lang: be
+title: Мабільная сувязь па-беларуску
+authors: 'Сяргей Дубавец, Юлія Шарова'
+date: 4 кастрычніка 2003
+linklink: '[art_belarusian_mobile.html](/articles/art_belarusian_mobile.html)'
+description: >-
+  Гэты выпуск перадачы Сяргея Дубаўца "Вострая Брама" на радыё Свабода
+  прысьвечаны праблемам беларусізацыі мабільных тэлефонаў і мабільнай сувязі
+  наагул. Калі нашыя мабілкі загавораць па-беларуску?
 ---
 
 English summary: This article by Siarhiej Dubaviec is devoted to the social and business issues and problems related to Belarusian language usage in mobile communication. Currently there is virtually no support for Belarusian language in the mobile phones UI, and the service language of Belarusian mobile operators is Russian. The author explores the sociolinguistic problems associated with this and proposes ways to solve the problem, comparing it with software localization projects such as Google's Belarusian interface which was done by volunteers. Siarhiej Dubaviec does not discuss technical issues (such as support for specific Belarusian Cyrillic and Latin characters in the mobile devices) but, rather, focuses on social and management issues.

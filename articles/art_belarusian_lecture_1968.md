@@ -1,7 +1,18 @@
 ---
 lang: en
 large_header: false
-title: "1968: Grammatical Changes in Modern Literary Belarusian Language"
+lang: en
+title: Grammatical Changes in Modern Literary Belarusian
+authors: prof. de Bray
+date: December 5th 2003
+linklink: '[art_belarusian_lecture_1968.html](/articles/art_belarusian_lecture_1968.html)'
+description: >-
+  This is a public lecture given under the auspices of the Anglo-Byelorussian
+  Society in London on the 26th of January, 1968 by professor Reginald George
+  Arthur De Bray, devoted to changes in literary Belarusian after the Soviet
+  reform of 1933. A very interesting persepctive and a good introduction to
+  anyone who wants to know what are the key differences between the classical
+  and the Soviet orthography. 
 ---
 
 

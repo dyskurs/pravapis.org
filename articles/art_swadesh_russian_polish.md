@@ -1,7 +1,17 @@
 ---
 lang: en
 large_header: false
-title: "Swadesh List: Belarusian — Polish, Russian — Belarusian"
+lang: en
+title: 'Swadesh List: Belarusian - Polish, Russian - Belarusian'
+authors: U.K.
+date: March 16th 2005
+linklink: '[art_swadesh_russian_polish.html](/articles/art_swadesh_russian_polish.html)'
+description: >-
+  Our complition of the Swadesh list for Belarusian - Polish and Russian *  
+  Belarusian. The Swadesh lists are used to measure lexical similarity of the
+  languages and the approximate dates of the "divergence" of similar
+  languages. Our result is that Polish and Belarusian vocabulary is more
+  similar than Russian and Belarusian.
 ---
 
 

@@ -1,7 +1,18 @@
 ---
 lang: en
 large_header: false
-title: An Unclaimed Creative Potential or the Belarusians in the Bialystok Region as a Trilingual People
+lang: en
+title: Belarusians in the Bialystok Region as a Trilingual People
+authors: Jan Maksimiuk
+date: March 25th 2005
+linklink: '[art_belarusian_poland.html](/articles/art_belarusian_poland.html)'
+description: >-
+  Jan Maksimiuk, a translator of James Joyce's Ulysses into Belarusian, makes
+  a revolutionary proposal to elevate the Polish-Belarusian dialect of
+  Belarusians in Poland into a new literary language, which he tentatively
+  calls _Svoja_ language. The article is both a "manifest destiny" and a solid
+  theoretical explanation, why creating a new language makes perfect sense in
+  the current sociolinguistic situation in Eastern Poland. 
 ---
 
 <a href=»articles/art_belarusian_poland2.html»>this article in Belarusian</a>

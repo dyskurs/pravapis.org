@@ -1,7 +1,16 @@
 ---
 lang: en
 large_header: false
+lang: en
 title: The 21 Names of Belarus
+authors: Uladzimir Katkouski
+date: March 26th 2002
+linklink: '[art_belarus_name.html](/articles/art_belarus_name.html)'
+description: >-
+  Inspired by the misspellings of Britney Spears' first name on Google I
+  decided to find out how the name of our country is [mis-]spelled in the
+  cyberspace. I guess this sounds somewhat crazy, but that was my idea of
+  having fun on Belarus independence day...
 ---
 
 

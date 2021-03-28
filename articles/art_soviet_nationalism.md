@@ -1,7 +1,18 @@
 ---
 lang: en
 large_header: false
-title: "Dynko: Soviet Nationalism as Lukashenka's Strategy of Survival"
+lang: en
+title: Soviet Nationalism as Lukashenka's Strategy of Survival
+authors: Jan Maksymiuk
+date: December 10th 2003
+linklink: '[art_soviet_nationalism.html](/articles/art_soviet_nationalism.html)'
+description: >-
+  An interview with Andrey Dynko, editor-in-chief of the Minsk-based
+  Belarusian-language weekly "Nasha Niva," and chairman of Belarus's P.E.N.
+  Center. Dynko is a leading figure among those Belarusian intellectuals who
+  oppose the Russification and re-Sovietization policies pursued by the regime
+  of Belarusian President and stand for the development of Belarus's
+  indigenous culture and language. 
 ---
 
 

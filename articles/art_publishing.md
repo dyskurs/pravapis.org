@@ -1,7 +1,17 @@
 ---
 lang: en
 large_header: false
-title: Belarusian Language: Publishing or Perishing
+lang: en
+title: Publishing Or Perishing
+authors: Jan Maksymiuk
+date: June 11th 2003
+linklink: '[art_publishing.html](/articles/art_publishing.html)'
+description: >-
+  Publishing in Belarusian language: has anything changed since the Soviet
+  times? Or is it even worse than in the BSSR era? Will Belarusian suffer the
+  same fate as the Irish language in Ireland? Are there still enough
+  "Belarusian natives [who] still derive interest and amusement from the
+  artful use of their mother tongue"? 
 ---
 
 

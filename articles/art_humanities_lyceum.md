@@ -1,7 +1,18 @@
 ---
 lang: en
 large_header: false
-title: "Children on the streets: Belarusian Humanities Lyceum closed down"
+lang: en
+title: Belarusian Humanities Lyceum closed down
+authors: by Ihar Svabodzin
+date: September 11th 2003
+linklink: '[art_humanities_lyceum.html](/articles/art_humanities_lyceum.html)'
+description: >-
+  Unlike the other 90,000 students countrywide, these 141 high school students
+  in Minsk started the new academic year quite differently. Students of the
+  Belarusian Humanities Lyceum sat at their desks outdoors! The first day of
+  classes was held outside because the Lyceum was closed down by the
+  government, and the Lyceum building was blocked by the police and
+  construction workers. 
 ---
 
 

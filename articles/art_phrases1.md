@@ -1,7 +1,18 @@
 ---
 lang: en
 large_header: false
-title: Belarusian-Bulgarian-Russian-English Basic Phrases
+lang: en
+title: Belarusian-Bulgarian-Russian Basic Phrases
+authors: Uladzimir Katkouski
+date: May 9th 2002
+linklink: '[art_phrases1.html](/articles/art_phrases1.html)'
+description: >-
+  Miraculously preserved in the bottomless archives of the WWW, this is a
+  small collection of Belarusian, Bulgarian, Russian basic words and
+  expressions, containing about 3 x 100 = 300 words. Probably this
+  miniphrasebook is best place to start for a beginner just to get acquainted
+  with Belarusian, Bulgarian, Russian, also to observe the similarities and
+  the differences between them.
 ---
 
 

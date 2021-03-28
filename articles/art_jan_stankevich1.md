@@ -1,7 +1,14 @@
 ---
 lang: be
 large_header: false
-title: Янка «Спадар» Станкевіч
+lang: be
+title: >-
+  два інтэрвію з нагоды выхаду ў сьвет двухтамовага збору Янкі Станкевіча:
+  першае – зь
+authors: Аліса Бізяева
+date: 4 чэрвеня 2002
+linklink: '[art_jan_stankevich1.html](/articles/art_jan_stankevich1.html)'
+description: Юрасем Бушляковым
 ---
 
 

@@ -1,7 +1,15 @@
 ---
 lang: be
 large_header: false
+lang: be
 title: У Полацку будзе помнік Ў
+authors: Uladzimir Katkouski
+date: 6 жніўня 2003
+linklink: '[art_letter_monument.html](/articles/art_letter_monument.html)'
+description: >-
+  Полацкія гарадзкія ўлады вырашылі ўстанавіць у найстарэйшым месьце Беларусі
+  помнік у гонар літары Ў, гэтай унікальнай беларускай літары, якой няма ў
+  іншых мовах сьвету.
 ---
 
 

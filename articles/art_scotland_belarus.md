@@ -1,7 +1,15 @@
 ---
 lang: en
 large_header: false
-title: Auld Guid White Ruce (White Russia)
+lang: en
+title: '**Auld Guid White Ruce (Scotland & Belarus)'
+authors: '** Ales Biely'
+date: May 3rd 2003
+linklink: '[art_scotland_belarus.html](/articles/art_scotland_belarus.html)'
+description: >-
+  The amazing parallels between Scotland and Belarus history. Ales Biely tells
+  us an interesting story about Scots and our people of the Grand Duchy of
+  Lithuania. There are also some interesting linguistic parallels. 
 ---
 
 

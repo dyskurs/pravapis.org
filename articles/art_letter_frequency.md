@@ -1,7 +1,16 @@
 ---
 lang: be
 large_header: false
-title: Letter Frequency (Belarusian and Russian) 
+lang: be
+title: Частотнасьць літараў (беларуская і расейская мовы)
+authors: rydel n23
+date: 20 сьнежня 2002
+linklink: '[art_letter_frequency.html](/articles/art_letter_frequency.html)'
+description: >-
+  Для падліку частотнасьці я скарыстаў агулам 11 кніг: чатыры шырока вядомых
+  кнігі, напісаных "наркамаўкай"; пяць кніг, напісаных клясычным правапісам
+  (гэтак званай "тарашкевіцай"); дзьве кнігі па-расейску (пераклады двух
+  беларускіх раманаў)...
 ---
 
  

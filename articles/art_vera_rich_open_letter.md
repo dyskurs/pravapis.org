@@ -1,7 +1,14 @@
 ---
 lang: en
 large_header: false
-title: Vera Rich's Open Letter (UNESCO Belarusian Literature CD)
+lang: be
+title: Адкрыты ліст веры Рыч
+authors: Вера Рыч
+date: 2 ліпеня 2005
+linklink: '[art_vera_rich_open_letter.html](/articles/art_vera_rich_open_letter.html)'
+description: >-
+  Вядомая ангельская перакладчыца беларускай паэзіі Вера Рыч прыслала ліст пра
+  беларускую літаратурную праграму Маскоўскага офісу UNESCO.
 ---
 
 

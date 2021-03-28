@@ -1,7 +1,17 @@
 ---
 lang: en
 large_header: false
-title: Language, nationalism, and populism in Belarus
+lang: en
+title: 'Language, nationalism, and populism in Belarus'
+authors: Alexandra Goujon
+date: January 8th 2002
+linklink: '[art_goujon1.html](/articles/art_goujon1.html)'
+description: >-
+  Goujon discusses the politicization of language issues in Belarus and how it
+  has increasingly intensified since the progressive implementation of
+  Alaksandar Lukashenka's authoritarian type of rule. In this respect,
+  language is part of the "psychological" violence that exists in Belarusian
+  politics today.
 ---
 
 

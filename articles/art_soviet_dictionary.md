@@ -1,7 +1,18 @@
 ---
 lang: be
 large_header: false
-title: Беларуска-расійскі слоўнік Крапівы, 3-е выданне
+lang: be
+title: 'Беларуска-расейскі слоўнік Крапівы, 3-е выданьне'
+authors: Валянціна Аксак
+date: 24 студзеня 2004
+linklink: '[art_soviet_dictionary.html](/articles/art_soviet_dictionary.html)'
+description: >-
+  “Беларуска-рускі слоўнік. Рэдактар акадэмік АН Беларусі К.К. Атраховіч
+  (Кандрат Крапіва). Выданьне 3-е, папраўленае і дапоўненае. Пад рэдакцыяй
+  акадэміка НАН Беларусі А.І.Падлужнага”. Гэта "замацаваньне савецкасьці
+  беларускае мовы" — менавіта так ацэньваюць мовазнаўцы, навукоўцы і практыкі
+  новае перавыданьне беларуска-расейскага слоўніка, якое днямі зьявілася ў
+  кнігарнях краіны.
 ---
 
 English summary: According to the independent linguists the new 3<sup>rd</sup> edition of the Soviet Krapiva's Belarusian-Russian dictionary which came out in 2004 is virtually identical to the second edition (1989). The first edition came out back in 1962. For political reasons the third edition does not include such widespread, well-known words as «fatel» (armchair), «viecharyna» (party), «impreza» (organized event, party, performance). The word «spadar» (mister) is also not included into this Soviet dictionary. The official linguists of the Belarusian Academy of Sciences seem to be stuck in another era, 50 years ago.

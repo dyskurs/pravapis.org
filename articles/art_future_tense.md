@@ -1,7 +1,17 @@
 ---
 lang: be
 large_header: false
+lang: be
 title: Будучы час (Futur Imperfect) у беларускай мове
+authors: Czalex
+date: 3 жніўня 2003
+linklink: '[art_future_tense.html](/articles/art_future_tense.html)'
+description: >-
+  Сярод вялізнае беларускае моўнае Атлянтыды – усяго таго, што было у
+  беларускай мовы забаронена ці забыта – адным з сама малавядомых зьяўляецца
+  форма простага будучага часу дзеясловаў. З гэтага артыкула вы даведаецеся,
+  як правільна ўжываць гэтую спрадвечна беларускую форму дзеясловаў будучага
+  часу.
 ---
 
 <a href=»articles/art_future_tense2.html»>Versija bieł.łacinkaj</a>

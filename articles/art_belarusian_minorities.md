@@ -1,7 +1,15 @@
 ---
 lang: en
 large_header: false
-title: "Belarusian, German Minorities In Poland's Political Life In 1989-99: A Book Review"
+lang: en
+title: 'Belarusian, German Minorities In Poland''s Political Life'
+authors: A. Maksymiuk
+date: February 24th 2003
+linklink: '[art_belarusian_minorities.html](/articles/art_belarusian_minorities.html)'
+description: >-
+  Alastair Rabagliati's new book: "A Minority Vote. Participation of the
+  German and Belarusian Minorities Within the Polish Political System
+  1989-1999." A nice book review from "Niwa" senior editor. 
 ---
 
 

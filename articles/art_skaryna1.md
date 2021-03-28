@@ -1,7 +1,23 @@
 ---
 lang: en
 large_header: false
-title: Francis Skaryna, the first Belarusian printer and Bible scholar
+lang: en
+title: '**Francis Skaryna, the first Belarusian printer and Bible scholar**'
+authors: Alexander Nadson
+date: April 11th 2002
+linklink: '[art_skaryna1.html](/articles/art_skaryna1.html)'
+description: >-
+  The history of printing began with the appearance the famous Bible, printed
+  in 1456-58 in Mainz by Johann Gutenberg... ...the year 1506 saw the
+  publication of the Czech Bible, while the first Slavonic book in Cyrillic
+  script in Venice was printed in 1512. By coincidence, in the same year 1512,
+  only some twenty miles away, a young Belarusian scholar obtained a degree of
+  Doctor of Medicine at the University of Padua. His name was Francis Skaryna
+  who a few years later was destined to become the first Belarusian printer...
+  ...Skaryna was the first, not only in Belarus, but in Eastern Europe to use
+  the new invention of printing to bring the light of knowledge to his
+  people... ...At home in the West, in his native country he was perhaps ahead
+  of his time...
 ---
 
 

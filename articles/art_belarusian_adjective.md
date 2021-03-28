@@ -1,7 +1,16 @@
 ---
 lang: en
 large_header: false
-title: "Belarus: «Belarusian» and «Belarusan» the correct adjective forms"
+lang: en
+title: '**"Belarusian" and "Belarusan" the correct adjective forms**'
+authors: U.Katkouski
+date: February 3rd 2003
+linklink: '[art_belarusian_adjective.html](/articles/art_belarusian_adjective.html)'
+description: >-
+  ...Millions of English-speaking people know very little about this country
+  and its language, and usually one of the very first questions that arises
+  when people first encounter the name is: "What is the correct adjective
+  form, and how does one pronounce it?"... 
 ---
 
 

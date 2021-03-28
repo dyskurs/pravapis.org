@@ -1,7 +1,18 @@
 ---
 lang: en
 large_header: false
-title: Saying  *Nyet*  To Russian
+lang: en
+title: (see English summary at the bottom of the page)
+authors: '**Saying _Nyet_ To Russian** Eve Conant'
+date: June 28th 2002
+linklink: '[art_no_russian.html](/articles/art_no_russian.html)'
+description: >-
+  Hardly anyone these days has a good word for the language of the former
+  Soviet Union. Teenagers in Central Asia say they hate it; thousands have
+  taken to the streets of Moldova and Belarus to protest it; former Soviet
+  governments have deleted it from their mandatory-education programs, and
+  some countries, like Latvia, have passed discriminatory laws against those
+  who speak it... 
 ---
 
 ## Beyond the Motherland, the language is on the wane

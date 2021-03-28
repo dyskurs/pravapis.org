@@ -1,7 +1,16 @@
 ---
 lang: en
 large_header: false
-title: Art of Marc Chagall (Марк Шаґал)
+lang: en
+title: Marc Chagall Biography
+authors: compiled by Uladzimir Katkouski
+date: December 9th 2003
+linklink: '[art_chagall.html](/articles/art_chagall.html)'
+description: >-
+  Marc Chagall is a famous Belarusian-born French painter and designer who
+  grew up in a Jewisch family in Vitebsk, Belarus. Marc Chagall is recognized
+  as one of the most significant painters and graphic artists of the 20th
+  century. 
 ---
 
 

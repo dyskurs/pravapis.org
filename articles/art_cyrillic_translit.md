@@ -1,7 +1,15 @@
 ---
 lang: en
 large_header: false
-title: Slavic Cyrillic transliteration
+lang: en
+title: LOC Cyrillic Transliteration
+authors: ''
+date: May 9th 2002
+linklink: '[art_cyrillic_translit.html](/articles/art_cyrillic_translit.html)'
+description: >-
+  This is the Slavic Cyrillic transliteration for Belarusian, Bulgarian,
+  Macedonian, Russian, Serbian, Ukrainian used by the the Library of the U.S.
+  Congress (GIF image, around 75KB) .
 ---
 
 

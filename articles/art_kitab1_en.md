@@ -1,7 +1,18 @@
 ---
 lang: en
 large_header: false
-title: Kitabs, the unique highlight of the Belarusian language
+lang: en
+title: '**Kitabs, the unique highlight of the Belarusian language**'
+authors: Niesciarovich
+date: July 28th 2002
+linklink: '[art_kitab1_en.html](/articles/art_kitab1_en.html)'
+description: >-
+  Kitabs are the books written **in Belarusian language using Arabic script**.
+  They were written mostly in the 16th century by the Tatars that lived in
+  Belarus, the Grand Duchy of Lithuania, since 14-15th centuries and have
+  gradually forgotten their native language. In order to preserve their
+  religion they had to translate _Koran_ and other sacred Islamic books into
+  Belarusian language, but preserving the Arabic script... 
 ---
 
 

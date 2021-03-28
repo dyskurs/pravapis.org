@@ -1,7 +1,12 @@
 ---
 lang: be
 large_header: false
-title: "Ян Станкевіч у Менску: у двух тамох Збору твораў"
+lang: be
+title: і другое – з
+authors: Аліса Бізяева
+date: 4 чэрвеня 2002
+linklink: '[art_jan_stankevich2.html](/articles/art_jan_stankevich2.html)'
+description: Валерам Булгакавым
 ---
 
 

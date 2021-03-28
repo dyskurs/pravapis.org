@@ -1,7 +1,15 @@
 ---
 lang: en
 large_header: false
+lang: en
 title: Britannica Stumbling
+authors: Uladzimir Katkouski
+date: October 6th 2001
+linklink: '[art_brit.html](/articles/art_brit.html)'
+description: >-
+  Is it possible that the entry on Belarusian language in Britannica volume
+  hasn't got a single truthful piece of information about our language? Well,
+  that's what the author claims. Let's see if his claim is justified.
 ---
 
 

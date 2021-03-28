@@ -1,7 +1,15 @@
 ---
 lang: en
 large_header: false
+lang: en
 title: Introduction to Belarusian Latin Script
+authors: Mikola Paczakajeu
+date: September 30th 2001
+linklink: '[art_lac1.html](/articles/art_lac1.html)'
+description: >-
+  This is a wonderful introduction to **Lacinka** (Belarusian Latin Script) .
+  There is nothing like that on the 'Net. The Belarusian graduate student from
+  Cambridge, Mikola Paczakajeu, made a thorough overview of the subject.
 ---
 
 

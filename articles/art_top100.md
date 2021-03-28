@@ -1,7 +1,14 @@
 ---
 lang: en
 large_header: false
-title: The Forgotten Slang. The top 100
+lang: en
+title: The Forgotten Slang
+authors: 'U.Katkouski, L.Szatalava'
+date: September 29th 2001
+linklink: '[art_top100.html](/articles/art_top100.html)'
+description: >-
+  This is just a list of "top 100" Belarusian slang words that were collected
+  in Belarusian villages by Lubou Szatalava in the 70's. To be extended...
 ---
 
 

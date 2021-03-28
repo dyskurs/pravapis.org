@@ -1,7 +1,24 @@
 ---
 lang: en
 large_header: false
+lang: en
 title: Eliezer Ben-Yehuda and the Revival of Hebrew
+authors: Jack Fellman
+date: June 12th 2002
+linklink: '[art_benyehuda2.html](/articles/art_benyehuda2.html)'
+description: >-
+  In his pioneering work on language revivals and language revivers published
+  in 1966, the American linguist Einar Haugen wrote: "It appears to be almost
+  the rule that such movements can be traced back to a single devoted person,
+  who gave focus to the prevailing dissatisfactions of his people. Having
+  issued from the group whose language was neglected, such reformers often had
+  more than a purely intellectual motivation for establishing the existence of
+  their language. Theirs became one contribution to the general liberation of
+  the group, a medium of revolt and a symbol of unity." For the Hebrew
+  language revival, one of the truly outstanding socio-linguistic events of
+  modern times, this characterization is eminently true of Eliezer
+  Ben-Yehuda. 
+
 ---
 
 

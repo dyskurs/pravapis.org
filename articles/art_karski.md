@@ -1,7 +1,8 @@
 ---
 lang: en
 large_header: false
-title: Academician Jauchim Karski
+lang: en
+title: "Poems on Liberty\" Translator's Notes\tVera Rich\tNovember 12th 2004\t[art_rich_translators_notes.html](/articles/art_rich_translators_notes.html)\tThis article is a preface from the book \"Poems on Liberty. Reflections for Belarus,\" a bilinguial English-Belarusian collection of poems published by Radio Liberty in 2004, these are the translator's notes about difficulties and challenges in translating poetry from Belarusian into English. Could be interesting to all those who translate from Slavic languages. \nen\tAcademician Jauchim Karski\tArnold B. McMillin\tDecember 31st 2003\t[art_karski.html](/articles/art_karski.html)\tThis is an article from the 1968 issue of \"The Journal of Byelorussian Studies\" written by Arnold McMillin and devoted to Jauchim Karski: \"There can be no one involved in Belarusian affairs and, indeed, few scholars in the Slavonic field as a whole unfamiliar with at least the name of Jauchim Karski (1861-1931) who, championing the study of Belarus in the field of language, dialectology, literature, ethnography and palaeography, achieved more than all his predecessors and perhaps also all his successors put together."
 ---
 
 

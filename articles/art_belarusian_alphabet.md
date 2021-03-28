@@ -1,7 +1,15 @@
 ---
 lang: en
 large_header: false
-title: Introduction to Belarusian Alphabet
+lang: en
+title: Belarusian Alphabet
+authors: by Uladzimir Katkouski
+date: August 22nd 2003
+linklink: '[art_belarusian_alphabet.html](/articles/art_belarusian_alphabet.html)'
+description: >-
+  This is an introductory article which describes the peculiar features of the
+  Belarusian Cyrillics and Belarusian Lacinka (Latin Script) alphabets. The
+  article includes easy-to-read images for both alphabets.
 ---
 
 
