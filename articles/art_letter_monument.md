@@ -3,8 +3,8 @@ lang: be
 large_header: false
 lang: be
 title: У Полацку будзе помнік Ў
-authors: Uladzimir Katkouski
-date: 6 жніўня 2003
+author: Uladzimir Katkouski
+date: 2003-08-6
 linklink: '[art_letter_monument.html](/articles/art_letter_monument.html)'
 description: >-
   Полацкія гарадзкія ўлады вырашылі ўстанавіць у найстарэйшым месьце Беларусі

@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: en
 title: (see English summary at the bottom of the page)
-authors: '**Saying _Nyet_ To Russian** Eve Conant'
-date: June 28th 2002
+author: '**Saying _Nyet_ To Russian** Eve Conant'
+date: 2002-06-28
 linklink: '[art_no_russian.html](/articles/art_no_russian.html)'
 description: >-
   Hardly anyone these days has a good word for the language of the former

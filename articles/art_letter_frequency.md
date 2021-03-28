@@ -3,8 +3,8 @@ lang: be
 large_header: false
 lang: be
 title: Частотнасьць літараў (беларуская і расейская мовы)
-authors: rydel n23
-date: 20 сьнежня 2002
+author: rydel n23
+date: 2002-12-20
 linklink: '[art_letter_frequency.html](/articles/art_letter_frequency.html)'
 description: >-
   Для падліку частотнасьці я скарыстаў агулам 11 кніг: чатыры шырока вядомых

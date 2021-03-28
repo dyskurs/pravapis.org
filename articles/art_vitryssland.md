@@ -3,8 +3,8 @@ lang: be
 large_header: false
 lang: be
 title: Прафэсар Катлярчук з Стакгольму напісаў невялікі артыкул-камэнтар
-authors: ''
-date: 17 красавіка 2004
+author: ''
+date: 2004-04-17
 linklink: >-
   [articles_by.html#articles/art_vitryssland](/articles/art_vitryssland.html)
 description: >-

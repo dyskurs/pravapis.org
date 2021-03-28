@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: be
 title: 'Апытаньне Arche: клясычны правапіс і наркамаўка'
-authors: Алесь Пяткевіч
-date: 18 ліпеня 2003
+author: Алесь Пяткевіч
+date: 2003-07-18
 linklink: '[art_orthography_opinion.html](/articles/art_orthography_opinion.html)'
 description: >-
   Ці добра ўчынілі адраджэнцы канца 80-х, зрабіўшы выбар на карысьць

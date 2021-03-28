@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: en
 title: '**"Belarusian" and "Belarusan" the correct adjective forms**'
-authors: U.Katkouski
-date: February 3rd 2003
+author: U.Katkouski
+date: 2003-02-03
 linklink: '[art_belarusian_adjective.html](/articles/art_belarusian_adjective.html)'
 description: >-
   ...Millions of English-speaking people know very little about this country

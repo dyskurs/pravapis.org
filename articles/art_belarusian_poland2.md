@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: be
 title: Беларусы Беласточчыны як народ трохмоўны
-authors: Ян Максімюк
-date: 25 сакавіка 2005
+author: Ян Максімюк
+date: 2005-03-25
 linklink: '[art_belarusian_poland2.html](/articles/art_belarusian_poland2.html)'
 description: >-
   Ян Максімюк, перакладчык "Уліса" Джэймса Джойса на беларускую мову, робіць

@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: en
 title: Why is the Russia White?
-authors: Ales Biely
-date: March 3rd 2003
+author: Ales Biely
+date: 2003-03-03
 linklink: '[art_white_russia.html](/articles/art_white_russia.html)'
 description: >-
   This is a concise English summary of the book "The Chronicle of White

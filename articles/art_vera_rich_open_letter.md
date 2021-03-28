@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: be
 title: Адкрыты ліст веры Рыч
-authors: Вера Рыч
-date: 2 ліпеня 2005
+author: Вера Рыч
+date: 2005-07-2
 linklink: '[art_vera_rich_open_letter.html](/articles/art_vera_rich_open_letter.html)'
 description: >-
   Вядомая ангельская перакладчыца беларускай паэзіі Вера Рыч прыслала ліст пра

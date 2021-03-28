@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: en
 title: '**Auld Guid White Ruce (Scotland & Belarus)'
-authors: '** Ales Biely'
-date: May 3rd 2003
+author: '** Ales Biely'
+date: 2003-05-03
 linklink: '[art_scotland_belarus.html](/articles/art_scotland_belarus.html)'
 description: >-
   The amazing parallels between Scotland and Belarus history. Ales Biely tells

@@ -3,8 +3,8 @@ lang: be
 large_header: false
 lang: be
 title: Менск слэнгавы
-authors: Алеська
-date: 25 студзеня 2002
+author: Алеська
+date: 2002-01-25
 linklink: '[art_minsk1.html](/articles/art_minsk1.html)'
 description: >-
   Гэта артыкул нельга назваць навуковым, але я думаю ён будзе цікавы ўсім, хто

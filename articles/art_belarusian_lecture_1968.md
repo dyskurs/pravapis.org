@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: en
 title: Grammatical Changes in Modern Literary Belarusian
-authors: prof. de Bray
-date: December 5th 2003
+author: prof. de Bray
+date: 2003-12-05
 linklink: '[art_belarusian_lecture_1968.html](/articles/art_belarusian_lecture_1968.html)'
 description: >-
   This is a public lecture given under the auspices of the Anglo-Byelorussian

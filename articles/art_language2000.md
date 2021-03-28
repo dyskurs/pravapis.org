@@ -3,8 +3,8 @@ lang: be
 large_header: false
 lang: be
 title: Мова-2000
-authors: Сяргей Дубавец
-date: 2 траўня 2003
+author: Сяргей Дубавец
+date: 2003-05-2
 linklink: '[art_language2000.html](/articles/art_language2000.html)'
 description: >-
   Кампутарная і тэхнічная тэрміналёґія на беларускай мове. Што новага

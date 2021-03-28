@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: en
 title: 'Belarus: real or fictitious nation?'
-authors: Ales Biely
-date: March 1st 2003
+author: Ales Biely
+date: 2003-03-01
 linklink: '[art_belarus_nation.html](/articles/art_belarus_nation.html)'
 description: >-
   This is probably the best summary of Belarus history that you can possibly

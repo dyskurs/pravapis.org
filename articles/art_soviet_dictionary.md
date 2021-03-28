@@ -3,8 +3,8 @@ lang: be
 large_header: false
 lang: be
 title: 'Беларуска-расейскі слоўнік Крапівы, 3-е выданьне'
-authors: Валянціна Аксак
-date: 24 студзеня 2004
+author: Валянціна Аксак
+date: 2004-01-24
 linklink: '[art_soviet_dictionary.html](/articles/art_soviet_dictionary.html)'
 description: >-
   “Беларуска-рускі слоўнік. Рэдактар акадэмік АН Беларусі К.К. Атраховіч

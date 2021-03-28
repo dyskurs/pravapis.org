@@ -3,8 +3,8 @@ lang: be
 large_header: false
 lang: be
 title: \-у(ю) альбо -а(-я)
-authors: Уладзімір Каткоўскі
-date: 19 кастрычніка 2001
+author: Уладзімір Каткоўскі
+date: 2001-10-19
 linklink: '[art_rodny1.html](/articles/art_rodny1.html)'
 description: >-
   Канчатак назоўнікаў у родным склоне мужчынскага роду адзіночнага ліку.

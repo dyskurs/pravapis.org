@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: en
 title: Belarusians in the Bialystok Region as a Trilingual People
-authors: Jan Maksimiuk
-date: March 25th 2005
+author: Jan Maksimiuk
+date: 2005-03-25
 linklink: '[art_belarusian_poland.html](/articles/art_belarusian_poland.html)'
 description: >-
   Jan Maksimiuk, a translator of James Joyce's Ulysses into Belarusian, makes

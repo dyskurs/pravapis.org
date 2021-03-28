@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: en
 title: '**Kitabs, the unique highlight of the Belarusian language**'
-authors: Niesciarovich
-date: July 28th 2002
+author: Niesciarovich
+date: 2002-07-28
 linklink: '[art_kitab1_en.html](/articles/art_kitab1_en.html)'
 description: >-
   Kitabs are the books written **in Belarusian language using Arabic script**.

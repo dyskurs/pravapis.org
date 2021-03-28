@@ -3,8 +3,8 @@ lang: be
 large_header: false
 lang: be
 title: Інтэрвію з Уладзімірам Каткоўскім для газэты "Чалавек і Інтэрнэт"
-authors: Аліса Бізяева
-date: 4 чэрвеня 2002
+author: Аліса Бізяева
+date: 2002-06-4
 linklink: '[art_alice_interview.html](/articles/art_alice_interview.html)'
 description: >-
   На мінулым тыдні ў газэце "Чалавек і Інтэрнэт" было надрукаванае маё

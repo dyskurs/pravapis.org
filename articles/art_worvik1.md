@@ -3,8 +3,8 @@ lang: be
 large_header: false
 lang: be
 title: Пра сфэру ўжываньня мовы і варыянтнасьць
-authors: Worvik
-date: 8 сьнежня 2002
+author: Worvik
+date: 2002-12-08
 linklink: '[art_worvik1.html](/articles/art_worvik1.html)'
 description: >-
   Тое, што сёньня існуюць моўныя варыяцыі, сведчыць пра моўнае адраджэньне.

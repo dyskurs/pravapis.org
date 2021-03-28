@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: en
 title: Belarusian Alphabet
-authors: by Uladzimir Katkouski
-date: August 22nd 2003
+author: by Uladzimir Katkouski
+date: 2003-08-22
 linklink: '[art_belarusian_alphabet.html](/articles/art_belarusian_alphabet.html)'
 description: >-
   This is an introductory article which describes the peculiar features of the

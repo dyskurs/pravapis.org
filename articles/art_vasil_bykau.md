@@ -6,8 +6,8 @@ title: >-
   Yesterday evening I have received shocking and tragic news from Minsk. Vasil
   Bykau, one of the greatest modern writers of Belarus, has passed away.
   Please read this article –
-authors: ''
-date: June 23rd 2003
+author: ''
+date: 2003-06-23
 linklink: '[art_vasil_bykau.html](/articles/art_vasil_bykau.html)'
 description: Vasil Bykau
 ---

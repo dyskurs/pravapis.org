@@ -3,8 +3,8 @@ lang: be
 large_header: false
 lang: be
 title: Будучы час (Futur Imperfect) у беларускай мове
-authors: Czalex
-date: 3 жніўня 2003
+author: Czalex
+date: 2003-08-3
 linklink: '[art_future_tense.html](/articles/art_future_tense.html)'
 description: >-
   Сярод вялізнае беларускае моўнае Атлянтыды – усяго таго, што было у

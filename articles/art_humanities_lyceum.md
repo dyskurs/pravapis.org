@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: en
 title: Belarusian Humanities Lyceum closed down
-authors: by Ihar Svabodzin
-date: September 11th 2003
+author: by Ihar Svabodzin
+date: 2003-09-11
 linklink: '[art_humanities_lyceum.html](/articles/art_humanities_lyceum.html)'
 description: >-
   Unlike the other 90,000 students countrywide, these 141 high school students

@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: en
 title: Publishing Or Perishing
-authors: Jan Maksymiuk
-date: June 11th 2003
+author: Jan Maksymiuk
+date: 2003-06-11
 linklink: '[art_publishing.html](/articles/art_publishing.html)'
 description: >-
   Publishing in Belarusian language: has anything changed since the Soviet

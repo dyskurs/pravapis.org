@@ -3,8 +3,8 @@ lang: be
 large_header: false
 lang: be
 title: Клічны склон у беларускай мове
-authors: паводле А.І.Наркевіча
-date: 9 студзеня 2002
+author: паводле А.І.Наркевіча
+date: 2002-01-9
 linklink: '[art_vocative.html](/articles/art_vocative.html)'
 description: >-
   Нават афіцыёзная наркамаўка прызнавала існаваньне клічнага склону ў

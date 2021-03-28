@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: en
 title: Marc Chagall Biography
-authors: compiled by Uladzimir Katkouski
-date: December 9th 2003
+author: compiled by Uladzimir Katkouski
+date: 2003-12-09
 linklink: '[art_chagall.html](/articles/art_chagall.html)'
 description: >-
   Marc Chagall is a famous Belarusian-born French painter and designer who

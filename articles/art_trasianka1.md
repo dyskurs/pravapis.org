@@ -4,7 +4,7 @@ large_header: false
 lang: be
 title: Вазьму ўрокi трасянкi
 authors: Марына Куноўская
-date: 14 верасьня 2002
+date: 2002-09-14
 linklink: '[art_trasianka1.html](/articles/art_trasianka1.html)'
 description: >-
   На першы погляд, заяўлены запрос - сьмешны i ня варты ўвагi. Трасянка, так

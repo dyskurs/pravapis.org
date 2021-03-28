@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: en
 title: Belarusian-Bulgarian-Russian Basic Phrases
-authors: Uladzimir Katkouski
-date: May 9th 2002
+author: Uladzimir Katkouski
+date: 2002-05-09
 linklink: '[art_phrases1.html](/articles/art_phrases1.html)'
 description: >-
   Miraculously preserved in the bottomless archives of the WWW, this is a

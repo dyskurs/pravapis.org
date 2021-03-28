@@ -3,8 +3,8 @@ lang: be
 large_header: false
 lang: be
 title: Інбрыдынг у расейскай мове
-authors: 'С.Аляксандраў, П.Фадзееў'
-date: 19 кастрычніка 2001
+author: 'С.Аляксандраў, П.Фадзееў'
+date: 2001-10-19
 linklink: '[art_inbreeding.html](/articles/art_inbreeding.html)'
 description: >-
   Што такое інбрыдынг? Ці можна навучыць кампутар "думаць"? На якой мове? Чаму

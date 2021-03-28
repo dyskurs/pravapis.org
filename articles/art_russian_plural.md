@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: en
 title: Forming Plural Nominative in Russian and Belarusian
-authors: U. Katkouski
-date: December 8th 2003
+author: U. Katkouski
+date: 2003-12-08
 linklink: '[art_russian_plural.html](/articles/art_russian_plural.html)'
 description: >-
   A simple step-by-step explanation on how to form plural nominative in

@@ -3,8 +3,8 @@ lang: be
 large_header: false
 lang: be
 title: і другое – з
-authors: Аліса Бізяева
-date: 4 чэрвеня 2002
+author: Аліса Бізяева
+date: 2002-06-4
 linklink: '[art_jan_stankevich2.html](/articles/art_jan_stankevich2.html)'
 description: Валерам Булгакавым
 ---

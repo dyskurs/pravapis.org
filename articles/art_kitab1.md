@@ -3,8 +3,8 @@ lang: be
 large_header: false
 lang: be
 title: Кітабы
-authors: паводле В.І.Несьцяровіча
-date: 10 студзеня 2002
+author: паводле В.І.Несьцяровіча
+date: 2002-01-10
 linklink: '[art_kitab1.html](/articles/art_kitab1.html)'
 description: >-
   Кітабы — гэта ўнікальная зьява ў беларускай мове. Гэта кнігі напсіаныя на

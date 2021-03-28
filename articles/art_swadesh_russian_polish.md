@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: en
 title: 'Swadesh List: Belarusian - Polish, Russian - Belarusian'
-authors: U.K.
-date: March 16th 2005
+author: U.K.
+date: 2005-03-16
 linklink: '[art_swadesh_russian_polish.html](/articles/art_swadesh_russian_polish.html)'
 description: >-
   Our complition of the Swadesh list for Belarusian - Polish and Russian *  

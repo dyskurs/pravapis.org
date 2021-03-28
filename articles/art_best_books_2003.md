@@ -3,8 +3,8 @@ lang: be
 large_header: false
 lang: be
 title: Найлепшыя беларускія кнігі ў 2003 годзе
-authors: Адам Воршыч (NN)
-date: 31 сьнежня 2003
+author: Адам Воршыч (NN)
+date: 2003-12-31
 linklink: '[art_best_books_2003.html](/articles/art_best_books_2003.html)'
 description: >-
   Каб вызначыць найлепшыя кнігі году, рэдакцыя "Нашай Нівы" зьвярнулася да

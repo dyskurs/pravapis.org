@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: en
 title: LOC Cyrillic Transliteration
-authors: ''
-date: May 9th 2002
+author: ''
+date: 2002-05-09
 linklink: '[art_cyrillic_translit.html](/articles/art_cyrillic_translit.html)'
 description: >-
   This is the Slavic Cyrillic transliteration for Belarusian, Bulgarian,

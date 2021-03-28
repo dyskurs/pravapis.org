@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: en
 title: The Forgotten Slang
-authors: 'U.Katkouski, L.Szatalava'
-date: September 29th 2001
+author: 'U.Katkouski, L.Szatalava'
+date: 2001-09-29
 linklink: '[art_top100.html](/articles/art_top100.html)'
 description: >-
   This is just a list of "top 100" Belarusian slang words that were collected

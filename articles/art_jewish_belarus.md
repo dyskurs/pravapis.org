@@ -3,8 +3,8 @@ lang: be
 large_header: false
 lang: be
 title: Жыдоўскія рэлігійныя песьні па-беларуску
-authors: Др. Янка Станкевіч
-date: 22 кастрычніка 2002
+author: Др. Янка Станкевіч
+date: 2002-10-22
 linklink: '[art_jewish_belarus.html](/articles/art_jewish_belarus.html)'
 description: >-
   Невялікі артыкул з часапісу "Гадавік Беларускага Навуковага Таварыства ў

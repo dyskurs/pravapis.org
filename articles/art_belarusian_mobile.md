@@ -3,8 +3,8 @@ lang: be
 large_header: false
 lang: be
 title: Мабільная сувязь па-беларуску
-authors: 'Сяргей Дубавец, Юлія Шарова'
-date: 4 кастрычніка 2003
+author: 'Сяргей Дубавец, Юлія Шарова'
+date: 2003-10-4
 linklink: '[art_belarusian_mobile.html](/articles/art_belarusian_mobile.html)'
 description: >-
   Гэты выпуск перадачы Сяргея Дубаўца "Вострая Брама" на радыё Свабода

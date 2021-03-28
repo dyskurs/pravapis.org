@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: en
 title: '**The thief that stole a whole country** Uladzimir Katkouski'
-authors: ''
-date: 'May 18th, 2002'
+author: ''
+date: 2002-05-18
 linklink: '[art_belarus_hogan.html](/articles/art_belarus_hogan.html)'
 description: "Belarus\" by Lee Hogan. The only thing that this book has in common with the real country called Belarus is the title. That's it. Lee Hogan should've done her homework first. While reading the book I had the nagging thought that Lee Hogan is like a cyber squatter who steals someone else's Internet domain and exploits it in bad faith. Let me try to put the stolen jewel back where it belongs..."
 ---

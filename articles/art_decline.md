@@ -3,8 +3,8 @@ lang: be
 large_header: false
 lang: be
 title: Чаму заняпала старабеларуская
-authors: Алесь Белы
-date: 2 траўня 2002
+author: Алесь Белы
+date: 2002-05-2
 linklink: '[art_decline.html](/articles/art_decline.html)'
 description: >-
   У гэтым невялікім артыкуле Алесь Белы выказвае меркаваньне, чаму заняпала

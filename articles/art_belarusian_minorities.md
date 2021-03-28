@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: en
 title: 'Belarusian, German Minorities In Poland''s Political Life'
-authors: A. Maksymiuk
-date: February 24th 2003
+author: A. Maksymiuk
+date: 2003-02-24
 linklink: '[art_belarusian_minorities.html](/articles/art_belarusian_minorities.html)'
 description: >-
   Alastair Rabagliati's new book: "A Minority Vote. Participation of the

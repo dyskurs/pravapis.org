@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: en
 title: The 21 Names of Belarus
-authors: Uladzimir Katkouski
-date: March 26th 2002
+author: Uladzimir Katkouski
+date: 2002-03-26
 linklink: '[art_belarus_name.html](/articles/art_belarus_name.html)'
 description: >-
   Inspired by the misspellings of Britney Spears' first name on Google I

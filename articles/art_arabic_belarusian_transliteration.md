@@ -3,8 +3,8 @@ lang: be
 large_header: false
 lang: be
 title: Арабскі азначальны артыкль al-
-authors: Сяргей Шупа
-date: 5 жніўня 2005
+author: Сяргей Шупа
+date: 2005-08-5
 linklink: >-
   [art_arabic_belarusian_transliteration.html](/articles/art_arabic_belarusian_transliteration.html)
 description: >-

@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: en
 title: White Ruthenia Ethnographic Map
-authors: Dr. Janka Stankievic
-date: July 28th 2005
+author: Dr. Janka Stankievic
+date: 2005-07-28
 linklink: >-
   [art_belarus_ethnographic_map1953.html](/articles/art_belarus_ethnographic_map1953.html)
 description: "Ethnographical and Historical Territories and Boundaries of Whiteruthenia\" is a rare ethnographic map from the well-known 20th century Belarusan linguist and ethnography researcher Dr. Jan Stankievich that outlines the areal of Belarusian people based on linguistic features of the dialects. The map was published in New York in 1953, the scanned image can be found at the bottom of the page."

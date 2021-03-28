@@ -3,8 +3,8 @@ lang: be
 large_header: false
 lang: be
 title: Эліэзэр Бэн-Егуда й адраджэньне іўрыту
-authors: Джэк Фэлман
-date: 12 чэрвеня 2002
+author: Джэк Фэлман
+date: 2002-06-12
 linklink: '[art_hebrew1.html](/articles/art_hebrew1.html)'
 description: >-
   У сваёй наватарскай працы пра адраджэньне і адраджэнцаў моваў, выдадзенай у

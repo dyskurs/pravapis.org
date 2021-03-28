@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: en
 title: Soviet Nationalism as Lukashenka's Strategy of Survival
-authors: Jan Maksymiuk
-date: December 10th 2003
+author: Jan Maksymiuk
+date: 2003-12-10
 linklink: '[art_soviet_nationalism.html](/articles/art_soviet_nationalism.html)'
 description: >-
   An interview with Andrey Dynko, editor-in-chief of the Minsk-based

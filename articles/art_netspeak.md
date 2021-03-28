@@ -3,8 +3,8 @@ lang: be
 large_header: false
 lang: be
 title: Жывая мова беларускага сеціва
-authors: Rydel N23
-date: 25 сакавіка 2002
+author: Rydel N23
+date: 2002-03-25
 linklink: '[art_netspeak.html](/articles/art_netspeak.html)'
 description: >-
   Вядома, што на расейскіх чатах мова вельмі далёкая ад пушкінскай ці

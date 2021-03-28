@@ -3,8 +3,8 @@ lang: en
 large_header: false
 lang: en
 title: Eliezer Ben-Yehuda and the Revival of Hebrew
-authors: Jack Fellman
-date: June 12th 2002
+author: Jack Fellman
+date: 2002-06-12
 linklink: '[art_benyehuda2.html](/articles/art_benyehuda2.html)'
 description: >-
   In his pioneering work on language revivals and language revivers published
