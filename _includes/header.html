@@ -1,6 +1,6 @@
 		<header style="background-image: url('{% include relative-src.html src=page.background_image_path %}');" {% if page.large_header %}class="main-hero"{% endif %}>
 			<div class="container">
-				<h1><a href="{{ site.baseurl }}/">{{ site.data.company[page.lang].title }}</a></h1>
+				<h1><a href="{{ site.url }}/">{{ site.data.company[page.lang].title }}</a></h1>
 				<nav>
 					<ul>
 						{% assign nav_pages = site.html_pages | where: 'lang', page.lang | where: 'show_in_navigation', true | sort: 'navigation_order' %}
