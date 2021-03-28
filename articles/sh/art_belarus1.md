@@ -3,6 +3,7 @@ lang: en
 large_header: false
 title: "Belarus: Belarusian history links a dismal present to a more encouraging past"
 date: 2015-06-08
+ifsh: sh
 ---
 
 Belarus's election. Archive 13.09.2001. From <strong>The Economist</strong> print edition

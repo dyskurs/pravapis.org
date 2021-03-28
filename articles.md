@@ -8,9 +8,9 @@ navigation_order: 2
 lang: en
 ---
 
-{% for article in site.pages %}
+{% for article in site.pages %}{% unless article.ifsh = "sh" %}
 [{{ article.title }}]({{ article.url }}), *{{ article.authors }}*, {{ article.date }}
-{% endfor %}
+{% endunless %}{% endfor %}
 
 
 Unstaged articles : 

@@ -8,9 +8,9 @@ navigation_order: 2
 lang: be
 ---
 
-{% for article in site.pages %}
-[{{ article.title }}]({{ article.url }}), *{{ article.author }}*, {{ article.date }}
-{% endfor %}
+{% for article in site.pages %}{% unless article.ifsh = "sh" %}
+[{{ article.title }}]({{ article.url }}), *{{ article.authors }}*, {{ article.date }}
+{% endunless %}{% endfor %}
 
 
 
