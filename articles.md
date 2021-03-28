@@ -9,7 +9,7 @@ lang: en
 ---
 
 {% for article in site.pages %}
-|{{ article.title }}|{{ article.authors }}|{{ article.date }}|{{ article.url }}|
+[{{ article.title }}]({{ article.url }}), *{{ article.authors }}*, {{ article.date }}
 {% endfor %}
 
 

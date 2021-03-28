@@ -8,9 +8,8 @@ navigation_order: 2
 lang: be
 ---
 
-|||||||
 {% for article in site.pages %}
-|{{ article.title }}|{{ article.authors }}|{{ article.date }}|{{ article.url }}|
+[{{ article.title }}]({{ article.url }}), *{{ article.authors }}*, {{ article.date }}
 {% endfor %}
 
 
