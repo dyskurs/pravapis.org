@@ -2,12 +2,13 @@
 lang: be
 large_header: false
 title: Фенечка [Belarusian Hippie Slang]
+author: Адам Глобус
 ---
 
 
 Кароткі слоўнік менскіх хіпі і панкаў канца 70-х і пачатку 80-х гадоў,
 
-скаладзены Адамам Глёбусам
+скаладзены Адамам Глобусам
 
 <img src=»hippie03.jpg» width=»150» height=»250» alt=»Belarusian hyppy (cute long-haired girl). (C) IREX Fotoservis, Minsk, Belarus» /> АДЦЯГН<strong>У</strong>ЦЦА – злавіць кайф, адпачыць – Пайшлі да Крыпі, адцягнемся.
 

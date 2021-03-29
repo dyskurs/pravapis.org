@@ -2,19 +2,15 @@
 lang: en
 large_header: false
 lang: en
-title: '**The thief that stole a whole country** Uladzimir Katkouski'
-author: ''
+title: 'The thief that stole a whole country'
+author: Uladzimir Katkoŭski
 date: 2002-05-18
 linklink: '[art_belarus_hogan.html](/articles/art_belarus_hogan.html)'
-description: "Belarus\" by Lee Hogan. The only thing that this book has in common with the real country called Belarus is the title. That's it. Lee Hogan should've done her homework first. While reading the book I had the nagging thought that Lee Hogan is like a cyber squatter who steals someone else's Internet domain and exploits it in bad faith. Let me try to put the stolen jewel back where it belongs..."
+description: «Belarus» by Lee Hogan. The only thing that this book has in common with the real country called Belarus is the title. That's it. Lee Hogan should've done her homework first. While reading the book I had the nagging thought that Lee Hogan is like a cyber squatter who steals someone else's Internet domain and exploits it in bad faith. Let me try to put the stolen jewel back where it belongs..."
 ---
 
 
-The thief that stole a whole country
-
-Uladzimir Katkouski
-
-<a href=»http://www.amazon.com/exec/obidos/ASIN/0451458680/belarusianlan-20»><img src=»belarus_hogan1.jpg» width=»289» height=»475» alt=»Belarus by Lee Hogan, book cover» /></a>The only thing that this book has in common with the real country called Belarus is the title. That's it. Lee Hogan should've done her homework first. While reading the book I had the nagging thought that Lee Hogan is like a cyber squatter who steals someone else's Internet domain and exploits it in bad faith. Let me try to put the stolen jewel back where it belongs...
+<a href="http://www.amazon.com/exec/obidos/ASIN/0451458680/belarusianlan-20"><img src="belarus_hogan1.jpg" width="289" height="475" alt="Belarus by Lee Hogan, book cover" /></a>The only thing that this book has in common with the real country called Belarus is the title. That's it. Lee Hogan should've done her homework first. While reading the book I had the nagging thought that Lee Hogan is like a cyber squatter who steals someone else's Internet domain and exploits it in bad faith. Let me try to put the stolen jewel back where it belongs...
 
 «Hogan delivers an exotic once and future Russia,» I read on the cover of the paperback edition. It is clear from the outset that when Hogan writes «Belarus» she actually means «the new Russia» (in the remote future). This is the most painful misconception of the book.
 
@@ -32,13 +28,11 @@ Although Western culture, book printing and new technological advances historica
 
 - In 1863 the Russians crushed an anti-Russian uprising, hanged and shot tens of thousands of Belarusians.
 
-- In 1918 they occupied the independent Belarus National Republic.
-
-- In 1935-38 they killed hundreds of the best poets, writers, artists, politicians and historians in Belarus for being «too nationalistic», many thousands were sent to Siberia.
+<!--- In 1918 they occupied the independent Belarus National Republic.- In 1935-38 they killed hundreds of the best poets, writers, artists, politicians and historians in Belarus for being «too nationalistic», many thousands were sent to Siberia.-->
 
 Calling «the new Russia» by the name Belarus is simply offensive.
 
-Is this just an example of the blatant disregard for world geography and history from which Americans suffer? Perhaps for her next book she should consider one of these titles: «Yugoslavia, the new Albania «; «Palestine, the new Israel»; «Greece, the new Turkey» or even «America, the new Cuba.»
+Is this just an example of the blatant disregard for world geography and history from which Americans suffer? Perhaps for her next book she should consider one of these titles: «Yugoslavia, the new Albania»; «Palestine, the new Israel»; «Greece, the new Turkey» or even «America, the new Cuba.»
 
 Just how correct is it for my 10 million compatriots to be put back into Russia because Lee Hogan could not be bothered to open a history book?
 
@@ -58,5 +52,5 @@ There was only one part in the book which I truly enjoyed. It's a short chapter 
 
 At the end of the book I finally found one reference that links this book with the real Belarus. The second most important character in the book is a mysterious B.Y. who turns out to be a Baba Yaga wizard. The acronym BY crops up frequently. I found it amusing that the country domain for Belarus is also «.by». But I wonder if Lee Hogan has a clue about that?
 
-P.S. Great thanks to <a href=»mailto:jdingley@ssees.ac.uk?Subject=Lee%20Hogan%20Belarus»>Jim Dingley</a> for editing this article!
+P.S. Great thanks to <a href="mailto:jdingley@ssees.ac.uk?Subject=Lee%20Hogan%20Belarus">Jim Dingley</a> for editing this article!
 

@@ -3,7 +3,7 @@ lang: en
 large_header: false
 lang: en
 title: Grammatical Changes in Modern Literary Belarusian
-author: prof. de Bray
+author: Professor R. G. A. de Bray
 date: 2003-12-05
 linklink: '[art_belarusian_lecture_1968.html](/articles/art_belarusian_lecture_1968.html)'
 description: >-
@@ -16,7 +16,7 @@ description: >-
 ---
 
 
-Professor R. G. A. de Bray
+
 
  *A public lecture given under the auspices of the Anglo-Byelorussian Society in London on the 26<sup>th</sup> of January, 1968.* 
 

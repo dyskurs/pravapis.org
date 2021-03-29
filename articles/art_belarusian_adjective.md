@@ -3,7 +3,7 @@ lang: en
 large_header: false
 lang: en
 title: '**"Belarusian" and "Belarusan" the correct adjective forms**'
-author: U.Katkouski
+author: Uladzimir Katkoŭski
 date: 2003-02-03
 linklink: '[art_belarusian_adjective.html](/articles/art_belarusian_adjective.html)'
 description: >-
@@ -14,7 +14,7 @@ description: >-
 ---
 
 
-Uladzimir Katkouski
+
 
 Yes, there is a country called Belarus somewhere on the outskirts of Europe. Millions of English-speaking people know very little about this country and its language, and usually one of the very first questions that arises when people first encounter the name is: «What is the correct adjective form, and how does one pronounce it?»
 

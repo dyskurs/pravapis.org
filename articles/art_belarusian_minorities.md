@@ -3,7 +3,7 @@ lang: en
 large_header: false
 lang: en
 title: 'Belarusian, German Minorities In Poland''s Political Life'
-author: A. Maksymiuk
+author: Aleksander Maksymiuk
 date: 2003-02-24
 linklink: '[art_belarusian_minorities.html](/articles/art_belarusian_minorities.html)'
 description: >-
@@ -13,7 +13,7 @@ description: >-
 ---
 
 
-Aleksander Maksymiuk
+
 
 Alastair Rabagliati. <strong>A Minority Vote. Participation of the German and Belarusian Minorities Within the Polish Political System 1989-1999,</strong> Zaklad Wydawniczy Nomos, Krakow 2001, 408 pp.
 
