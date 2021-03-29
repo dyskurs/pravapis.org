@@ -8,7 +8,7 @@ navigation_order: 1
 lang: en
 ---
 
-Pravapis·org was a private Internet project with the objective to put together various resources about the Belarusian language, to aimed at linguists and philologists interested in the Belarusian language. This is an archived version of Pravapis·org.
+Pravapis·org was a private Internet project with the objective to put together various resources about the Belarusian language, aimed at linguists and philologists interested in the Belarusian language. This is an archived version of Pravapis·org.
 
 [the list of topics for articles](/articles/sought_articles.html)
 
