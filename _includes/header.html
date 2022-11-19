@@ -1,12 +1,11 @@
+<a href="{{ site.url }}/{{site.data.homepage[page.lang]}}">
 <header style="background-image: url('{{ site.defaults[0].values.background_image_path }}');">
 <div class="container">
-<h1><a href="{{ site.url }}/">{{ site.data.terms[page.lang].title }}</a></h1>
+<h1>{{ site.data.terms[page.lang].title }}</h1>
 <nav><ul>
-{% assign nav_pages = site.html_pages | where: 'lang', page.lang | where: 'show_in_navigation', true | sort: 'navigation_order' %}
-{% for nav_page in nav_pages %}
-<li><a {% if nav_page.url == page.url %}class="active"{% endif %} href="{{ site.baseurl }}{{ nav_page.url }}">{{ nav_page.title }}</a></li>
-{% endfor %}
-<li><a href="{{ site.baseurl }}{{ site.data.terms[page.lang].navanchorurl }}" style="background-color: #3a4145;box-shadow: inset 0 1px 10px rgba(0,0,0,0.3), 0 1px 0 rgba(255,255,255,0.1), 0 -1px 0 rgba(0,0,0,0.5);border-radius: 5px;color: azure;padding: 7px;">{{ site.data.terms[page.lang].navanchor }}</a></li>
+{% if page.int %}
+<li><a href="{{ site.baseurl }}{{ page.int }}" >{{ site.data.terms[page.lang].navanchor }}</a></li>{% endif %}
 </ul></nav>
 </div>
 </header>
+</a>

@@ -2,6 +2,7 @@
 lang: be
 title: Budučy čas (Futur Imperfekt) u biełaruskaj movie.
 authors: [Алесь Чайчыц]
+date: 2003-08-03
 ---
 
 <a href=»articles/art_future_tense.html»>Versija kirylicaj</a>

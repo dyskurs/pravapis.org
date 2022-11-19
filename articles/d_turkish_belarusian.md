@@ -1,6 +1,8 @@
 ---
 lang: en
 title: Turkish-Belarusian Phrasebook of 1836 // Турэцка-беларускі размоўнік 1836 г.
+authors: [Siarhiej Šupa]
+date: 2002-12-02
 ---
 
  
@@ -11,6 +13,11 @@ Here is an excerpt from the introduction:
 «This phrasebook is perhaps the most distinguished of all known artifacts of Belarusian Tatars written in Belarusian language using Arabic alphabet. Among dozens of religious books written by our Tatars (kitabs, tefsirs, khamails and the like) this manuscript is the only work of different nature, a kind of phrasebook and a dictionary, which gives it significance beyond the circles of the religious Belarusian Tatar community. This dictionary contains about 1000 words in each language (Turkish and Belarusian), and it can be considered one of the first lexicographical works in the history of modern Belarusian. This phrasebook is particularly important since it was written in times when publishing and writing in Belarusian in the Russian Empire was prohibited, and even when books were somehow published, it was usually folklore records. Unlike those books, where Belarusian word was merely an object of romantic meditation, this phrasebook had a well-defined function and pragmatic value for Belarusian speakers, serving as a bridge to other cultures and as a tool to broaden reader's horizons.»
 
 **Free download: [Turkish-Belarusian Phrasebook of 1836 // Türkçe-Belarusça Kilavuz Yil = 1836 (Acrobat PDF file, 3.03 MB, 63 pages, 300 DPI B&W)](turkish_belarusian.pdf)**
+
+[Turkish-Belarusian Phrasebook of 1836](/articles/d_turkish_belarusian) (Türkçe-Belarusça Kilavuz Yil = 1836), S. Shupa (compiler, transliterator), New York, 1995. *December 2nd, 2002*
+
+[**Турэцка-беларускі размоўнік 1836 г.** (Türkçe-Belarusça Kilavuz Yil = 1836)](/articles/d_turkish_belarusian.html). Пад рэд. С. Шупы, 1995, Нью-Ёрк, *2 снежня, 2002*
+
 
 * * *
 

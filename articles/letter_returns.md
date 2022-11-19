@@ -1,13 +1,14 @@
 ---
 lang: be
-title: The Letter Is Back!
+title: Вяртанне літары!
+authors: [В. Мухін, А. Дубіна]
 ---
 
 <a href=»#»>раздрукаваць
 
 </a><a href=»#english»>English summary</a>
 
-Вяртанне літары!
+
 
 Паводле артыкулаў В.Мухіна і А.Дубіны
 

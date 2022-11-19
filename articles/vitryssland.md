@@ -1,6 +1,6 @@
 ---
 lang: be
-title: Прафэсар Катлярчук з Стакгольму напісаў невялікі артыкул-камэнтар
+title: "Vitryssland: беларуская мова ў Швецыі"
 authors: [Андрэй Катлярчук]
 date: 2004-04-17
 description: >-
@@ -10,6 +10,8 @@ description: >-
 ---
 
 English: <strong>Vitryssland</strong> is the Swedish word for Belarus which in a word-by-word translation means «White Russia.» Recently, a Swedish journalist wrote in a serious newspaper that «Vitryssland» is «Russia in winter». ... Just like in some other Germanic languages, Swedish has this problem with how they call Belarus, they use a misleading term which leads to misunderstanding. But the author, professor Andrej Katliarčuk from Stockholm, says that the problem also lies with Belarus itself. He says most of our official websites have only English and Russian versions and that makes an impression as if Belarus is indeed just some province of Russia. He mentions that some Swedish tourists mistakenly took Russian visas in order to go to Belarus. Professor Andrej Katliarčuk says that there needs to be more exposure to Belarusian language and Belarusian culture in Europe. He compares the situation with the Ukrainian language and notes, sadly, that Belarusian is the only Slavic language which is not taught in Swedish universities.
+
+Прафэсар Катлярчук з Стакгольму напісаў невялікі артыкул-камэнтар
 
 Андрэй Катлярчук, Стакгольм
 

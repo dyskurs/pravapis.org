@@ -1,7 +1,7 @@
 ---
 lang: be
 title: Minsk Guide 1930
-authors: [Uladzimir Katkoŭski]
+authors: [Уладзімір Каткоўскі]
 ---
 
 <br />

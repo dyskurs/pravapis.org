@@ -1,6 +1,6 @@
 ---
 lang: en
-title: '**Kitabs, the unique highlight of the Belarusian language**'
+title: 'Kitabs, the unique highlight of the Belarusian language'
 authors: [Viktar Nieściarovič]
 date: 2002-07-28
 description: >-
@@ -10,6 +10,7 @@ description: >-
   gradually forgotten their native language. In order to preserve their
   religion they had to translate _Koran_ and other sacred Islamic books into
   Belarusian language, but preserving the Arabic script... 
+int: /articles/kitab1
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: '**Francis Skaryna, the first Belarusian printer and Bible scholar**'
+title: 'Francis Skaryna, the first Belarusian printer and Bible scholar'
 authors: [Alexander Nadson]
 date: 2002-04-11
 description: >-

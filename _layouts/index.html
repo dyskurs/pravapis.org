@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+{{content}}
+
+{% assign list = "" | split: ',' %}
+{% assign site_pages_lang = site.pages  | where: "lang", page.lang %}
+{% for article in site_pages_lang  %}
+{% for author in article.authors %}
+{% unless list contains author %}{% assign list = list | push: author %}{% endunless %} 
+{% endfor %}
+{% endfor %}
+
+{% for author in list %}
+<h3>{{author}}</h3>
+{% for article in site_pages_lang %}{% if article.authors contains author %}{% if article.url contains "done" %}<p>✅ {% endif %}<a href="{{article.url}}">{{article.title}}</a> <em>{{article.authors | join: ", "}}</em> <small style="color:grey"><em>{{article.date}}</em></small></p>{% endif %}
+
+
+{% endfor %}
+{% endfor %}

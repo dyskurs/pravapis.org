@@ -1,6 +1,8 @@
 ---
 lang: be
 title: Спадарожнік па Менску 1930 г. [Minsk Guide]
+authors: [Уладзімір Каткоўскі]
+date: 1930-06-11
 ---
 
 <a href=»articles/art_minsk_guide2.html»>English summary</a>

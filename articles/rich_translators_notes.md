@@ -1,6 +1,11 @@
 ---
 lang: en
 title: «Poems on Liberty. Reflections for Belarus»
+date: 2003-10-25
+authors: [Vera Rich]
+description: >-
+  This article is a preface from the book "Poems on Liberty. Reflections for Belarus," a bilinguial English-Belarusian collection of poems published in 2004, these are the translator's notes about difficulties and challenges in translating poetry from Belarusian into English. Could be interesting to all those who translate from Slavic languages.
+int: /articles/vera_rich_open_letter
 ---
 
 

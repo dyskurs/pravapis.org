@@ -1,6 +1,8 @@
 ---
 lang: en
+authors: [Uladzimir Katkoŭski]
 title: var Germany = «the White Holland»; // Belarus = ???
+date: 2002-11-26
 ---
 
 

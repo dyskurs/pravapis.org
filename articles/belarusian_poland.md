@@ -10,6 +10,7 @@ description: >-
   calls _Svoja_ language. The article is both a "manifest destiny" and a solid
   theoretical explanation, why creating a new language makes perfect sense in
   the current sociolinguistic situation in Eastern Poland. 
+int: /articles/belarusian_poland2
 ---
 
 <a href=»articles/art_belarusian_poland2.html»>this article in Belarusian</a>

@@ -73,7 +73,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-datapage-generator
 
 exclude:
   - Gemfile

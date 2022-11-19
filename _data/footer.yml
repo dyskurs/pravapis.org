@@ -1,6 +1,8 @@
 en:
   - title: Pages
     items:
+    - content: "[About Pravapis·org](/articles/done/about)"
+    - content: "[Articles in Belarusian](/index_be)"
   - title: Letters
     items:
     - content: Belarusan Latin letters
@@ -9,6 +11,8 @@ en:
 be:
   - title: Старонкі 
     items:
+    - content: "[Пра сайт Правапіс·org](/articles/done/Пра-сайт)"
+    - content: "[Артыкулы па-англійску](/)"
   - title: Літары
     items:
     - content: Літары беларускай лацінкі

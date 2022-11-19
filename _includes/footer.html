@@ -8,7 +8,7 @@
 							</li>
 							{% for item in column.items %}
 								<li>
-									{{ item.content }}
+									{{ item.content | markdownify }}
 								</li>
 							{% endfor %}
 						</ul>

@@ -15,7 +15,7 @@ description: >-
   language revival, one of the truly outstanding socio-linguistic events of
   modern times, this characterization is eminently true of Eliezer
   Ben-Yehuda. 
-
+int: /articles/hebrew1
 ---
 
 
