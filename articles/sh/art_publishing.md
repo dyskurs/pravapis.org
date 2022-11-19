@@ -1,11 +1,9 @@
 ---
 lang: en
-large_header: false
 lang: en
 title: Publishing Or Perishing
-author: Jan Maksymiuk
+authors: [Jan Maksymiuk]
 date: 2003-06-11
-linklink: '[art_publishing.html](/articles/art_publishing.html)'
 description: >-
   Publishing in Belarusian language: has anything changed since the Postmodern Era?
   How do "Belarusian natives [still] derive interest and amusement from the

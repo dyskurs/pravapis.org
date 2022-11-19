@@ -1,6 +1,5 @@
 ---
 lang: be
-large_header: false
 title: Тэмы артыкулаў // Prospective Topics
 ---
 

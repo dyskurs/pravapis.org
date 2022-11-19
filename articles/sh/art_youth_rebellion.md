@@ -1,6 +1,5 @@
 ---
 lang: en
-large_header: false
 title: «Youth keeps the spark of emotivity»
 ifsh: sh
 date: 2015-09-09

@@ -1,20 +1,4 @@
 <ul class="staff-list">
-	{% for member in page.authors %}
-		<li class="staff">
-			<div class="staff-details">
-				<div class="staff-image">
-					<img src="{{ site.staff_members[member].image }}" alt="Staff photo for {{ site.staff_members[member].name }}" width="120" height="120">
-				</div>
-				<ul class="staff-info">
-					<li>{{ site.staff_members[member].name }}</li>
-					<li><small>{{ site.staff_members[member].credentials }}</small></li>
-					<li><a href="tel:{{ site.data.company.contact_phone_number }}">{{ site.data.company.contact_phone_number }}</a>  ext {{ site.staff_members[member].phone_extension }}</li>
-				</ul>
-			</div>
-
-			<div class="staff-bio">
-				<p>{{ site.staff_members[member].content | markdownify }}</p>
-			</div>
-		</li>
-	{% endfor %}
-</ul>
+<li class="staff"><div class="staff-details">
+<ul class="staff-info"><li><small>{{ include.text }}</small></li></ul></div>
+</li></ul>

@@ -9,5 +9,8 @@ layout: default
 {% endif %}
 
 <article class="content">
+	<strong>{{ page.authors | join: ", "}}</strong>, <small style="color:gray">{{ page.date }}</small>
 	{{ content }}
+	{% assign author_date = page.authors | join: ", " %}
+	{% include authors.html text=author_date%}
 </article>

@@ -16,18 +16,18 @@
 
 					<ul class="footer-links">
 						<li>
-							<h2>{{ site.data.company[page.lang].title }}</h2>
+							<h2>{{ site.data.terms[page.lang].title }}</h2>
 						</li>
-						<li>{{ site.data.company[page.lang].description | markdownify }}</li>
-						<li><a href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %}{{ site.data.company[page.lang].subscribeRSS }}</a></li>
+						<li>{{ site.data.terms[page.lang].description | markdownify }}</li>
+						<li><a href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %}{{ site.data.terms[page.lang].subscribeRSS }}</a></li>
 					</ul>
 				</div>
 			</div>
 
 			<div class="legal-line">
 				<p class="container">
-					&copy; {{ site.data.company[page.lang].time | date: '%Y' }} {{ site.data.company[page.lang].title }} &bull;
-					{{ site.data.company[page.lang].archivedby_text }} <a href="{{ site.data.company[page.lang].archiverurl }}" target="_blank">{{ site.data.company[page.lang].archivertitle }}</a>
+					&copy; {{ site.data.terms[page.lang].time | date: '%Y' }} {{ site.data.terms[page.lang].title }} &bull;
+					{{ site.data.terms[page.lang].archivedby_text }} <a href="{{ site.data.terms[page.lang].archiverurl }}" target="_blank">{{ site.data.terms[page.lang].archivertitle }}</a>
 				</p>
 			</div>
 		</footer>

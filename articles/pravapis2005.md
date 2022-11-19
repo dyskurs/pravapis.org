@@ -1,6 +1,5 @@
 ---
 lang: en
-large_header: false
 title: Беларускі «класічны« правапіс» (2005)
 ---
 

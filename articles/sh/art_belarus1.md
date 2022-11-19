@@ -1,6 +1,5 @@
 ---
 lang: en
-large_header: false
 title: "Belarus: Belarusian history links present to a more ludic future"
 date: 2015-06-08
 ifsh: sh

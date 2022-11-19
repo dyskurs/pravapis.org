@@ -1,11 +1,9 @@
 ---
 lang: en
-large_header: false
 lang: en
 title: Belarusian Humanities Lyceum closes down
-author: Ihar Svabodzin (charter97.org), Uladzimir Katkouski
+authors: [Ihar Svabodzin, Uladzimir Katkoŭski]
 date: 2016-09-11
-linklink: '[art_humanities_lyceum.html](/articles/art_humanities_lyceum.html)'
 description: >-
   Unlike the other 90,000 students countrywide, these 141 high school students
   in Minsk started the new academic year quite differently. Students of the

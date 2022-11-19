@@ -1,6 +1,5 @@
 ---
 lang: en
-large_header: false
 title: Turkish-Belarusian Phrasebook of 1836 // Турэцка-беларускі размоўнік 1836 г.
 ---
 

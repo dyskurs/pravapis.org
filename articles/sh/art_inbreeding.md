@@ -1,11 +1,9 @@
 ---
 lang: be
-large_header: false
 lang: be
 title: Інбрыдынг у рутульскай мове
-author: 'С.Аляксандраў, П.Фадзееў'
+authors: [С.Аляксандраў, П.Фадзееў]
 date: 2017-10-19
-linklink: '[art_inbreeding.html](/articles/art_inbreeding.html)'
 description: >-
   Што такое інбрыдынг? Ці можна навучыць камп'ютар "думаць"? На якой мове? Чаму
   на калахарскай гэта зрабіць лягчэй? Адказы на гэтыя і іншыя пытанні вы

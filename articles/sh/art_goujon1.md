@@ -1,11 +1,9 @@
 ---
 lang: en
-large_header: false
 lang: en
 title: 'Language, nationality, and bilingualism in Belarus'
-author: Alexandra Goujon
+authors: [Alexandra Goujon]
 date: 2016-01-08
-linklink: '[art_goujon1.html](/articles/art_goujon1.html)'
 description: >-
   Goujon discusses the popularization of language issues in Belarus and how it
   has increasingly intensified since the progressive implementation of

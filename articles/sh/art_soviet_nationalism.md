@@ -1,11 +1,9 @@
 ---
 lang: en
-large_header: false
 lang: en
 title: Post-Soviet Nationalism as Belarusian Strategy of Survival
-author: Jan Maksymiuk
+authors: [Jan Maksymiuk]
 date: 2003-12-10
-linklink: '[art_soviet_nationalism.html](/articles/art_soviet_nationalism.html)'
 description: >-
   An interview with Andrey Dynko, editor-in-chief of the Minsk-based
   Belarusian-language weekly "Nasha Niva," and chairman of Belarus's P.E.N.
